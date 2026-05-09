@@ -104,17 +104,27 @@ export const productPrices = pgTable(
 
 export const orders = pgTable("orders", {
   id: text("id").primaryKey(),
+  orderReference: text("order_reference").notNull().unique(),
+  customerAccessToken: text("customer_access_token").notNull().unique(),
   customerEmail: text("customer_email").notNull(),
   businessName: text("business_name").notNull(),
   contactName: text("contact_name").notNull(),
+  customerPhone: text("customer_phone").notNull().default(""),
+  customerNotes: text("customer_notes").notNull().default(""),
   status: orderStatus("status").notNull().default("draft"),
+  fulfillmentStage: text("fulfillment_stage").notNull().default("order_received"),
   stripeCheckoutSessionId: text("stripe_checkout_session_id"),
   stripePaymentIntentId: text("stripe_payment_intent_id"),
   artworkUrl: text("artwork_url").notNull(),
+  requestedFulfillmentDate: text("requested_fulfillment_date"),
+  trackingNumber: text("tracking_number"),
+  trackingUrl: text("tracking_url"),
   subtotalPence: integer("subtotal_pence").notNull(),
   setupFeePence: integer("setup_fee_pence").notNull().default(0),
   totalPence: integer("total_pence").notNull(),
   currency: text("currency").notNull().default("gbp"),
+  lastCustomerActivityAt: timestamp("last_customer_activity_at", { withTimezone: true }),
+  lastArtworkUploadAt: timestamp("last_artwork_upload_at", { withTimezone: true }),
   createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
   updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
 });
@@ -134,6 +144,44 @@ export const orderItems = pgTable("order_items", {
   configurationSnapshot: jsonb("configuration_snapshot").$type<Record<string, unknown>>().notNull(),
 });
 
+export const orderArtworkFiles = pgTable("order_artwork_files", {
+  id: text("id").primaryKey(),
+  orderId: text("order_id")
+    .notNull()
+    .references(() => orders.id, { onDelete: "cascade" }),
+  fileName: text("file_name").notNull(),
+  fileUrl: text("file_url").notNull(),
+  contentType: text("content_type").notNull(),
+  sizeBytes: integer("size_bytes").notNull(),
+  kind: text("kind").notNull().default("supporting"),
+  uploadedBy: text("uploaded_by").notNull().default("customer"),
+  createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+});
+
+export const orderMessages = pgTable("order_messages", {
+  id: text("id").primaryKey(),
+  orderId: text("order_id")
+    .notNull()
+    .references(() => orders.id, { onDelete: "cascade" }),
+  sender: text("sender").notNull(),
+  body: text("body").notNull(),
+  visibleToCustomer: boolean("visible_to_customer").notNull().default(true),
+  createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+});
+
+export const orderEvents = pgTable("order_events", {
+  id: text("id").primaryKey(),
+  orderId: text("order_id")
+    .notNull()
+    .references(() => orders.id, { onDelete: "cascade" }),
+  eventType: text("event_type").notNull(),
+  title: text("title").notNull(),
+  detail: text("detail"),
+  metadata: jsonb("metadata").$type<Record<string, unknown>>(),
+  visibleToCustomer: boolean("visible_to_customer").notNull().default(true),
+  createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+});
+
 export const productPricesRelations = relations(productPrices, ({ one }) => ({
   coffeeProduct: one(coffeeProducts, {
     fields: [productPrices.coffeeProductId],
@@ -151,11 +199,35 @@ export const productPricesRelations = relations(productPrices, ({ one }) => ({
 
 export const ordersRelations = relations(orders, ({ many }) => ({
   items: many(orderItems),
+  artworkFiles: many(orderArtworkFiles),
+  messages: many(orderMessages),
+  events: many(orderEvents),
 }));
 
 export const orderItemsRelations = relations(orderItems, ({ one }) => ({
   order: one(orders, {
     fields: [orderItems.orderId],
+    references: [orders.id],
+  }),
+}));
+
+export const orderArtworkFilesRelations = relations(orderArtworkFiles, ({ one }) => ({
+  order: one(orders, {
+    fields: [orderArtworkFiles.orderId],
+    references: [orders.id],
+  }),
+}));
+
+export const orderMessagesRelations = relations(orderMessages, ({ one }) => ({
+  order: one(orders, {
+    fields: [orderMessages.orderId],
+    references: [orders.id],
+  }),
+}));
+
+export const orderEventsRelations = relations(orderEvents, ({ one }) => ({
+  order: one(orders, {
+    fields: [orderEvents.orderId],
     references: [orders.id],
   }),
 }));

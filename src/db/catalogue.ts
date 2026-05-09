@@ -2,6 +2,10 @@ import { asc, eq } from "drizzle-orm";
 
 import { fallbackCatalogue, type Catalogue, type CoffeeProduct } from "./catalogue-data";
 import { getDb, hasDatabaseUrl } from "./index";
+export {
+  getBestPrice,
+  getMinimumUnitPricePenceForCoffee,
+} from "@/src/lib/catalogue-pricing";
 import {
   bagOptions,
   bagSizes,
@@ -34,26 +38,6 @@ export async function getCatalogue(): Promise<Catalogue> {
   }
 }
 
-export function getBestPrice(
-  catalogue: Catalogue,
-  selection: {
-    coffeeProductId: string;
-    bagOptionId: string;
-    bagSizeId: string;
-    quantity: number;
-  }
-) {
-  return catalogue.prices
-    .filter(
-      (price) =>
-        price.coffeeProductId === selection.coffeeProductId &&
-        price.bagOptionId === selection.bagOptionId &&
-        price.bagSizeId === selection.bagSizeId &&
-        price.minQuantity <= selection.quantity
-    )
-    .sort((a, b) => b.minQuantity - a.minQuantity)[0];
-}
-
 export function getCoffeeBySlug(catalogue: Catalogue, slugOrId: string): CoffeeProduct | null {
   return (
     catalogue.coffees.find((coffee) => coffee.slug === slugOrId || coffee.id === slugOrId) ?? null
@@ -62,16 +46,4 @@ export function getCoffeeBySlug(catalogue: Catalogue, slugOrId: string): CoffeeP
 
 export function getCoffeesInShopCategory(catalogue: Catalogue, categorySlug: string) {
   return catalogue.coffees.filter((coffee) => coffee.shopCategorySlug === categorySlug);
-}
-
-export function getMinimumUnitPricePenceForCoffee(catalogue: Catalogue, coffeeProductId: string) {
-  const amounts = catalogue.prices
-    .filter((price) => price.coffeeProductId === coffeeProductId)
-    .map((price) => price.unitAmountPence);
-
-  if (!amounts.length) {
-    return null;
-  }
-
-  return Math.min(...amounts);
 }

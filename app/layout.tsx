@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
+import { CartProvider } from "@/components/cart/cart-provider";
 import { SiteHeader } from "@/components/site-header";
 
 const geistSans = Geist({
@@ -15,9 +16,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MyRoaster | White-label coffee for your business",
+  title: "myroaster | White-label coffee ordering",
   description:
-    "Configure white-label coffee bags for cafes, restaurants, hotels, offices, and retail shelves.",
+    "Order 1kg trade bags and 250g retail coffee bags with your logo, label, grind, and quantity configured around your brand.",
 };
 
 export default function RootLayout({
@@ -31,8 +32,10 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full bg-background text-foreground">
-        <SiteHeader />
-        {children}
+        <CartProvider>
+          <SiteHeader />
+          {children}
+        </CartProvider>
       </body>
     </html>
   );

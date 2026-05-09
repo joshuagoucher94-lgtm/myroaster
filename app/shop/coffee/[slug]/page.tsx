@@ -1,12 +1,12 @@
-import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import type { ReactNode } from "react";
+import { Check, ShieldCheck, Truck } from "lucide-react";
 
-import { Badge } from "@/components/ui/badge";
+import { ProductCustomizer } from "@/components/product/product-customizer";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Separator } from "@/components/ui/separator";
 import { getCatalogue, getCoffeeBySlug, getMinimumUnitPricePenceForCoffee } from "@/src/db/catalogue";
 import { formatMoney } from "@/src/db/catalogue-data";
 import { getShopCategory } from "@/src/lib/shop-categories";
@@ -21,11 +21,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const coffee = getCoffeeBySlug(catalogue, slug);
 
   if (!coffee) {
-    return { title: "Coffee | MyRoaster" };
+    return { title: "Coffee | myroaster" };
   }
 
   return {
-    title: `${coffee.name} | MyRoaster`,
+    title: `${coffee.name} | myroaster`,
     description: coffee.description,
   };
 }
@@ -43,9 +43,9 @@ export default async function CoffeeProductPage({ params }: Props) {
   const fromPrice = getMinimumUnitPricePenceForCoffee(catalogue, coffee.id);
 
   return (
-    <main className="min-h-screen bg-muted/30 pb-20">
-      <div className="border-b bg-background">
-        <div className="mx-auto max-w-7xl space-y-4 px-6 py-8">
+    <main className="min-h-screen pb-20">
+      <section className="border-b border-border/60 bg-background/80">
+        <div className="section-shell py-8 sm:py-10">
           <div className="flex flex-wrap gap-2 text-sm text-muted-foreground">
             <Link href="/shop" className="hover:text-foreground hover:underline">
               Shop
@@ -53,10 +53,7 @@ export default async function CoffeeProductPage({ params }: Props) {
             {category ? (
               <>
                 <span aria-hidden="true">/</span>
-                <Link
-                  href={`/shop/category/${category.slug}`}
-                  className="hover:text-foreground hover:underline"
-                >
+                <Link href={`/shop/category/${category.slug}`} className="hover:text-foreground hover:underline">
                   {category.name}
                 </Link>
               </>
@@ -64,79 +61,91 @@ export default async function CoffeeProductPage({ params }: Props) {
             <span aria-hidden="true">/</span>
             <span className="text-foreground">{coffee.name}</span>
           </div>
-          <div className="flex flex-wrap gap-2">
-            <Badge>{coffee.roastLevel}</Badge>
-            <Badge variant="outline">{coffee.originType}</Badge>
-          </div>
-          <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">{coffee.name}</h1>
-          <p className="max-w-3xl text-lg text-muted-foreground">{coffee.subtitle}</p>
-          <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-            <Button size="lg" asChild>
-              <Link href={`/configure?coffee=${encodeURIComponent(coffee.slug)}`}>
-                Configure white-label bags with this coffee
-              </Link>
-            </Button>
-            <Button size="lg" variant="outline" asChild>
-              <Link href="/shop">Back to shop</Link>
-            </Button>
-          </div>
         </div>
-      </div>
+      </section>
 
-      <div className="mx-auto grid max-w-7xl gap-10 px-6 py-10 lg:grid-cols-[1fr_1.05fr]">
-        <Card className="overflow-hidden">
-          <div className="relative aspect-square bg-muted">
-            <Image
-              src={coffee.heroImagePath}
-              alt={coffee.name}
-              fill
-              className="object-contain p-10"
-              priority
-              sizes="(max-width: 1024px) 100vw, 50vw"
-            />
-          </div>
+      <section id="customize" className="section-shell scroll-mt-24 py-8 sm:py-10">
+        <ProductCustomizer catalogue={catalogue} coffee={coffee} />
+      </section>
+
+      <section className="section-shell grid gap-6 pb-10 lg:grid-cols-[minmax(0,1.25fr)_minmax(18rem,0.75fr)]">
+        <div className="grid gap-6">
+          <InfoCard title="Product description" body={coffee.description} />
+          <InfoCard title="Tasting notes" body={coffee.tastingNotes.join(" · ")} />
+          <InfoCard
+            title="What you’re ordering"
+            body="Choose either 1kg trade bags for service or 250g retail bags for shelves, gifting, and grab-and-go sales. Every order includes bag selection, grind choice, label placement, and optional logo upload."
+          />
+        </div>
+        <Card className="soft-panel-sm rounded-[1.5rem]">
+          <CardContent className="space-y-5 p-5">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-muted-foreground">
+                Buying info
+              </p>
+              <h2 className="mt-2 text-xl font-semibold tracking-tight">Why it feels familiar</h2>
+            </div>
+            <div className="space-y-4 text-sm">
+              <FeatureRow
+                icon={<Check className="size-4" />}
+                title="Standard product flow"
+                body="Gallery first, core product details at the top, then all supporting information below."
+              />
+              <FeatureRow
+                icon={<Truck className="size-4" />}
+                title="Tiered delivery pricing"
+                body="Larger trade and retail tiers move into delivered pricing automatically."
+              />
+              <FeatureRow
+                icon={<ShieldCheck className="size-4" />}
+                title="Brand-safe setup"
+                body="Template label options work without artwork, or upload your logo when you’re ready."
+              />
+            </div>
+            <div className="rounded-2xl border border-border/70 bg-background/70 p-4">
+              <p className="text-sm text-muted-foreground">Starting from</p>
+              <p className="mt-1 text-2xl font-semibold tracking-tight">
+                {fromPrice != null ? formatMoney(fromPrice) : "On request"}
+              </p>
+              <p className="mt-1 text-xs text-muted-foreground">Unit pricing updates based on bag, size, and tier.</p>
+            </div>
+            <Button variant="outline" asChild className="w-full">
+              <Link href="/shop">Back to all products</Link>
+            </Button>
+          </CardContent>
         </Card>
-
-        <div className="space-y-6">
-          <Card>
-            <CardContent className="space-y-4 p-6">
-              <div className="flex flex-wrap items-baseline justify-between gap-4">
-                <div>
-                  <p className="text-sm text-muted-foreground">From</p>
-                  <p className="text-3xl font-semibold">
-                    {fromPrice != null ? formatMoney(fromPrice) : "On request"}
-                  </p>
-                  <p className="text-sm text-muted-foreground">per bag before VAT · MOQ tiers apply</p>
-                </div>
-                <Button asChild>
-                  <Link href={`/configure?coffee=${encodeURIComponent(coffee.slug)}`}>Start order</Link>
-                </Button>
-              </div>
-              <Separator />
-              <p className="leading-7 text-muted-foreground">{coffee.description}</p>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardContent className="space-y-4 p-6">
-              <h2 className="text-lg font-semibold">Tasting notes</h2>
-              <div className="flex flex-wrap gap-2">
-                {coffee.tastingNotes.map((note) => (
-                  <Badge key={note} variant="secondary">
-                    {note}
-                  </Badge>
-                ))}
-              </div>
-              <Separator />
-              <ul className="list-inside list-disc space-y-2 text-sm text-muted-foreground">
-                <li>Roast level: {coffee.roastLevel}</li>
-                <li>Product slug: {coffee.slug}</li>
-                <li>Internal SKU id: {coffee.id}</li>
-              </ul>
-            </CardContent>
-          </Card>
-        </div>
-      </div>
+      </section>
     </main>
+  );
+}
+
+function InfoCard({ title, body }: { title: string; body: string }) {
+  return (
+    <Card className="soft-panel-sm rounded-[1.5rem]">
+      <CardContent className="p-5">
+        <h2 className="font-semibold">{title}</h2>
+        <p className="mt-2 text-sm leading-6 text-muted-foreground">{body}</p>
+      </CardContent>
+    </Card>
+  );
+}
+
+function FeatureRow({
+  icon,
+  title,
+  body,
+}: {
+  icon: ReactNode;
+  title: string;
+  body: string;
+}) {
+  return (
+    <div className="flex gap-3">
+      <span className="soft-inset flex size-9 shrink-0 items-center justify-center rounded-full">{icon}</span>
+      <div>
+        <h3 className="font-medium">{title}</h3>
+        <p className="mt-1 leading-6 text-muted-foreground">{body}</p>
+      </div>
+    </div>
   );
 }

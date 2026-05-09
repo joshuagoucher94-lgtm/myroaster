@@ -4,6 +4,7 @@ import Stripe from "stripe";
 
 import { getDb, hasDatabaseUrl } from "@/src/db";
 import { orders } from "@/src/db/schema";
+import { recordOrderEvent } from "@/src/lib/orders";
 
 export async function POST(request: Request) {
   if (!process.env.STRIPE_SECRET_KEY || !process.env.STRIPE_WEBHOOK_SECRET) {
@@ -39,12 +40,22 @@ export async function POST(request: Request) {
         .update(orders)
         .set({
           status: "paid",
+          fulfillmentStage: "artwork_review",
           stripeCheckoutSessionId: session.id,
           stripePaymentIntentId:
             typeof session.payment_intent === "string" ? session.payment_intent : session.payment_intent?.id ?? null,
           updatedAt: new Date(),
         })
         .where(eq(orders.id, orderId));
+      await recordOrderEvent({
+        orderId,
+        eventType: "payment_received",
+        title: "Payment received",
+        detail: "Payment cleared successfully. Your artwork is ready for review.",
+        metadata: {
+          stripeCheckoutSessionId: session.id,
+        },
+      });
     }
   }
 

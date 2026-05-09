@@ -26,9 +26,9 @@ export default async function ShopCategoryPage({ params }: Props) {
   const coffees = getCoffeesInShopCategory(catalogue, slug);
 
   return (
-    <main className="min-h-screen bg-muted/30 pb-20">
-      <div className="border-b bg-background">
-        <div className="mx-auto max-w-7xl space-y-4 px-6 py-10">
+    <main className="min-h-screen pb-20">
+      <div className="border-b border-border/60">
+        <div className="section-shell space-y-4 py-10">
           <div className="flex flex-wrap gap-2 text-sm text-muted-foreground">
             <Link href="/shop" className="hover:text-foreground hover:underline">
               Shop
@@ -36,7 +36,7 @@ export default async function ShopCategoryPage({ params }: Props) {
             <span aria-hidden="true">/</span>
             <span className="text-foreground">{category.name}</span>
           </div>
-          <h1 className="text-3xl font-semibold tracking-tight">{category.name}</h1>
+          <h1 className="text-4xl font-semibold tracking-tight">{category.name}</h1>
           <p className="max-w-2xl text-muted-foreground">{category.description}</p>
           <Button variant="outline" asChild>
             <Link href="/shop">All categories</Link>
@@ -44,7 +44,7 @@ export default async function ShopCategoryPage({ params }: Props) {
         </div>
       </div>
 
-      <div className="mx-auto max-w-7xl px-6 pt-10">
+      <div className="section-shell pt-10">
         {coffees.length === 0 ? (
           <p className="text-muted-foreground">No coffees in this category yet.</p>
         ) : (

@@ -3,8 +3,14 @@ import { NextResponse } from "next/server";
 import Stripe from "stripe";
 
 import { hasDatabaseUrl, getDb } from "@/src/db";
-import { orderItems, orders } from "@/src/db/schema";
+import { orderArtworkFiles, orderItems, orders } from "@/src/db/schema";
 import { checkoutSchema, createOrderId, createOrderItemId, priceConfiguration } from "@/src/lib/configurator";
+import {
+  createCustomerAccessToken,
+  createOrderArtworkId,
+  createOrderReference,
+  recordOrderEvent,
+} from "@/src/lib/orders";
 
 export async function POST(request: Request) {
   const parsed = checkoutSchema.safeParse(await request.json());
@@ -18,12 +24,16 @@ export async function POST(request: Request) {
     const priced = await priceConfiguration(input);
     const orderId = createOrderId();
     const orderItemId = createOrderItemId();
+    const orderReference = createOrderReference();
+    const customerAccessToken = createCustomerAccessToken();
     const appUrl = process.env.NEXT_PUBLIC_APP_URL ?? new URL(request.url).origin;
 
     if (hasDatabaseUrl()) {
       const db = getDb();
       await db.insert(orders).values({
         id: orderId,
+        orderReference,
+        customerAccessToken,
         customerEmail: input.customerEmail,
         businessName: input.businessName,
         contactName: input.contactName,
@@ -51,6 +61,26 @@ export async function POST(request: Request) {
           label: priced.label,
           grind: priced.grind,
           artworkUrl: input.artworkUrl,
+        },
+      });
+      await db.insert(orderArtworkFiles).values({
+        id: createOrderArtworkId(),
+        orderId,
+        fileName: input.artworkUrl.split("/").pop() ?? "artwork",
+        fileUrl: input.artworkUrl,
+        contentType: "application/octet-stream",
+        sizeBytes: 0,
+        kind: "primary",
+        uploadedBy: "customer",
+      });
+      await recordOrderEvent({
+        orderId,
+        eventType: "order_created",
+        title: "Order created",
+        detail: "We captured your order details and are waiting for payment confirmation.",
+        metadata: {
+          quantity: input.quantity,
+          customerEmail: input.customerEmail,
         },
       });
     }
@@ -111,6 +141,13 @@ export async function POST(request: Request) {
         .update(orders)
         .set({ stripeCheckoutSessionId: session.id, updatedAt: new Date() })
         .where(eq(orders.id, orderId));
+      await recordOrderEvent({
+        orderId,
+        eventType: "checkout_started",
+        title: "Checkout started",
+        detail: "A payment session was opened for this order.",
+        metadata: { stripeCheckoutSessionId: session.id },
+      });
     }
 
     return NextResponse.json({ url: session.url, orderId });

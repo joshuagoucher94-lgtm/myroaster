@@ -8,7 +8,7 @@ export const checkoutSchema = z.object({
   bagSizeId: z.string().min(1),
   labelOptionId: z.string().min(1),
   grindOptionId: z.string().min(1),
-  quantity: z.coerce.number().int().min(25).max(1000),
+  quantity: z.coerce.number().int().min(1).max(1000),
   artworkUrl: z.string().min(1),
   businessName: z.string().min(2).max(120),
   contactName: z.string().min(2).max(120),

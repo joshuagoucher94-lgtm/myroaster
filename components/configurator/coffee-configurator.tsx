@@ -20,8 +20,8 @@ import {
 import { Separator } from "@/components/ui/separator";
 import { Slider } from "@/components/ui/slider";
 import { Textarea } from "@/components/ui/textarea";
-import { getBestPrice } from "@/src/db/catalogue";
 import { type Catalogue, formatMoney } from "@/src/db/catalogue-data";
+import { getBestPrice } from "@/src/lib/catalogue-pricing";
 
 type Props = {
   catalogue: Catalogue;

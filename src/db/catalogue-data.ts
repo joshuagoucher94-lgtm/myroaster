@@ -302,25 +302,47 @@ export const fallbackCatalogue: Catalogue = {
 
 fallbackCatalogue.prices = fallbackCatalogue.coffees.flatMap((coffee, coffeeIndex) =>
   fallbackCatalogue.bags.flatMap((bag, bagIndex) =>
-    fallbackCatalogue.sizes.flatMap((size, sizeIndex) =>
-      [25, 50, 100].map((minQuantity, tierIndex) => {
-        const baseBySize = [820, 1460, 2550][sizeIndex] ?? 820;
-        const coffeePremium = coffeeIndex * 35;
-        const bagPremium = bagIndex * 20;
-        const tierDiscount = tierIndex * 45;
+    fallbackCatalogue.sizes.flatMap((size, sizeIndex) => {
+      const formatTiers =
+        size.slug === "1kg"
+          ? [
+              { minQuantity: 1, unitAmountPence: 2800 },
+              { minQuantity: 3, unitAmountPence: 2400 },
+              { minQuantity: 6, unitAmountPence: 2100 },
+              { minQuantity: 12, unitAmountPence: 1800 },
+              { minQuantity: 24, unitAmountPence: 1700 },
+            ]
+          : size.slug === "250g"
+            ? [
+                { minQuantity: 12, unitAmountPence: 725 },
+                { minQuantity: 24, unitAmountPence: 650 },
+                { minQuantity: 48, unitAmountPence: 600 },
+                { minQuantity: 96, unitAmountPence: 550 },
+                { minQuantity: 192, unitAmountPence: 500 },
+              ]
+            : [25, 50, 100].map((minQuantity, tierIndex) => {
+                const baseBySize = [820, 1460, 2550][sizeIndex] ?? 820;
+                return {
+                  minQuantity,
+                  unitAmountPence: Math.max(500, baseBySize - tierIndex * 45),
+                };
+              });
 
+      return formatTiers.map((tier) => {
+        const coffeePremium = coffeeIndex * 15;
+        const bagPremium = bagIndex * 10;
         return {
-          id: `price-${coffee.slug}-${bag.slug}-${size.slug}-${minQuantity}`,
+          id: `price-${coffee.slug}-${bag.slug}-${size.slug}-${tier.minQuantity}`,
           coffeeProductId: coffee.id,
           bagOptionId: bag.id,
           bagSizeId: size.id,
-          minQuantity,
-          unitAmountPence: Math.max(500, baseBySize + coffeePremium + bagPremium - tierDiscount),
-          setupFeePence: minQuantity === 25 ? 3500 : 0,
+          minQuantity: tier.minQuantity,
+          unitAmountPence: Math.max(500, tier.unitAmountPence + coffeePremium + bagPremium),
+          setupFeePence: 0,
           currency: "gbp" as const,
         };
-      })
-    )
+      });
+    })
   )
 );
 
