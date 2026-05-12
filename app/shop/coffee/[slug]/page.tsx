@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
-import { Check, ShieldCheck, Truck } from "lucide-react";
+import { Check, ExternalLink, ShieldCheck, Truck } from "lucide-react";
 
 import { ProductCustomizer } from "@/components/product/product-customizer";
 import { Button } from "@/components/ui/button";
@@ -74,8 +74,9 @@ export default async function CoffeeProductPage({ params }: Props) {
           <InfoCard title="Tasting notes" body={coffee.tastingNotes.join(" · ")} />
           <InfoCard
             title="What you’re ordering"
-            body="Choose either 1kg trade bags for service or 250g retail bags for shelves, gifting, and grab-and-go sales. Every order includes bag selection, grind choice, label placement, and optional logo upload."
+            body="Choose 250g bags with a 24 bag minimum or 1kg bags with a 6 bag minimum. Pick a bag colour, then choose a plain label or upload artwork."
           />
+          {coffee.sourceName && coffee.sourceUrl ? <SourceCard name={coffee.sourceName} url={coffee.sourceUrl} /> : null}
         </div>
         <Card className="soft-panel-sm rounded-[1.5rem]">
           <CardContent className="space-y-5 p-5">
@@ -93,13 +94,13 @@ export default async function CoffeeProductPage({ params }: Props) {
               />
               <FeatureRow
                 icon={<Truck className="size-4" />}
-                title="Tiered delivery pricing"
-                body="Larger trade and retail tiers move into delivered pricing automatically."
+                title="Six kilo pricing fit"
+                body="The 250g and 1kg minimums both map to 6kg total coffee, so pricing stays consistent."
               />
               <FeatureRow
                 icon={<ShieldCheck className="size-4" />}
-                title="Brand-safe setup"
-                body="Template label options work without artwork, or upload your logo when you’re ready."
+                title="Plain or artwork label"
+                body="Use the product plain, or add artwork only when the file is ready."
               />
             </div>
             <div className="rounded-2xl border border-border/70 bg-background/70 p-4">
@@ -107,7 +108,7 @@ export default async function CoffeeProductPage({ params }: Props) {
               <p className="mt-1 text-2xl font-semibold tracking-tight">
                 {fromPrice != null ? formatMoney(fromPrice) : "On request"}
               </p>
-              <p className="mt-1 text-xs text-muted-foreground">Unit pricing updates based on bag, size, and tier.</p>
+              <p className="mt-1 text-xs text-muted-foreground">Unit pricing follows the selected weight minimum.</p>
             </div>
             <Button variant="outline" asChild className="w-full">
               <Link href="/shop">Back to all products</Link>
@@ -124,7 +125,26 @@ function InfoCard({ title, body }: { title: string; body: string }) {
     <Card className="soft-panel-sm rounded-[1.5rem]">
       <CardContent className="p-5">
         <h2 className="font-semibold">{title}</h2>
-        <p className="mt-2 text-sm leading-6 text-muted-foreground">{body}</p>
+        <p className="mt-2 break-words text-sm leading-6 text-muted-foreground">{body}</p>
+      </CardContent>
+    </Card>
+  );
+}
+
+function SourceCard({ name, url }: { name: string; url: string }) {
+  return (
+    <Card className="soft-panel-sm rounded-[1.5rem]">
+      <CardContent className="flex flex-col gap-4 p-5 sm:flex-row sm:items-center sm:justify-between">
+        <div>
+          <h2 className="font-semibold">Catalogue source</h2>
+          <p className="mt-2 text-sm leading-6 text-muted-foreground">{name}</p>
+        </div>
+        <Button variant="outline" asChild>
+          <a href={url} target="_blank" rel="noreferrer">
+            View source
+            <ExternalLink className="size-4" />
+          </a>
+        </Button>
       </CardContent>
     </Card>
   );

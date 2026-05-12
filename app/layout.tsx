@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 import { CartProvider } from "@/components/cart/cart-provider";
@@ -18,7 +19,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "myroaster | White-label coffee ordering",
   description:
-    "Order 1kg trade bags and 250g retail coffee bags with your logo, label, grind, and quantity configured around your brand.",
+    "Order fresh-roasted 250g or 1kg coffee bags with simple bag colour and plain or artwork label choices.",
 };
 
 export default function RootLayout({
@@ -35,6 +36,15 @@ export default function RootLayout({
         <CartProvider>
           <SiteHeader />
           {children}
+          <Script src="https://www.googletagmanager.com/gtag/js?id=G-DRZW17HF7L" strategy="afterInteractive" />
+          <Script id="ga4-init" strategy="afterInteractive">
+            {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){window.dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-DRZW17HF7L');
+            `}
+          </Script>
         </CartProvider>
       </body>
     </html>

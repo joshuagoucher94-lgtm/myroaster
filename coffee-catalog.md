@@ -1,0 +1,1876 @@
+# Green coffee catalog export
+Generated from [Falcon Micro — UK/EU shop](https://www.falcon-micro.com/collections/shop-uk) (Shopify `products.json`) and [Small Batch Roasting — Green Coffee](https://www.smallbatchroasting.co.uk/green-coffee/) (HTML listing + per-product pages for variation pricing).
+> **Note:** Falcon includes **Adoric quantity-break** volume pricing (parsed from one live product page, applied using each item’s variant £/kg). Small Batch lists **WooCommerce variation** prices (green vs roast options). **Kg-based volume discounts** for Small Batch are not in the crawlable product payload used here; use the live cart or trade account if needed.
+## Falcon Micro — `collections/shop-uk`
+_Product count: 36_
+_Quantity-break tiers were read from `productPageBundleV2` on a sample product page; percent-off steps are shop-wide, amounts below use each product’s own variant unit price._
+### Guayabos, Café Agrario, Colombia |  Washed FSC-8227
+- **URL:** https://www.falcon-micro.com/products/guayabos-cafe-agrario-colombia-washed-fsc-8227
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Ortega, Tolima Producer Café Agrario Varietal: Castillo, Colombia, Caturra Process: Washed Altitude: 1860 Production/Harvest Date: 2025 Cup Score: 86 Cup profile: Morello cherry, dark chocolate, demerara, panela, bergamot Leoncio Maceto, a coffee grower from Ortega, Tolima, is 41 years old and owns the Las Brisas farm located in the Alto Guayabos vereda. The farm spans 6 hectares, with 3.6 hectares dedicated to coffee cultivation at an altitude of 1,860 meters. He cultivates several varieties including Colombia with 5,200 trees (3 years old), Castillo Tambo with 2,000 trees (4 years old), Pink Bourbon 1 with 1,200 trees (5 years old), and Catimore with 4,500 trees (7 years old). The coffee process is fully washed, with cherries meticulously sorted to ensure only perfectly ripe ones are used. Leoncio is very selective about his pickers, compensating them well to ensure only fully ripe cherries are harvested. The picking cycle occurs every 8 days. For the Pink Bourbon, he employs a double fermentation process: an initial 24-hour aerobic fermentation in the cherry takes place in the hopper, followed by pulping and another 24-hour fermentation in the receiving tank. The coffee is then washed twice. The drying process involves using a parabolic solar dryer, where an ideal 3cm layer of coffee is maintained to ensure even and slow drying. Siruma our specialty export partners in Colombia and have invested in this community and their agronomist, Pilar has been delivering workshops to this group on coffee processing and also how to organise the structure of the Association as this was highlighted as a need for them from taking baseline data. With the help of Siruma to get them organised as an Association they have now been able to deliver direct to Siruma. Previously they had to go through a middle man (local buyer). https://falconcoffees.smugmug.com/COLOMBIA/Cafe-Agrario
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FSC-8227.png?v=1766050162`
+  - ![Guayabos, Café Agrario, Colombia |  Washed FSC-8227](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FSC-8227.png?v=1766050162)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Guayabos-33_f3393365-75bb-4b4f-a1c3-a666aa879b09.jpg?v=1766050162`
+  - ![Guayabos, Café Agrario, Colombia |  Washed FSC-8227](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Guayabos-33_f3393365-75bb-4b4f-a1c3-a666aa879b09.jpg?v=1766050162)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image00013.jpg?v=1766050162`
+  - ![Guayabos, Café Agrario, Colombia |  Washed FSC-8227](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image00013.jpg?v=1766050162)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image00009.jpg?v=1766050162`
+  - ![Guayabos, Café Agrario, Colombia |  Washed FSC-8227](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image00009.jpg?v=1766050162)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4387_3dec25c2-0b88-4531-bfe0-db3683791bf3.jpg?v=1766050162`
+  - ![Guayabos, Café Agrario, Colombia |  Washed FSC-8227](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4387_3dec25c2-0b88-4531-bfe0-db3683791bf3.jpg?v=1766050162)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 18.70 (SKU `FSC-8227`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£18.70 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £18.70 | £56.10 (3 kg × £18.70/kg) |
+  - | 5 | 5% | £17.76 | £88.83 (5 kg × £17.76/kg) |
+  - | 10 | 10% | £16.83 | £168.30 (10 kg × £16.83/kg) |
+  - | 15 | 15% | £15.89 | £238.42 (15 kg × £15.89/kg) |
+  - | 20–500 | 20% | £14.96 | £299.20 (20 kg × £14.96/kg) |
+
+### Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253
+- **URL:** https://www.falcon-micro.com/products/fazenda-pinhal-gabarra-teixeria-family-brazil-natural-fsc-8253
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: San Antonio Do Amparo, Sul De Minas Producer Gabarra Teixeria Family Varietal: Mixed Process: Natural Altitude: 905 - 1150 masl Production/Harvest Date: 2025 Cup Score: 83 Cup profile: Mandarin, lemon, hazlenut, milk chocolate Fazenda Pinhal is a 914ha farm situated close to San Antonio De Ampoaro in Sul De Minas. The farm belongs to the Gabarra Teixeria Family who acquired the farm in 1994. The farm is planted with 296ha coffee (only 33% of the farm) with the rest of the land left as natural reserve, eucalyptus Forest and pasture land for cows. In 2019 the farm won the award for Brazil's most sustainable coffee farm and in 2019 they installed solar panels which now supply 100% of their energy usage. On the farm, they also started a bird sanctuary to help rehabilitate and care for injured birds and have coordinated research programs with the local universities and students. The welfare of their employees is very important to them; they began providing dental care plans in 2018 and are now researching, with a local university, ways to make the working environment more sustainable for their employees and also preventing occupational injuries. This coffee is a pulped natural where the cherries are mechanically harvested before being sorted into ripe and over-ripe and green. The ripe cherries are then pulped, removing 100% of the mucilage. These coffees are then taken to the patios where they are dried for 7 to 10 days with regular turning to ensure even drying.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/pinhal_micro-1_copy_3.jpg?v=1773159468`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/pinhal_micro-1_copy_3.jpg?v=1773159468)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/pinhal_-39.jpg?v=1773159467`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/pinhal_-39.jpg?v=1773159467)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-077.jpg?v=1773159574`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-077.jpg?v=1773159574)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-082_1.jpg?v=1773159572`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-082_1.jpg?v=1773159572)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-013_1.jpg?v=1773159577`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-013_1.jpg?v=1773159577)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-056.jpg?v=1773159575`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-056.jpg?v=1773159575)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-002_1.jpg?v=1773159581`
+  - ![Fazenda Pinhal, Gabarra Teixeria Family, Brazil |  Natural FSC-8253](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Fazenda_Pinhal-002_1.jpg?v=1773159581)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 14.50 (SKU `FSC-8253`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£14.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £14.50 | £43.50 (3 kg × £14.50/kg) |
+  - | 5 | 5% | £13.77 | £68.88 (5 kg × £13.77/kg) |
+  - | 10 | 10% | £13.05 | £130.50 (10 kg × £13.05/kg) |
+  - | 15 | 15% | £12.32 | £184.88 (15 kg × £12.32/kg) |
+  - | 20–500 | 20% | £11.60 | £232.00 (20 kg × £11.60/kg) |
+
+### Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617
+- **URL:** https://www.falcon-micro.com/products/imbalu-the-coffee-yard-uganda-anaerobic-natural-fsc-8617
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Sironko District, Eastern Uganda Producer Imbalu Varietal: SL14, SL28 Process: Anaerobic Natural Altitude: 1800-2000 Production/Harvest Date: 2026 Cup Score: 86.25 Cup profile: Cherry, cassis, plum, cacao, nutmeg, toffee. The Coffee Yard is a new commercial partner to The Coffee Gardens who are supporting Norman Mukuru and his team to bring his coffees to Falcon Specialty to the UK and EU. This relationship is now in its second year. The Coffee Gardens have known Norman for a number of years and built a relationship on sharing knowledge and learning from each other around processing and creating farmer traceabilty programs. It is based off this history and trust that they have been able to develop the relationship to now export Nornan's coffee. Based in the foothills of Mount Elgon souring coffee from the districts of Sironko, Mbale, Bulambuli and Kapchorwa Norman established The Coffee Yard which is a huge center for receiving and drying coffee. Norman has extensive experience in coffee working for nearly 20 years in the in and he has been producing naturals since 2018 often tweaking his processes to find the profiles that his clients have been looking for. Please see link below for the specific lot info https://www.storydoc.com/d5249b4048239e5cc84c3f726aaa8798/70eb02-e20f-b33b-6ed2-5f56eba0cd0/67eea2e138755964415ecfbd https://falconcoffees.smugmug.com/UGANDA/UGANDA-TCG-NORMAN-NATURALS
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/imbalu_micro-1_copy_2.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/imbalu_micro-1_copy_2.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/imbalu-39.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/imbalu-39.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07956_c9d6a973-3e3e-41c4-88fe-f398a4652c3d.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07956_c9d6a973-3e3e-41c4-88fe-f398a4652c3d.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC02001.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC02001.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08057.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08057.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08059.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08059.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07975_89642251-81c6-4183-a63c-aacad8d2df61.jpg?v=1776267430`
+  - ![Imbalu, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8617](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07975_89642251-81c6-4183-a63c-aacad8d2df61.jpg?v=1776267430)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 21.00 (SKU `FSC-8617`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£21.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £21.00 | £63.00 (3 kg × £21.00/kg) |
+  - | 5 | 5% | £19.95 | £99.75 (5 kg × £19.95/kg) |
+  - | 10 | 10% | £18.90 | £189.00 (10 kg × £18.90/kg) |
+  - | 15 | 15% | £17.85 | £267.75 (15 kg × £17.85/kg) |
+  - | 20–500 | 20% | £16.80 | £336.00 (20 kg × £16.80/kg) |
+
+### Bellavista, Huabal, Peru |  Natural FSC-8628
+- **URL:** https://www.falcon-micro.com/products/bellavista-huabal-peru-natural-fsc-8628
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Bellavista Producer Bellavista Varietal: Marshel,Geisha,Catuai Process: Natural Altitude: 1600 - 1700 Production/Harvest Date: 2025 Cup Score: 85 Cup profile: Green pear, raisin, orange, pistachio, milk chocolate. Bellavista is a district with a huge altitude range, but most of the coffee is produced below 1600masl. The coffee in this lot comes from Bellavista, a neighbouring district to Huabal. This lot is a blend of coffees from individual producers in the region, all of whom own around 1 to 2 hectares of coffee. The varieties in this blend are Marshel, Geisha, and Catuai. After picking, producers place cherries in a tank full of water to remove any floaters, then rest the cherries overnight in plastic bags to homogenize temperature and allow the coffee to rest before placing it on raised beds for 30–40 days. Once dry, producers bring their dry parchment to the Falcon Coffees warehouse in Jaén, where the coffee is cupped and graded and producers are paid on the same day based on the quality they bring. Falcon Coffees Peru (FCP) was set up in 2019 to work directly with farmers in the northern producing region. FCP was one of the first exporters in the region to pay quality-differentiated prices at the farm gate level. In 2022 we added exports via producer cooperatives to give buyers more reliable access to third-party certified coffees. We now operate two northern warehouses—Jaén and Moyobamba—with a 20+ person team sourcing and exporting coffee from 500+ farmers and eight cooperatives. Our sustainability team runs farmer training and productivity work alongside sourcing. On specialty sourcing, we identify interested farmers, run on-farm baseline surveys (captured digitally via a Copera-built app), provide training workshops, and give ongoing agronomy support. We commit to buy from programme farmers and pay premiums over the local price according to the quality delivered. We also run multi-year projects: Falcon Specialty Plus (with responsAbility) to lift cup quality and premiums—showing a +1.32 average score gain, a peak of 88, and 107 producers enrolled to date—and a Soil Health Initiative targeting 600 farmers to improve soils, reduce chemical use, achieve GCP-equivalent
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bellavista-28.jpg?v=1776335583`
+  - ![Bellavista, Huabal, Peru |  Natural FSC-8628](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bellavista-28.jpg?v=1776335583)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bellavista-37.jpg?v=1776335583`
+  - ![Bellavista, Huabal, Peru |  Natural FSC-8628](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bellavista-37.jpg?v=1776335583)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4795.jpg?v=1776268011`
+  - ![Bellavista, Huabal, Peru |  Natural FSC-8628](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4795.jpg?v=1776268011)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4794.jpg?v=1776268010`
+  - ![Bellavista, Huabal, Peru |  Natural FSC-8628](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4794.jpg?v=1776268010)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4792.jpg?v=1776268009`
+  - ![Bellavista, Huabal, Peru |  Natural FSC-8628](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4792.jpg?v=1776268009)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4789.jpg?v=1776268013`
+  - ![Bellavista, Huabal, Peru |  Natural FSC-8628](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4789.jpg?v=1776268013)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 20.00 (SKU `FSC-8628`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£20.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £20.00 | £60.00 (3 kg × £20.00/kg) |
+  - | 5 | 5% | £19.00 | £95.00 (5 kg × £19.00/kg) |
+  - | 10 | 10% | £18.00 | £180.00 (10 kg × £18.00/kg) |
+  - | 15 | 15% | £17.00 | £255.00 (15 kg × £17.00/kg) |
+  - | 20–500 | 20% | £16.00 | £320.00 (20 kg × £16.00/kg) |
+
+### Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710
+- **URL:** https://www.falcon-micro.com/products/kiamabara-ab-nyeri-county-kenya-washed-fsc-8710
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Kiamabara, Kirinyaga, Nyeri Producer Mugaga Farmers’ Cooperative Society Varietal: SL28 & 34, Ruiru11 Process: Washed Altitude: 1600 Production/Harvest Date: 2026 Cup Score: 87 Cup profile: Lemon, orange, peach iced tea, brown sugar Established in 1995, Kiambara is one of the wet mills operated by Mugaga Farmers’ Cooperative Society (FCS), alongside its sister station, Gatina. It is located in Nyeri County, near the Kingu River and close to Mt. Kenya National Park. The factory serves a network of smallholder farmers who grow coffee at high elevations in the fertile volcanic soils typical of the region. The farms supplying Kiambara are generally small, often around a quarter of a hectare, and are commonly intercropped with food and cash crops such as bananas, maize, macadamia, and beans. This diversified approach helps support both household livelihoods and soil health. Coffee cherries delivered to Kiambara are hand-picked and processed on the same day. On arrival, cherries are carefully hand-sorted to remove underripe or damaged fruit, then pulped using a disc pulper to remove the skin and fruit. The coffee is typically dry fermented overnight to break down the remaining mucilage, then washed in clean water. During washing, the parchment is graded by density in channels, helping separate higher-density coffee from lighter lots. After washing, the coffee is soaked for a further period before being transferred to drying beds to drain and then moved onto raised tables for sun-drying. Drying usually takes between one and two weeks, depending on weather conditions and volumes. During this time, the parchment is turned regularly and carefully monitored. Once the coffee reaches the desired moisture level, it is rested in parchment before milling and export.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/kiamabara-28.jpg?v=1774871474`
+  - ![Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/kiamabara-28.jpg?v=1774871474)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/kiamabara-39.jpg?v=1774871474`
+  - ![Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/kiamabara-39.jpg?v=1774871474)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Muthuthuini-2_2b707bb2-a7a4-4207-88e8-8c9c62f31295.jpg?v=1774871252`
+  - ![Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Muthuthuini-2_2b707bb2-a7a4-4207-88e8-8c9c62f31295.jpg?v=1774871252)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Coffee_Estate_Nyeri_7841066a-4d23-467f-a6eb-ec08afaab96f.jpg?v=1774871250`
+  - ![Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Coffee_Estate_Nyeri_7841066a-4d23-467f-a6eb-ec08afaab96f.jpg?v=1774871250)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Gathaithi_Factory_Red_berries.jpg?v=1774871250`
+  - ![Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Gathaithi_Factory_Red_berries.jpg?v=1774871250)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Nyeri_Hill_2.jpg?v=1774871247`
+  - ![Kiamabara AB, Nyeri County, Kenya |  Washed FSC-8710](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Nyeri_Hill_2.jpg?v=1774871247)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 18.60 (SKU `FSC-8710`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£18.60 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £18.60 | £55.80 (3 kg × £18.60/kg) |
+  - | 5 | 5% | £17.67 | £88.35 (5 kg × £17.67/kg) |
+  - | 10 | 10% | £16.74 | £167.40 (10 kg × £16.74/kg) |
+  - | 15 | 15% | £15.81 | £237.15 (15 kg × £15.81/kg) |
+  - | 20–500 | 20% | £14.88 | £297.60 (20 kg × £14.88/kg) |
+
+### Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761
+- **URL:** https://www.falcon-micro.com/products/sidamo-taferi-kela-kickstart-lot-25-17-bette-buna-ethiopia-natural-fsc-7761
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Sidamo, Taferi Kela Producer Bette Buna Varietal: 74112,74110, Enat Buna Process: Natural Altitude: 1900-2100 Production/Harvest Date: 2025 Cup Score: 86.75 Cup profile: Blackberry, raisin, tea, red fruits, blood orange and caramel, dark chocolate This coffee from Taferi Kela, Sidamo, Ethiopia comes to us through our friends at Bette Buna. Bette Buna literally translates to ‘House of Coffee’ and this company has been deeply rooted in the village ever since Grandfather Syoum and Grandmother Emame asked Dawit and Hester to take over their farm, but more importantly, their responsibility for building the community of Taferi Kela. Even though this village shares a mountain range with better-known Sidamina producers, it has been overlooked so far, and no other company or industry of any type works in this area. Building opportunities Coffee production in Ethiopia accounts for about a third of the country's GDP but more than 90 percent of people working in coffee don’t make a livable income. Bette Buna has set out to change that in their community. They teach their community farmers to improve their soil, grow back agro-forestry systems, and teach the importance of picking ripe cherries. Ripe cherries weigh more and produce better coffee, so the farmers get paid more by weight, and also receive a quality premium. Perhaps most importantly, they distribute more than 350,000 healthy seedlings every year from their in-house nursery. These seedlings are climate-change adapted varietals, and on average the farmers who plant them make minimum $2 per year per seedling once the trees are grown. This means an economic impact in the area of more than $650,000 a year in a region where the average household income is less than $50 per month for an average family size of 9 people. Equal Opportunity Employment and Transparent Supply Chains. Bette Buna is an equal opportunity employer, which is rare in a culture that doesn't typically provide meaningful work for differently abled or disabled people. Their nursery employs people with disabilities (particularly deaf people), families of people with disabilities, as well as other largely disenfranchised groups such as single mothers who struggle to find work, and especially work that accommodates childcare for working mothers in an agrarian society. With Bette Buna, the traceability is exceptional. Every lot specifically tracks and maps the people involved at each stage of production, from the people who picked the cherries to those who processed and milled the coffee. This level of transparency is almost unheard of in Ethiopia. Not only do we know we’re getting the same coffees we tasted pre shipment, but we also know that the people who did the work are getting fair wages — everyone involved is adding value and being valued. This transparency work has the additional benefit of meaning Bette Buna is prepped for EUDR compliance. This Lot The processing team in Taferi Kela is led by Hester, Dawit, and Sissay, a war veteran and cranial gunshot survivor, the team processes each lot with a controlled approach that brings out the absolute best of the cherry. Their dedication and perseverance created this 10 bag microlot. The ‘kickstart’ process was developed by the processing team at Bette Buna as a way to concentrate the sugars and change their structures before the normal natural processing begins. After taking the cherries to the wet mill, the team gave them a “kick” by putting them in an anaerobic environment for a short amount of time before continuing processing. Not long enough for official fermentation to begin, but long enough that the structure of the sugar within the cherries changed. This produces lots with more sweetness and body on top of the standard Sidamo natural profile. After this the coffee is dried normally on raised African style beds. It’s now a standard processing technique for the Bette Buna team, and we think the results speak for themselves. Once the correct mois…
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bette_b-28.jpg?v=1773931664`
+  - ![Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bette_b-28.jpg?v=1773931664)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bette_-37.jpg?v=1773931666`
+  - ![Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/bette_-37.jpg?v=1773931666)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FSC-4519-1.jpg?v=1754922445`
+  - ![Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FSC-4519-1.jpg?v=1754922445)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FSC-4519-2.jpg?v=1754922445`
+  - ![Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FSC-4519-2.jpg?v=1754922445)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9036_435ffe2d-a1fe-4150-892b-750d034e95a7.jpg?v=1754928619`
+  - ![Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9036_435ffe2d-a1fe-4150-892b-750d034e95a7.jpg?v=1754928619)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9003_9b04258a-ed53-446d-815f-dd91812dbc87.jpg?v=1754928619`
+  - ![Sidamo Taferi Kela - Kickstart Natural - Lot 25.17, Bette Buna, Ethiopia |  Natural FSC-7761](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9003_9b04258a-ed53-446d-815f-dd91812dbc87.jpg?v=1754928619)
+- **Pricing / variants:**
+  - 1000 g pack — **compare-at** 24.00, **current** 20.00 (SKU `FSC-7761`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£20.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £20.00 | £60.00 (3 kg × £20.00/kg) |
+  - | 5 | 5% | £19.00 | £95.00 (5 kg × £19.00/kg) |
+  - | 10 | 10% | £18.00 | £180.00 (10 kg × £18.00/kg) |
+  - | 15 | 15% | £17.00 | £255.00 (15 kg × £17.00/kg) |
+  - | 20–500 | 20% | £16.00 | £320.00 (20 kg × £16.00/kg) |
+
+### Muki Fruity, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8684
+- **URL:** https://www.falcon-micro.com/products/muki-fruity-the-coffee-yard-uganda-anaerobic-natural-fsc-8684
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Sironko District, Eastern Uganda Producer Muki Fruity Varietal: Nyasaland, SL14, SL28 Process: Anaerobic Natural Altitude: 2000 - 2200 Production/Harvest Date: 2026 Cup Score: 86 Cup profile: Pineapple, plum, cocoa, tamarind, almond, nougat. The Coffee Yard is a new commercial partner to The Coffee Gardens who are supporting Norman Mukuru and his team to bring his coffees to Falcon Specialty to the UK and EU. This relationship is now in its second year. The Coffee Gardens have known Norman for a number of years and built a relationship on sharing knowledge and learning from each other around processing and creating farmer traceabilty programs. It is based off this history and trust that they have been able to develop the relationship to now export Nornan's coffee. Based in the foothills of Mount Elgon souring coffee from the districts of Sironko, Mbale, Bulambuli and Kapchorwa Norman established The Coffee Yard which is a huge center for receiving and drying coffee. Norman has extensive experience in coffee working for nearly 20 years in the in and he has been producing naturals since 2018 often tweaking his processes to find the profiles that his clients have been looking for. Please see links below for the specific lot info: https://www.storydoc.com/d5249b4048239e5cc84c3f726aaa8798/70eb02-e20f-b33b-6ed2-5f56eba0cd0/67eea2e138755964415ecfbd https://falconcoffees.smugmug.com/UGANDA/UGANDA-TCG-NORMAN-NATURALS
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/muki-28.jpg?v=1776267301`
+  - ![Muki Fruity, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8684](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/muki-28.jpg?v=1776267301)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/muki-37.jpg?v=1776267301`
+  - ![Muki Fruity, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8684](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/muki-37.jpg?v=1776267301)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08059.jpg?v=1776267430`
+  - ![Muki Fruity, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8684](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08059.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07975_89642251-81c6-4183-a63c-aacad8d2df61.jpg?v=1776267430`
+  - ![Muki Fruity, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8684](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07975_89642251-81c6-4183-a63c-aacad8d2df61.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08057.jpg?v=1776267430`
+  - ![Muki Fruity, The Coffee Yard, Uganda |  Anaerobic Natural FSC-8684](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08057.jpg?v=1776267430)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.00 (SKU `FSC-8684`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.00 | £57.00 (3 kg × £19.00/kg) |
+  - | 5 | 5% | £18.05 | £90.25 (5 kg × £18.05/kg) |
+  - | 10 | 10% | £17.10 | £171.00 (10 kg × £17.10/kg) |
+  - | 15 | 15% | £16.15 | £242.25 (15 kg × £16.15/kg) |
+  - | 20–500 | 20% | £15.20 | £304.00 (20 kg × £15.20/kg) |
+
+### Cajamarca, Falcon Coffees Peru, Peru |  Washed FSC-8554
+- **URL:** https://www.falcon-micro.com/products/cajamarca-falcon-coffees-peru-peru-washed-fsc-8554
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Jaen, Cajamarca Producer Cajamarca Varietal: Pache, Typica, Caturra Process: Washed Altitude: 1650 - 1850 Production/Harvest Date: 2025 Cup Score: 84 Cup profile: Green apple, hazelnut, milk chocolate. This blend comes from producers in the high-altitude areas around Jaén, the main city in the Cajamarca region of northern Peru. The region’s rich volcanic soils, tropical rainfall, and ideal climate create significant potential for high-quality Arabica coffee. However, this potential is often undermined during picking, processing, and drying, especially among unassociated producers who lack the infrastructure and knowledge to maintain quality. These smallholder producers harvest coffee during the middle of the season and process it on their farms using hand-pulping machines, fermentation tanks, and patios or raised beds for drying. Once processed, the parchment coffee is delivered to Falcon’s warehouse in Jaén, where it undergoes grading, moisture testing, roasting, and cupping. In 2018, Falcon Peru SARL was established as an export company, along with a small warehouse and QC lab in Jaén. To help producers improve drying practices, Falcon installed facilities near the warehouse to ensure optimum moisture levels and preserve cup quality. Farmers delivering their parchment coffee receive immediate quality analysis, a cup score, and an offer price. Controlling the supply chain from farmer to customer ensures these coffees meet the standards for Falcon’s Blueprint Project label, providing economic transparency for every contributing household. Additionally, Peru was the first origin selected for Falcon’s Carbon Project, which began in Autumn 2022 to conduct in-depth research into carbon emissions at the farm level. https://falconcoffees.smugmug.com/PERU/PERU-CAJAMARCA
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/cajamarca_micro-1_copy_3.jpg?v=1776335640`
+  - ![Cajamarca, Falcon Coffees Peru, Peru |  Washed FSC-8554](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/cajamarca_micro-1_copy_3.jpg?v=1776335640)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/cajamarca-37.jpg?v=1776335640`
+  - ![Cajamarca, Falcon Coffees Peru, Peru |  Washed FSC-8554](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/cajamarca-37.jpg?v=1776335640)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 15.00 (SKU `FSC-8554`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£15.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £15.00 | £45.00 (3 kg × £15.00/kg) |
+  - | 5 | 5% | £14.25 | £71.25 (5 kg × £14.25/kg) |
+  - | 10 | 10% | £13.50 | £135.00 (10 kg × £13.50/kg) |
+  - | 15 | 15% | £12.75 | £191.25 (15 kg × £12.75/kg) |
+  - | 20–500 | 20% | £12.00 | £240.00 (20 kg × £12.00/kg) |
+
+### Lala Salama Decaf, Abay Teka District, Ethiopia |  Decaf FSC-8613
+- **URL:** https://www.falcon-micro.com/products/lala-salama-decaf-abay-teka-district-ethiopia-decaf-fsc-8613
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Abay Teka District Producer Mixed Varietal: Mixed Process: Decaf Altitude: 1750 - 1950 Production/Harvest Date: 2026 Cup Score: 83 Cup profile: Raisin, black tea, banana, chocolate biscuit. Alemu Adama wet and dry mill station is located in the Sidama Region, specifically within the Bensa Woreda of the Abay Teka district, at an elevation ranging from 1750 to 1950 meters above sea level and at geographic coordinates N = 6.479985 and E = 39.066983. The station supplies high-quality washed coffee to customers and employs 5 permanent staff members and 120 temporary workers, thereby contributing to the local economy. Quality and sustainability are key principles at this facility. Approximately 700,000 kilograms of red cherries are processed annually. The coffee varieties 74158, 74165, and 74110 originate from the Jimma Research Center, along with heirloom varieties. The station implements two processing methods: washed and natural. For wet processing, ripe cherries are separated from unripe cherries using a disc pulpier, and biological fermentation removes the mucilage. Parchment coffee is categorized into parchment-1 (grade-1), parchment-2 (grade-2), and parchment light (floaters), based on density and size. Fermentation lasts 36 to 48 hours, followed by soaking and drying on raised beds for 6 to 7 days until the beans reach a moisture content of 10-12%. For natural processing, full ripe cherries are dried on raised beds for 12 to 15 days until the beans achieve a similar moisture content range. Processed materials are stored in well-cleaned, ventilated, leak-proof bins, free from vermin. Spring water is used for coffee washing, and a wastewater management system with a standard lagoon is set up more than 50 meters from any rivers. Quality control measures ensure the delivery of fully ripe red cherries and uphold standards at each processing stage. Approximately 350 farmers supply coffee to the station. Traceability is maintained by recording each batch as it progresses through production and distribution, using red cherry receiving vouchers from farmers, store receiving vouchers after drying, and store issue vouchers.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_decaf-36.jpg?v=1772197576`
+  - ![Lala Salama Decaf, Abay Teka District, Ethiopia |  Decaf FSC-8613](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_decaf-36.jpg?v=1772197576)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_decaf-37.jpg?v=1772197640`
+  - ![Lala Salama Decaf, Abay Teka District, Ethiopia |  Decaf FSC-8613](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_decaf-37.jpg?v=1772197640)
+- **Pricing / variants:**
+  - 1000 g pack — **compare-at** 19.00, **current** 16.50 (SKU `FSC-8613`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£16.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £16.50 | £49.50 (3 kg × £16.50/kg) |
+  - | 5 | 5% | £15.67 | £78.38 (5 kg × £15.67/kg) |
+  - | 10 | 10% | £14.85 | £148.50 (10 kg × £14.85/kg) |
+  - | 15 | 15% | £14.03 | £210.38 (15 kg × £14.03/kg) |
+  - | 20–500 | 20% | £13.20 | £264.00 (20 kg × £13.20/kg) |
+
+### Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711
+- **URL:** https://www.falcon-micro.com/products/tegu-factory-ab-karatina-town-kenya-washed-fsc-8711
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Karatina Town, Nyeri District Producer Tegu Factory Varietal: SL28 & 34, Ruiru11 Process: Washed Altitude: 1700-1800 Production/Harvest Date: 2026 Cup Score: 87 Cup profile: Strawberry, rhubarb, custard, orange, butter Tegu is one of the wet mills owned and operated by the Tekangu Farmers Cooperative Society near the town of Karatina in Nyeri, Kenya. This area is well known for its fertile soils and strong reputation for quality coffee production. Founded in 1969, Tekangu FCS represents around 1,200 smallholder members, each typically farming less than half a hectare across five villages. The name Tegu translates as “low place”, reflecting its position in the foothills between Mount Kenya to the north-east and the Aberdare Range to the west. In addition to Tegu, Tekangu FCS also manages the Karogoto and Ngunguru wet mills. Coffee is collected through three centralised collection points, serving farms located up to around 6km from the mill. At the factory, cherries are first hand-sorted to remove underripes and overripes. They are then floated to separate lower-density cherries before being depulped using a disc pulper. The coffee undergoes an overnight dry fermentation, followed by washing and a second fermentation under water. It is then washed again, soaked in clean water, and finally moved to raised beds on the gentle slopes outside the mill to dry. During drying, the parchment is typically covered at night and during the hottest part of the day to help maintain stable temperatures and protect quality. We purchase Kenyan coffees through a local Kenyan company that bids on our behalf at auction after lots have been screened and cupped locally.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu_micro-1copy2.jpg?v=1774871127`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu_micro-1copy2.jpg?v=1774871127)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu-39.jpg?v=1774871126`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu-39.jpg?v=1774871126)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Nyeri_Hill_2.jpg?v=1774871247`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Nyeri_Hill_2.jpg?v=1774871247)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Gathaithi_Factory_Red_berries.jpg?v=1774871250`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Gathaithi_Factory_Red_berries.jpg?v=1774871250)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Coffee_Estate_Nyeri_7841066a-4d23-467f-a6eb-ec08afaab96f.jpg?v=1774871250`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Coffee_Estate_Nyeri_7841066a-4d23-467f-a6eb-ec08afaab96f.jpg?v=1774871250)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Muthuthuini-2_2b707bb2-a7a4-4207-88e8-8c9c62f31295.jpg?v=1774871252`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8711](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Muthuthuini-2_2b707bb2-a7a4-4207-88e8-8c9c62f31295.jpg?v=1774871252)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 21.20 (SKU `FSC-8711`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£21.20 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £21.20 | £63.60 (3 kg × £21.20/kg) |
+  - | 5 | 5% | £20.14 | £100.70 (5 kg × £20.14/kg) |
+  - | 10 | 10% | £19.08 | £190.80 (10 kg × £19.08/kg) |
+  - | 15 | 15% | £18.02 | £270.30 (15 kg × £18.02/kg) |
+  - | 20–500 | 20% | £16.96 | £339.20 (20 kg × £16.96/kg) |
+
+### Taferi Kela - Lot 6 , Bette Buna, Ethiopia |  Anaerobic Washed FSC-7614
+- **URL:** https://www.falcon-micro.com/products/taferi-kela-lot-6-bette-buna-ethiopia-anaerobic-washed-muk-7614
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Sidamo, Taferi Kela Producer Taferi Kela - Lot 6 Varietal: 74112,74158 & Enat Buna Process: Anaerobic Washed Altitude: 1900-2100 Production/Harvest Date: Feb 25 Cup Score: 87.5 Cup profile: Bergamot, lime, orange blossom, red fruits, earl grey, long finish Moisture Level 8.4% (as of 16th July 2025) Water Activity (aW) 0.47 This coffee from Taferi Kela, Sidamo, Ethiopia comes to us through our friends at Bette Buna. Bette Buna literally translates to ‘House of Coffee’ and this company has been deeply rooted in the village ever since Grandfather Syoum and Grandmother Emame asked Dawit and Hester to take over their farm, but more importantly, their responsibility for building the community of Taferi Kela. Even though this village shares a mountain range with better-known Sidamina producers, it has been overlooked so far, and no other company or industry of any type works in this area. Building Opportunities Coffee production in Ethiopia accounts for about a third of the country's GDP but more than 90 percent of people working in coffee don’t make a livable income. Bette Buna has set out to change that in their community. They teach their community farmers to improve their soil, grow back agro-forestry systems, and teach the importance of picking ripe cherries. Ripe cherries weigh more and produce better coffee, so the farmers get paid more by weight, and also receive a quality premium. Perhaps most importantly, they distribute more than 350,000 healthy seedlings every year from their in-house nursery. These seedlings are climate-change adapted varietals, and on average the farmers who plant them make minimum $2 per year per seedling once the trees are grown. This means an economic impact in the area of more than $650,000 a year in a region where the average household income is less than $50 per month for an average family size of 9 people.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/taferi_kela_6_micro-1copy2.png?v=1756209247`
+  - ![Taferi Kela - Lot 6 , Bette Buna, Ethiopia |  Anaerobic Washed FSC-7614](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/taferi_kela_6_micro-1copy2.png?v=1756209247)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/taferi_kela_6-27.png?v=1756209247`
+  - ![Taferi Kela - Lot 6 , Bette Buna, Ethiopia |  Anaerobic Washed FSC-7614](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/taferi_kela_6-27.png?v=1756209247)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9036.jpg?v=1756209247`
+  - ![Taferi Kela - Lot 6 , Bette Buna, Ethiopia |  Anaerobic Washed FSC-7614](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9036.jpg?v=1756209247)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9042.jpg?v=1756209247`
+  - ![Taferi Kela - Lot 6 , Bette Buna, Ethiopia |  Anaerobic Washed FSC-7614](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9042.jpg?v=1756209247)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9003.jpg?v=1756209247`
+  - ![Taferi Kela - Lot 6 , Bette Buna, Ethiopia |  Anaerobic Washed FSC-7614](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9003.jpg?v=1756209247)
+- **Pricing / variants:**
+  - 1000 g pack — **compare-at** 27.00, **current** 24.00 (SKU `FSC-7614`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£24.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £24.00 | £72.00 (3 kg × £24.00/kg) |
+  - | 5 | 5% | £22.80 | £114.00 (5 kg × £22.80/kg) |
+  - | 10 | 10% | £21.60 | £216.00 (10 kg × £21.60/kg) |
+  - | 15 | 15% | £20.40 | £306.00 (15 kg × £20.40/kg) |
+  - | 20–500 | 20% | £19.20 | £384.00 (20 kg × £19.20/kg) |
+
+### Yacuri, Juan Peña, Ecuador |  Washed FSC-8523
+- **URL:** https://www.falcon-micro.com/products/yacuri-juan-pena-ecuador-washed-fsc-8523
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Saraguro Formation, Loja, Ecuador Producer Juan Peña Varietal: Sidra Process: Washed Altitude: 1800 - 2200 Production/Harvest Date: 2025 Cup Score: 86.5 Cup profile: Lemon, raspberry, blueberry, bergamot, dark chocolate, toffee This lot comes from Yunguilla farm in the Azuat province All coffee produced at this farm is Juan Peña Certified. This certification reflects complete control of every stage of production — from their Genetic Bank, where only second-generation seeds are maintained, through advanced growing techniques and soil enrichment practices, to post-harvest processing refined over years of experimentation. The process concludes with Ecuador’s most advanced dry-mill equipment and CafExporto’s professional logistics team, ensuring quality from origin to arrival. Variety CafExporto Sidra – The Expression of Complexity In Ecuador’s high mountain valleys, where clouds drift across the ridges of Hacienda La Papaya, Yunguilla, and Yacuri, a singular variety unfolds with rare precision — Sidra. Elegant, tropical, and deeply aromatic, Sidra has emerged as one of Ecuador’s most captivating coffees. At CafExporto, it represents the meeting point of genetics, terroir, and human discipline — a coffee that embodies both scientific achievement and natural poetry. Sidra is a variety unique to Ecuador. Developed through years of careful selection and observation, it is a hybrid of Bourbon and Typica, with subtle traces of Ethiopian landrace genetics, responsible for its floral and tropical fruit character. Bourbon lineage contributes body, sweetness, and warmth Typica heritage adds clarity and refined acidity Ethiopian influence brings jasmine, mango, and citrus notes The result is a variety that is both expressive and precise. Each lot is calibrated for ideal roast performance, with balanced density and stable moisture, allowing roasters to express Sidra’s tropical and floral depth at any roast degree. Precision Agriculture Revealing the Full Potential of Sidra Through data-driven plant management, CafExporto achieves exceptional bean homogeneity — a key advantage for roasters seeking precision and repeatability.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/yacuri-28.jpg?v=1770725181`
+  - ![Yacuri, Juan Peña, Ecuador |  Washed FSC-8523](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/yacuri-28.jpg?v=1770725181)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/yacuri-37.jpg?v=1770725181`
+  - ![Yacuri, Juan Peña, Ecuador |  Washed FSC-8523](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/yacuri-37.jpg?v=1770725181)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/73056c60-6e0b-4d9f-a038-62680bc2bd00.jpg?v=1770725181`
+  - ![Yacuri, Juan Peña, Ecuador |  Washed FSC-8523](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/73056c60-6e0b-4d9f-a038-62680bc2bd00.jpg?v=1770725181)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/7d332d85-0b94-48c1-8e7e-21c16687ca96.jpg?v=1770725181`
+  - ![Yacuri, Juan Peña, Ecuador |  Washed FSC-8523](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/7d332d85-0b94-48c1-8e7e-21c16687ca96.jpg?v=1770725181)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/13da15f2-dcee-4e3f-b8fe-ec58aa65d2ed.jpg?v=1770725181`
+  - ![Yacuri, Juan Peña, Ecuador |  Washed FSC-8523](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/13da15f2-dcee-4e3f-b8fe-ec58aa65d2ed.jpg?v=1770725181)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/d89b7974-98ca-47a5-b522-4c296fd43c08.jpg?v=1770725181`
+  - ![Yacuri, Juan Peña, Ecuador |  Washed FSC-8523](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/d89b7974-98ca-47a5-b522-4c296fd43c08.jpg?v=1770725181)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 28.20 (SKU `FSC-8523`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£28.20 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £28.20 | £84.60 (3 kg × £28.20/kg) |
+  - | 5 | 5% | £26.79 | £133.95 (5 kg × £26.79/kg) |
+  - | 10 | 10% | £25.38 | £253.80 (10 kg × £25.38/kg) |
+  - | 15 | 15% | £23.97 | £359.55 (15 kg × £23.97/kg) |
+  - | 20–500 | 20% | £22.56 | £451.20 (20 kg × £22.56/kg) |
+
+### El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036
+- **URL:** https://www.falcon-micro.com/products/el-diviso-nestor-lasso-colombia-natural-fsc-8036
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Pitalito, Huilla Producer Nestor Lasso Varietal: Ombligon Process: Natural Altitude: 1700-1850 Production/Harvest Date: 2025 Cup Score: 87.5 Cup profile: Bakewell tart, cherry liqueur, marshmallow, lime and chocolate mousse. This coffee comes from third generation coffee producer Nestor Lasso on El Diviso farm. The farm covers an 18ha area comprised of 15ha of coffee and 2ha of forest. Nestor’s grandfather, José Uribe, was the founder of the farm. The family worked hard and continually saved and have now built the infrastructure to process differentiated coffees; searching for better quality, both in coffee and their lives. After a long trial and error period they have standardised the different processes, achieving a better income, allowing them to plant new varieties that produce quality coffee. One of their dreams is to produce specialty coffee that reaches all the world. For this natural process coffee, harvesting begins with the careful selection of cherries at optimal ripeness, measured between 24 and 26° Brix. Once picked, the cherries are evaluated to determine their suitability for this process, with any lower-quality fruit separated and removed. The selected cherries are then stored for 48 hours in plastic jars, or until a pH of 4.5 is reached. After this resting period, the coffee undergoes flotation using cold or ambient-temperature water to remove hollow, defective, or impure cherries. This step represents the first contact with water. Next, the cherries are subjected to a thermal shock at 50°C. Following this, they are transferred to plastic jars to begin an anaerobic fermentation phase. During fermentation, Saccharomyces cerevisiae yeast (T58 strain), commonly used in beer brewing, is added at a ratio of 1 g of yeast per 5 kg of cherries. Fermentation is carried out at 35°C for approximately 80 hours. After fermentation, the coffee is moved to a mechanical drying system to rapidly reduce moisture content. Finally, the cherries are transferred to African raised drying beds, where they dry for approximately 15 days, or until the target humidity level is reached.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_diviso_micro-1_copy_2.jpg?v=1772618494`
+  - ![El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_diviso_micro-1_copy_2.jpg?v=1772618494)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_diviso-37.jpg?v=1772618511`
+  - ![El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_diviso-37.jpg?v=1772618511)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/BSBS4160-X2_156046c5-0dca-42ac-a7c8-0fb41a16fe1c.jpg?v=1772618511`
+  - ![El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/BSBS4160-X2_156046c5-0dca-42ac-a7c8-0fb41a16fe1c.jpg?v=1772618511)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image8-M.jpg?v=1772618511`
+  - ![El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image8-M.jpg?v=1772618511)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/EXXY4069_1.jpg?v=1773315448`
+  - ![El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/EXXY4069_1.jpg?v=1773315448)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_6328.jpg?v=1773315447`
+  - ![El Diviso, Nestor Lasso, Colombia |  Natural FSC-8036](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_6328.jpg?v=1773315447)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 44.40 (SKU `FSC-8036`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£44.40 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £44.40 | £133.20 (3 kg × £44.40/kg) |
+  - | 5 | 5% | £42.18 | £210.90 (5 kg × £42.18/kg) |
+  - | 10 | 10% | £39.96 | £399.60 (10 kg × £39.96/kg) |
+  - | 15 | 15% | £37.74 | £566.10 (15 kg × £37.74/kg) |
+  - | 20–500 | 20% | £35.52 | £710.40 (20 kg × £35.52/kg) |
+
+### Chito Community, Juan Peña, Ecuador |  Washed FSC-8526
+- **URL:** https://www.falcon-micro.com/products/chito-community-juan-pena-ecuador-washed-fsc-8526
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Saraguro Formation, Loja, Ecuador Producer Juan Peña Varietal: Mixed Process: Washed Altitude: 1800-2100 Production/Harvest Date: 2025 Cup Score: 85 Cup profile: Black tea, liquorice, milk chocolate, cocoa nibs Chito Community Lot Zamora Chinchipe, Southern Ecuador In the far south of Ecuador, close to the Peruvian border and framed by the Mayo River, lies the rural sub-region of Chito. The town itself rests in a fertile valley, surrounded by small hillside farms rarely exceeding four acres (often less than a hectare). This is a remote part of the country, home largely to native Ecuadorian families, where Spanish is spoken alongside local dialects and agriculture remains a way of life. For many years, producers here sold their coffee into Ecuador’s domestic market, often without traceability or opportunity to access higher-value speciality channels. During the 2021 harvest, Juan Peña and his team at CafExporto encountered the Chito community and were struck by the quality being produced: clean, floral profiles with structure and character shaped by healthy soils and careful farm management. Since then, they have worked closely with the community to develop a regional lot that reflects both the terroir and the potential of these producers. Today, the Chito Community Lot represents the combined work of 55 smallholder farmers across the sub-region. Given the modest size of individual farms, single-farm export volumes would be impractical; instead, CafExporto selects the highest quality deliveries and builds a carefully curated community blend. While the lot draws contributions from across the group, the majority of the final volume comes from five key producers: Leodan Alverca, José Jiménez, Pablo Guerrero, Nazario Zurita and Luis Polinario. Varietally, the region is historically rooted in Typica, with Catucaí and Caturra also widely grown. Through ongoing collaboration, CafExporto have supplied seedlings of Typica Mejorado, Sidra and Geisha, alongside agronomic guidance and fertilisation programmes aimed at improving both cup quality and farm sustainability. All participating producers follow shared processing protocols established with Juan Peña. Only fully ripe cherries are selected during harvest and depulped the same day. The parchment is then fermented in tanks for 18–24 hours, with duration adjusted according to local climate conditions. After washing, the coffee is dried in the sun on patios for 9–18 days until stable. The result is a transparent, community-driven lot that showcases the distinctive profile of Chito: refined florality, clarity in the cup, and a sweetness shaped by both terroir and collective effort.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ChitoCommunity-28.jpg?v=1771599729`
+  - ![Chito Community, Juan Peña, Ecuador |  Washed FSC-8526](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ChitoCommunity-28.jpg?v=1771599729)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ChitoCommunity-37.jpg?v=1771599732`
+  - ![Chito Community, Juan Peña, Ecuador |  Washed FSC-8526](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ChitoCommunity-37.jpg?v=1771599732)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.00 (SKU `FSC-8526`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.00 | £57.00 (3 kg × £19.00/kg) |
+  - | 5 | 5% | £18.05 | £90.25 (5 kg × £18.05/kg) |
+  - | 10 | 10% | £17.10 | £171.00 (10 kg × £17.10/kg) |
+  - | 15 | 15% | £16.15 | £242.25 (15 kg × £16.15/kg) |
+  - | 20–500 | 20% | £15.20 | £304.00 (20 kg × £15.20/kg) |
+
+### Coproca Lot 1214, Nyamasheke District, Rwanda |  Natural FSC-8444
+- **URL:** https://www.falcon-micro.com/products/coproca-lot1214-nyamasheke-district-rwanda-natural-fsc-8444
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Western Province, Nyamasheke District,Kanjongo Sector Producer Coproca 1214 Varietal: Red Bourbon Process: Natural Altitude: 1800 Production/Harvest Date: 2025 Cup Score: 85.75 Cup profile: Lime, apple, licorice, black tea, caramel, dark chocolate. The Coproca Washing Station is located in the Western Province of Rwanda, within the Nyamasheke District, in the Kanjongo Sector. It is privately owned by C. Dorman Rwanda. The coffee is cultivated by 603 small-holding farmers , with an average altitude for the catchment area ranging from 1830 to 1950 meters above sea level. The average cherry production is 800-900 MT per year. Processing and Quality Control The processing method for this coffee is a natural process. Only the best cherries from identified farmers are received at the CWS and undergo proper sorting to remove defects. The cherries are floated in a tank to remove floaters, and only the high-density red cherries are kept. The drying process takes place on flat tables with close-knit wire mesh and shade nets. Cherries are turned every 30-40 minutes and are heaped in the middle of the table during peak sunshine to prevent cell damage from excessive heat. This process takes between 35 and 40 days to reach the desired moisture content of 11.5%. Community and Environmental Initiatives C. Dorman Coproca is involved in providing inputs like fertilizers and pesticides to its farmers in partnership with NAEB. The CWS has created 80 new jobs for the surrounding community during the processing period and has sponsored farmer field schools on Good Agricultural Practices (GAPs). A coffee nursery of around 50,000 seedlings is being prepared for free distribution to farmers to help sustain future production. The CWS is certified with RFA (Rainforest Alliance) and C.A.F.E Practices. Through its certification programs, C. Dorman Coproca has renovated Ruheru primary and nursery school and trained farmers on ecosystem conservation, wildlife protection, water conservation, integrated crop management, and integrated waste management. A project is in progress to establish a nursery of 30,000 coffee seedlings and 5,000 shade tree seedlings for farmers.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/coproca-28.jpg?v=1776267768`
+  - ![Coproca Lot 1214, Nyamasheke District, Rwanda |  Natural FSC-8444](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/coproca-28.jpg?v=1776267768)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/coproca-37.jpg?v=1776267768`
+  - ![Coproca Lot 1214, Nyamasheke District, Rwanda |  Natural FSC-8444](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/coproca-37.jpg?v=1776267768)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Mutovu_River-19.jpg?v=1776267751`
+  - ![Coproca Lot 1214, Nyamasheke District, Rwanda |  Natural FSC-8444](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Mutovu_River-19.jpg?v=1776267751)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Kirambo-04_53c1da65-e1c0-4307-8849-34d252b1f38a.jpg?v=1776267749`
+  - ![Coproca Lot 1214, Nyamasheke District, Rwanda |  Natural FSC-8444](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Kirambo-04_53c1da65-e1c0-4307-8849-34d252b1f38a.jpg?v=1776267749)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 17.40 (SKU `FSC-8444`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£17.40 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £17.40 | £52.20 (3 kg × £17.40/kg) |
+  - | 5 | 5% | £16.53 | £82.65 (5 kg × £16.53/kg) |
+  - | 10 | 10% | £15.66 | £156.60 (10 kg × £15.66/kg) |
+  - | 15 | 15% | £14.79 | £221.85 (15 kg × £14.79/kg) |
+  - | 20–500 | 20% | £13.92 | £278.40 (20 kg × £13.92/kg) |
+
+### Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685
+- **URL:** https://www.falcon-micro.com/products/butawa-the-coffee-gardens-uganda-washed-fsc-8685
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Mt Elgon Producer TCG - Butawa Varietal: Nyasaland, SL14, SL28 Process: Washed Altitude: 1800 - 2200 Production/Harvest Date: 2026 Cup Score: 85.5 Cup profile: Juicy, stone fruits, cola, vanilla. The Coffee Gardens’ Butawa microlot is a washed coffee produced by smallholder farmers in the village of Butawa, located on the mountain above the company’s processing station in Eastern Uganda. It is composed of Nyasaland, SL14, and SL28 varieties grown at 1,800–2,200 meters above sea level, where the cooler climate promotes slow cherry maturation and dense, high-quality beans. Freshly picked cherries are pulped and then undergo a 40-hour submerged fermentation in cold mountain spring water before being dried on African raised beds in solar dryers and sorted through 12 distinct quality control stages prior to export. The Coffee Gardens publishes detailed price transparency, indicating that 59.5% of total costs are paid to farmers, with the remainder allocated across processing costs, overheads and security, training and community projects, government fees, and cost of finance. For the Butawa microlot, the sales price is 3.90 dollars per pound, with 65.89% of the sales price returned to farmers including bonuses, totaling 16,996 dollars distributed to the producing community. This model is designed to give buyers clear visibility into how value is shared along the supply chain while creating financial incentives for quality and sustainable practices at farm level. Additional information on social, environmental, and economic performance, along with farmer scorecard outcomes and service delivery, is available through The Coffee Gardens’ Impact & Transparency Report.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/butawa-28.jpg?v=1776267822`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/butawa-28.jpg?v=1776267822)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/butawa-39.jpg?v=1776267821`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/butawa-39.jpg?v=1776267821)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TCG_Bukyabo_Washing_Station_sorting_before_pulping_2.jpg?v=1776267879`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TCG_Bukyabo_Washing_Station_sorting_before_pulping_2.jpg?v=1776267879)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Mbale_drying_yard_Winnie.jpg?v=1776267882`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Mbale_drying_yard_Winnie.jpg?v=1776267882)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TCG_Bukyabo_Washing_Station.jpg?v=1776267880`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TCG_Bukyabo_Washing_Station.jpg?v=1776267880)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Farmer_s_house_Lower_Bukyabo.jpg?v=1776267888`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Farmer_s_house_Lower_Bukyabo.jpg?v=1776267888)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TCG_Factory_export_Mbale_5.jpg?v=1776267886`
+  - ![Butawa, The Coffee Gardens, Uganda |  Washed FSC-8685](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TCG_Factory_export_Mbale_5.jpg?v=1776267886)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.00 (SKU `FSC-8685`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.00 | £57.00 (3 kg × £19.00/kg) |
+  - | 5 | 5% | £18.05 | £90.25 (5 kg × £18.05/kg) |
+  - | 10 | 10% | £17.10 | £171.00 (10 kg × £17.10/kg) |
+  - | 15 | 15% | £16.15 | £242.25 (15 kg × £16.15/kg) |
+  - | 20–500 | 20% | £15.20 | £304.00 (20 kg × £15.20/kg) |
+
+### Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618
+- **URL:** https://www.falcon-micro.com/products/malidadi-the-coffee-yard-uganda-washed-fsc-8618
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Sironko District, Eastern Uganda Producer TCY - Malidadi Varietal: Nyasaland, SL14, SL28 Process: Washed Altitude: 2000 - 2200 Production/Harvest Date: 2026 Cup Score: 85.5 Cup profile: Orange, lemon, black tea, caramel. The Coffee Yard is a new commercial partner to The Coffee Gardens who are supporting Norman Mukuru and his team to bring his coffees to Falcon Specialty to the UK and EU. This relationship is now in its second year. The Coffee Gardens have known Norman for a number of years and built a relationship on sharing knowledge and learning from each other around processing and creating farmer traceabilty programs. It is based off this history and trust that they have been able to develop the relationship to now export Nornan's coffee. Based in the foothills of Mount Elgon souring coffee from the districts of Sironko, Mbale, Bulambuli and Kapchorwa Norman established The Coffee Yard which is a huge center for receiving and drying coffee. Norman has extensive experience in coffee working for nearly 20 years in the in and he has been producing naturals since 2018 often tweaking his processes to find the profiles that his clients have been looking for. Please see link below for the specific lot info https://www.storydoc.com/d5249b4048239e5cc84c3f726aaa8798/70eb02-e20f-b33b-6ed2-5f56eba0cd0/67eea2e138755964415ecfbd https://falconcoffees.smugmug.com/UGANDA/UGANDA-TCG-NORMAN-NATURALS
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/malidadi-28.jpg?v=1776267361`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/malidadi-28.jpg?v=1776267361)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/malidadi-39.jpg?v=1776267361`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/malidadi-39.jpg?v=1776267361)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07956_c9d6a973-3e3e-41c4-88fe-f398a4652c3d.jpg?v=1776267430`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07956_c9d6a973-3e3e-41c4-88fe-f398a4652c3d.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC02001.jpg?v=1776267430`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC02001.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07975_89642251-81c6-4183-a63c-aacad8d2df61.jpg?v=1776267430`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC07975_89642251-81c6-4183-a63c-aacad8d2df61.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08057.jpg?v=1776267430`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08057.jpg?v=1776267430)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08059.jpg?v=1776267430`
+  - ![Malidadi, The Coffee Yard, Uganda |  Washed FSC-8618](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC08059.jpg?v=1776267430)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 17.00 (SKU `FSC-8618`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£17.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £17.00 | £51.00 (3 kg × £17.00/kg) |
+  - | 5 | 5% | £16.15 | £80.75 (5 kg × £16.15/kg) |
+  - | 10 | 10% | £15.30 | £153.00 (10 kg × £15.30/kg) |
+  - | 15 | 15% | £14.45 | £216.75 (15 kg × £14.45/kg) |
+  - | 20–500 | 20% | £13.60 | £272.00 (20 kg × £13.60/kg) |
+
+### Hacienda La Papaya, Juan Peña, Ecuador |  Fully Washed FSC-8509
+- **URL:** https://www.falcon-micro.com/products/hacienda-la-papaya-juan-pena-ecuador-fully-washed-fsc-8509
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Saraguro Formation, Loja, Ecuador Producer Juan Peña Varietal: Typica Mejorado Process: Fully Washed Altitude: 1800 - 2200 Production/Harvest Date: 2025 Cup Score: 87 Cup profile: Green apple, orange, butterscotch, chocolate Juan Peña manages all production from the farm. The Landowners include: Segundo Cartuche | Jaime Cartuche | Gustavo Cartuche | Gonzalo Armijos | Isauro Salinas | Baltazar Contento | Patricio Suquilanda | Guillermo Armijos | Mesias Sandoval Climate Type: Dry Tropics Location: Andean Mountain Range, predominantly Saraguro Formation (flows into the Pacific Ocean) Altitude: 1800 – 2200 meters above sea level (MSL) Soil: Clay loam with moderate organic matter and good drainage; balanced fertilization is essential Water Source: Andean wetlands, ensuring purity and freshness Climate: 12 hours of daylight; high temperatures (20 – 30°C during the day, 15 – 20°C at night); seasonal rainfall concentrated in 2 months per year Topography: Irregular with slopes ranging from 30 – 90% Cup Profile Complex, bright acidity with medium body Fruity, floral, chocolate, and cane sugar notes Clean and balanced, with tropical sweetness and freshness Key Aspects Unique aromatic profile, combining fruity, floral, and chocolate notes Ideal for natural processing due to diverse yeast and microorganisms, enhancing sweetness and complexity High-altitude and well-managed agronomic practices contribute to a velvety and balanced mouthfeel In addition, the area has exceptional climatic characteristics for coffee production, such as an average luminosity of 12 hours per day, and temperatures that range between 20 and 30°C during the day, and between 15 and 20°C at night. This thermal pattern has a significant effect on the accumulation of sugars in the fruits, a phenomenon that is scientifically correlated with the altitude and genetics of the plants. This unique environment, which combines altitude, genetics and specific climatic conditions, allows for the development of an unmistakable flavour profile, characterized by a unique and balanced level of sweetness, with floral and fruity nuances.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/HaciendaLaPapaya_micro-1copy2.jpg?v=1771599779`
+  - ![Hacienda La Papaya, Juan Peña, Ecuador |  Fully Washed FSC-8509](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/HaciendaLaPapaya_micro-1copy2.jpg?v=1771599779)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/HaciendaLaPapaya-37.jpg?v=1771599782`
+  - ![Hacienda La Papaya, Juan Peña, Ecuador |  Fully Washed FSC-8509](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/HaciendaLaPapaya-37.jpg?v=1771599782)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/products/Hacienda-Venecia.jpg?v=1695024069`
+  - ![Hacienda La Papaya, Juan Peña, Ecuador |  Fully Washed FSC-8509](https://cdn.shopify.com/s/files/1/0826/3978/2207/products/Hacienda-Venecia.jpg?v=1695024069)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 34.20 (SKU `FSC-8509`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£34.20 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £34.20 | £102.60 (3 kg × £34.20/kg) |
+  - | 5 | 5% | £32.49 | £162.45 (5 kg × £32.49/kg) |
+  - | 10 | 10% | £30.78 | £307.80 (10 kg × £30.78/kg) |
+  - | 15 | 15% | £29.07 | £436.05 (15 kg × £29.07/kg) |
+  - | 20–500 | 20% | £27.36 | £547.20 (20 kg × £27.36/kg) |
+
+### Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575
+- **URL:** https://www.falcon-micro.com/products/attia-chapata-cooperativa-de-caficultores-de-anserma-colombia-natural-fsc-8575
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Anserma, Caldas Producer Cooperativa de Caficultores de Anserma Varietal: Castillo Process: Natural Altitude: 1790 - 2200 Production/Harvest Date: 2025 Cup Score: 86 Cup profile: Green mango, papaya, tamarind, banana, rum, cacao, toffee. The Cooperativa de Caficultores de Anserma was established in 1967 with the goal of bringing together social strength and knowledge from its associated growers, ensuring better value for their coffee. The cooperative’s wet-milling plant presents a significant opportunity for small-scale growers who lack the infrastructure to process their own coffee. These farmers can bring their cherries to the Coop and receive a fair price, as the processing plant adds considerable value to the coffee, especially with its natural processing capabilities. Anserma Coop currently has 2,083 associated growers based in Anserma, Caldas, cultivating coffee at elevations ranging from 1,790 to 2,200 meters. They primarily grow Castillo, Colombia, and Caturro varieties. The plant specializes in the natural process but also handles a small amount of fully washed coffee. The process begins when the Coop purchases cherries from its members, carefully classifying them based on quality. Higher-quality cherries are reserved for the natural process, while others are directed to the fully washed process. Once sorted, the cherries undergo a cleaning process to remove unwanted solid particles and are washed before passing through an optical selection machine. This machine separates green cherries from ripe ones, ensuring that only the best cherries are used for natural processing. Following the initial selection, the cherries are placed in baskets for an aerobic fermentation process lasting 24 to 36 hours. These baskets are stored in a closed room to maintain stable temperatures. The aerobic process allows for free circulation of oxygen and CO2, which is naturally created during fermentation. Afterward, the cherries are transferred to a mechanical drying system, where temperatures are carefully controlled between 35 and 40 degrees Celsius until the coffee reaches a moisture level of 10-11%. Once dried, the coffee is packed in GrainPro bags to stabilize for 15 days, ensuring the highest quality.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/attia_-28.jpg?v=1773159421`
+  - ![Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/attia_-28.jpg?v=1773159421)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/attia_-37.jpg?v=1773159421`
+  - ![Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/attia_-37.jpg?v=1773159421)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Anserma_5.jpg?v=1773159758`
+  - ![Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Anserma_5.jpg?v=1773159758)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Anserma_3.jpg?v=1773159762`
+  - ![Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Anserma_3.jpg?v=1773159762)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9200.jpg?v=1773159761`
+  - ![Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_9200.jpg?v=1773159761)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Anserma6.jpg?v=1773159763`
+  - ![Attia - Chapata, Cooperativa de Caficultores de Anserma, Colombia |  Natural FSC-8575](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Anserma6.jpg?v=1773159763)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 28.00 (SKU `FSC-8575`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£28.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £28.00 | £84.00 (3 kg × £28.00/kg) |
+  - | 5 | 5% | £26.60 | £133.00 (5 kg × £26.60/kg) |
+  - | 10 | 10% | £25.20 | £252.00 (10 kg × £25.20/kg) |
+  - | 15 | 15% | £23.80 | £357.00 (15 kg × £23.80/kg) |
+  - | 20–500 | 20% | £22.40 | £448.00 (20 kg × £22.40/kg) |
+
+### Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457
+- **URL:** https://www.falcon-micro.com/products/ijen-highlands-botolinggo-village-indonesia-natural-fsc-8458
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Botolinggo Village, East Java Province, Indonesia Producer Kevenka Coffee Varietal: Komasti, Andungsari, Bourbon, Kartika Process: Natural Altitude: 1100-1500 Production/Harvest Date: 2026 Cup Score: 85.25 Cup profile: Cherry, strawberry, vanilla, dark chocolate, almond Kevenka was formed by two entrepreneurs brother Kevin & Kenny Soewondo who are from Surubaya in East Java. They initially started in coffee by opening a cafe in Surubaya and then realised they could roast themselves they opened a roastery. This soon led to them being inquisitive about the supply of green coffee they received and led them to start processing green coffee themselves from the highlands in and around Mt Ijen to supply their roastery. The next natural step was to start selling green coffee in the expanding internal specialty market as well as exporting coffee. In recent years they have been renting old processing facilities that were previously used for rice processing and drying and turned this into their processing centers at the bottom of Mt Ijen. Kevin Soewondo has travelled to Colombia to undertake the Q porcessing level 3 qualification to enhance their knowledge and improve their processing. They are embracing technology as well by investing in a small cherry colour sorter that helps them to be precise with the cherry and conssitency. They are using a more long term solution to ensuring they have the cherry they need without penalising farmers and collectors to sort this. Historically with the wet hulled process in Indonesia there has never been the incentive to deliver uniform ripe cherry due to the high demand and prices often seen in the local market. To get cherry the colour sorter has opened more opportunities for them and also increased their efficiency of not needing to handsort all the coffee before processing. For the 2025 season they have also invested in a Pinhalese mechanical drier due to the often wet envrionment they have to dry their coffee in. Mt. Ijen, Indonesia is a mountain located in East Java, around 3,5 hours’ drive from Bali. It is a somewhat active volcano in East Java province, Indonesia. A popular tourist destination is its crater which has the world's biggest acid lake, bright turquoise in colour, that burns with a
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ijen_high-28.jpg?v=1776092025`
+  - ![Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ijen_high-28.jpg?v=1776092025)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ijen_high-39.jpg?v=1776092025`
+  - ![Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/ijen_high-39.jpg?v=1776092025)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4411.jpg?v=1776092025`
+  - ![Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4411.jpg?v=1776092025)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4312.jpg?v=1776092025`
+  - ![Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_4312.jpg?v=1776092025)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_20220205_080051.jpg?v=1776092025`
+  - ![Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_20220205_080051.jpg?v=1776092025)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC02323.jpg?v=1776092025`
+  - ![Ijen Highlands, Botolinggo Village, Indonesia |  Natural FSC-8457](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC02323.jpg?v=1776092025)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 27.00 (SKU `FSC-8457`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£27.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £27.00 | £81.00 (3 kg × £27.00/kg) |
+  - | 5 | 5% | £25.65 | £128.25 (5 kg × £25.65/kg) |
+  - | 10 | 10% | £24.30 | £243.00 (10 kg × £24.30/kg) |
+  - | 15 | 15% | £22.95 | £344.25 (15 kg × £22.95/kg) |
+  - | 20–500 | 20% | £21.60 | £432.00 (20 kg × £21.60/kg) |
+
+### Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230
+- **URL:** https://www.falcon-micro.com/products/diego-samuel-bermudez-el-paraiso-p02-colombia-double-fermentation-fsc-8230
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: El Tambo, Cauca Producer Diego Samuel Bermudez Varietal: Castillo Process: Double Fermentation Altitude: 1960 Production/Harvest Date: 2025 Cup Score: 86.5 Cup profile: Crimson grape, nectar-like, Ceylon tea, sugarcane, fruit-like Diego Samuel has dedicated the last 16 years of his life to growing coffee. He has a deep understanding of the processing and production of high-end specialty coffee that is almost unparalleled in the unique flavour and profiles produced. His Villa Esperanza-Paraiso farm in El Tambo, Cauca covers 27ha of land and is planted with castillo, colombia, caturra, pink bourbon and geisha. From selection to meticulous drying, Diego has mitigated the challenges of a changeable climate and produced coffees of a very high standard. Diego works on their farm in Cauca together with his close-knit family. They have built their own lab on the farm to learn about cupping and roasting. This enabled them to begin experimenting to create their own fermentation protocols. His novel approach to coffee has led to Diego winning several awards from 2015 onwards. As well as being an accomplished cupper, he has also achieved the CQI level 2 processing course qualification. These lots are castillo or caturra, disproving myths that question the quality this varietal can produce. When the treatment of the coffee cherry is taken to such lengths, it is possible to draw out tremendous potential. The PO2 Process: This process begins with the anaerobic fermentation in cherry for 28 hours in tanks with relief valves at a temperature of 19C. The coffee is then pulped. It then undergoes anaerobic fermentation with mucilage for 40 hours at 21C. The coffee then undergoes thermal shock when it is washed in hot water of 40C and again in water at 12C. The coffee is then dried for 28 hours at 42C until reaching a bean moisture between 10% - 11%.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/double_ferment.jpg?v=1765878885`
+  - ![Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/double_ferment.jpg?v=1765878885)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_paraiso_lot2-33.jpg?v=1765878885`
+  - ![Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_paraiso_lot2-33.jpg?v=1765878885)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG6707-copia_1.jpg?v=1765878949`
+  - ![Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG6707-copia_1.jpg?v=1765878949)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG7076_1.jpg?v=1765878951`
+  - ![Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG7076_1.jpg?v=1765878951)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG6764.jpg?v=1765878953`
+  - ![Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG6764.jpg?v=1765878953)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG6746_1.jpg?v=1765878957`
+  - ![Diego Samuel Bermudez, El Paraíso P02, Colombia |  Double Fermentation FSC-8230](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Copyof_JBG6746_1.jpg?v=1765878957)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 34.60 (SKU `FSC-8230`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£34.60 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £34.60 | £103.80 (3 kg × £34.60/kg) |
+  - | 5 | 5% | £32.87 | £164.35 (5 kg × £32.87/kg) |
+  - | 10 | 10% | £31.14 | £311.40 (10 kg × £31.14/kg) |
+  - | 15 | 15% | £29.41 | £441.15 (15 kg × £29.41/kg) |
+  - | 20–500 | 20% | £27.68 | £553.60 (20 kg × £27.68/kg) |
+
+### El Borbollon, Santa Ana, El Salvador |  Natural FSC-8057
+- **URL:** https://www.falcon-micro.com/products/el-borbollon-santa-ana-el-salvador-natural-fsc-8057
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Calzontes Arriba Producer El Borbollon Mill Varietal: Red Bourbon Process: Natural Altitude: 1300 - 1400 Production/Harvest Date: 2025 Cup Score: 85.25 Cup profile: Orange, chocolate mousse, medium acidity, snickers This particular lot originates from a blend of bourbon, pacas and catimor varieties cultivated on the slopes of the famous Ilamatepec Volcano in Santa Ana. It is a blend of the farms that deliver coffee to the El Borbollon Mill. Processing on the farm follows the natural method, with coffee drying on raised beds for 18 days. The coffee is dry milled at El Borbollon. Seeking to enhance quality and diversify profiles, the Alvarez family planted this exceptional variety using seeds brought from Africa. The coffee was prepared following the high-quality standards of the El Borbollon mill, a family-run operation with over a century of experience in growing and exporting coffee. El Borbollon is renowned for its expertise in producing exemplary coffees, meeting the evolving requirements of buyers worldwide. This specific lot was carefully curated, combining daily microlots from Finca La Reforma SL28 to create a unique and high-quality offering.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon_micro-1copy3.jpg?v=1764675111`
+  - ![El Borbollon, Santa Ana, El Salvador |  Natural FSC-8057](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon_micro-1copy3.jpg?v=1764675111)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon-33.jpg?v=1764675123`
+  - ![El Borbollon, Santa Ana, El Salvador |  Natural FSC-8057](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon-33.jpg?v=1764675123)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/thumb_IMG_5792_1024-XL.jpg?v=1764675172`
+  - ![El Borbollon, Santa Ana, El Salvador |  Natural FSC-8057](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/thumb_IMG_5792_1024-XL.jpg?v=1764675172)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/thumb_IMG_5796_1024-XL.jpg?v=1764675184`
+  - ![El Borbollon, Santa Ana, El Salvador |  Natural FSC-8057](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/thumb_IMG_5796_1024-XL.jpg?v=1764675184)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240109_155923_IMG_4190-X2.jpg?v=1764675201`
+  - ![El Borbollon, Santa Ana, El Salvador |  Natural FSC-8057](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240109_155923_IMG_4190-X2.jpg?v=1764675201)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 15.50 (SKU `FSC-8057`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£15.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £15.50 | £46.50 (3 kg × £15.50/kg) |
+  - | 5 | 5% | £14.72 | £73.62 (5 kg × £14.72/kg) |
+  - | 10 | 10% | £13.95 | £139.50 (10 kg × £13.95/kg) |
+  - | 15 | 15% | £13.17 | £197.62 (15 kg × £13.17/kg) |
+  - | 20–500 | 20% | £12.40 | £248.00 (20 kg × £12.40/kg) |
+
+### Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238
+- **URL:** https://www.falcon-micro.com/products/atunkaa-caficauca-sugar-cane-decaf-colombia-sugar-cane-decaf-muk-8239
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Piendamo, Cauca Producer Cooperativa de Caficultores del Cauca Varietal: Caturra, Castillo, Colombia Process: Sugar Cane Decaf Altitude: 1700-1900 Production/Harvest Date: 2025 Cup Score: 85 Cup profile: Sweet pretzel, honeycomb, orange, caramel wafer Moisture Level 11.1% Water Activity (aW) 0.72 "Atunkaa" in the Wayuu dialect describes the state of sleeping or dreaming. These sugarcane decaf lots are produced by our community of farmers from the regions of Cauca, Caldas & Tolima. They are processed with care to preserve the natural sweetness and complexity of their varieties. Caficauca supplier: The "Cooperativa de Caficultores del Cauca" - Caficauca - was created in 1961 with the purpose of providing fair and easy market access for growers. It currently has over 3,000 associates, with the average farm size of 1.6Ha The Regional The coffee that has been carefully selected by Siruma is composed of an average of 85 growers per lot, where their coffee is fully/wash processed with a fermentation time ranging from 16-19 hours, to then go into parabolic solar dryers that take an average time of 10 days to dry the coffee until target moisture is achieved. The coffee comes from Piendam, Cajibio and Morales, which is commonly known as the Tabletop of Cauca. These towns provide an excellent elevation for coffee of 1,800-2,050masl, with very fertile land and a strong coffee economy. However, this strong coffee economy has come at a big expense; this area has a big history of armed conflict that started in the 1970s, implying most land owners were forced to plant illicit crops. Coffee has been a parallel economy that has been in a constant clash with the illicit crops. https://falconcoffees.smugmug.com/COLOMBIA/Other-Suppliers/Colombia-Timbio-Cauca
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atunkaa_c-29.jpg?v=1762871101`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atunkaa_c-29.jpg?v=1762871101)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atunkaa_c-30.jpg?v=1762871101`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atunkaa_c-30.jpg?v=1762871101)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_7393.jpg?v=1762871204`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_7393.jpg?v=1762871204)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC_0552.jpg?v=1762871208`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC_0552.jpg?v=1762871208)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_7227.jpg?v=1762871212`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_7227.jpg?v=1762871212)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_7226.jpg?v=1762871210`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_7226.jpg?v=1762871210)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC_0567.jpg?v=1762871214`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Sugar Cane Decaf FSC-8238](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC_0567.jpg?v=1762871214)
+- **Pricing / variants:**
+  - 1000 g pack — **compare-at** 19.50, **current** 18.00 (SKU `FSC-8238`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£18.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £18.00 | £54.00 (3 kg × £18.00/kg) |
+  - | 5 | 5% | £17.10 | £85.50 (5 kg × £17.10/kg) |
+  - | 10 | 10% | £16.20 | £162.00 (10 kg × £16.20/kg) |
+  - | 15 | 15% | £15.30 | £229.50 (15 kg × £15.30/kg) |
+  - | 20–500 | 20% | £14.40 | £288.00 (20 kg × £14.40/kg) |
+
+### Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963
+- **URL:** https://www.falcon-micro.com/products/finca-etiopia-los-naranjos-cafe-el-salvador-honey-muk-7963
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Cerro Ilamatepec, Santa Ana Producer Los Naranjos Cafe Varietal: Geisha Process: Honey Altitude: 1950-2150 Production/Harvest Date: 2025 Cup Score: 87.25 Cup profile: Violets, zesty, blueberry, almond paste, honey, ruby grapefruit - Ethiopian like Moisture Level 8.4% Water Activity (aW) 0.48 Finca Ethiopia is one of the flagship farms of Los Naranjos Café, located in the Apaneca region of Ahuachapán, El Salvador. Established in 2018, this 34.5-hectare farm was revitalized and renamed to honor the birthplace of coffee. Despite its size, only 13 hectares are cultivated, with the remainder preserved as natural forest to protect local flora and fauna. The farm sits just behind the Ilamatepec Volcano, benefiting from rich volcanic soil and a climate ideal for coffee cultivation. The coffee is grown entirely under shade provided by native trees, contributing to its exceptional quality. Notably, Finca Ethiopia produces Gesha coffee, renowned for its bright, juicy, and exceptionally clean profile, In line with sustainable practices, Finca Ethiopia employs manual weeding using tools like machetes, avoiding chemical herbicides. Soil studies guide their nutrient management, and measures such as soil conservation work and water collection pits protect groundwater. The cherries are carefully tested for sweetness before harvest, ensuring only the best are selected for processing Finca Ethiopia's commitment to quality and sustainability has garnered recognition, including a 22nd-place finish in the 2025 Cup of Excellence competition. Process - Honey 1. Step One: Begin with flotation to remove empty beans and overripe beans that could produce alcoholic and phenolic flavours. 2. Step Two: Pass through green bean separators to remove green beans, preventing quakers in the parchment. The beans then go through pulpers to remove the bean's shell, leaving 100% of its mucilage. 3. Step Three: The pulped coffee is sent to metallic carts without passing through the demucilaginator, preserving 100% of the mucilage. https://falconcoffees.smugmug.com/EL-SALVADOR/EL-SALVADOR-Los-Naranjos-Mill
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/los_naranjos_micro-1copy2.jpg?v=1762272185`
+  - ![Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/los_naranjos_micro-1copy2.jpg?v=1762272185)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/los_naranjos-27.jpg?v=1762272185`
+  - ![Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/los_naranjos-27.jpg?v=1762272185)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_185819_IMG_4287.jpg?v=1762272185`
+  - ![Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_185819_IMG_4287.jpg?v=1762272185)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_165155_IMG_4252.jpg?v=1762272185`
+  - ![Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_165155_IMG_4252.jpg?v=1762272185)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_165155_IMG_4252_8ac99625-67e5-4c40-b8f0-576fa12185c3.jpg?v=1762272185`
+  - ![Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_165155_IMG_4252_8ac99625-67e5-4c40-b8f0-576fa12185c3.jpg?v=1762272185)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_185834_IMG_4289.jpg?v=1762272185`
+  - ![Finca Etiopia, Los Naranjos Cafe, El Salvador |  Honey FSC-7963](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240110_185834_IMG_4289.jpg?v=1762272185)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 56.00 (SKU `FSC-7963`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£56.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £56.00 | £168.00 (3 kg × £56.00/kg) |
+  - | 5 | 5% | £53.20 | £266.00 (5 kg × £53.20/kg) |
+  - | 10 | 10% | £50.40 | £504.00 (10 kg × £50.40/kg) |
+  - | 15 | 15% | £47.60 | £714.00 (15 kg × £47.60/kg) |
+  - | 20–500 | 20% | £44.80 | £896.00 (20 kg × £44.80/kg) |
+
+### Hamacas, Vides Family, Guatemala |  Washed FSC-8068
+- **URL:** https://www.falcon-micro.com/products/hamacas-vides-family-guatemala-washed-muk-8068
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: La Libertad, Huehuetenango Producer Vides Family Varietal: Bourbon, Caturra Process: Washed Altitude: 2000 Production/Harvest Date: 2025 Cup Score: 85.5 Cup profile: Blood orange, tomato, bright, tea-like, stone-fruit caramel, kiwi, brown sugar Moisture Level 9.6% Water Activity (aW) 0.52 Hamacas is a coffee farm located in La Libertad, Huehuetenango, Guatemala, at an altitude of 2,000 meters above sea level. Managed by the Vides family, the farm’s GPS coordinates are 15°33'15.47"N and 91°55'22.88"W. The Vides family acquired this farm in 2017, continuing a legacy that began with Jorge Vides in 1958, when he started producing coffee using Caturra, Bourbon, and Catuaí varieties. Today, the farm is operated by the third generation of the family. Hamacas employs eight permanent workers and between 10 to 25 temporary workers per trimester. The farm covers 6 hectares, producing approximately 1,500 kilograms of green coffee per hectare. The main challenges in coffee production include climate change, fluctuating rainfall patterns, rising fertilizer costs, and a significant decrease in available labour. These challenges require careful planning and execution to ensure successful production. Future investment plans include separating the productive matrix by coffee variety to increase yield while maintaining high quality. The farm is also enhancing biodiversity by planting more trees to improve environmental efficiency. Social and environmental responsibility is a priority for Hamacas, which supports four community schools, provides scholarships for coffee specialization, and manages several tree-planting projects. Hamacas produces approximately 12,000 kilograms of green coffee annually, with the harvest occurring between January and April. The coffee varieties grown include San Ramón and Caturra. Coffee cultivation is carefully managed, with the picking season varying according to altitude. Pest control is a year-round effort, and the farm follows the ANACAFE program for pruning, which runs from March to October. Fertilization is conducted from May to November, with three applications based on soil test results. The mix of fertilizers used is 60% chemical and 40% natural ingredients, with an average organic material content of 5%.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/hamacas-28_9668088f-58a9-401a-b2ba-2a59d6f139fb.jpg?v=1759412286`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/hamacas-28_9668088f-58a9-401a-b2ba-2a59d6f139fb.jpg?v=1759412286)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/hamacas-31_926980c6-471b-4493-95af-ef9898ddcaff.jpg?v=1759412286`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/hamacas-31_926980c6-471b-4493-95af-ef9898ddcaff.jpg?v=1759412286)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image2_1.jpg?v=1761299604`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image2_1.jpg?v=1761299604)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/RIoAzul_Page_3_Image_0002.jpg?v=1761299606`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/RIoAzul_Page_3_Image_0002.jpg?v=1761299606)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5927.jpg?v=1761299613`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5927.jpg?v=1761299613)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5835_1.jpg?v=1761299617`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5835_1.jpg?v=1761299617)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC00459_1.jpg?v=1761299618`
+  - ![Hamacas, Vides Family, Guatemala |  Washed FSC-8068](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/DSC00459_1.jpg?v=1761299618)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 17.00 (SKU `FSC-8068`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£17.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £17.00 | £51.00 (3 kg × £17.00/kg) |
+  - | 5 | 5% | £16.15 | £80.75 (5 kg × £16.15/kg) |
+  - | 10 | 10% | £15.30 | £153.00 (10 kg × £15.30/kg) |
+  - | 15 | 15% | £14.45 | £216.75 (15 kg × £14.45/kg) |
+  - | 20–500 | 20% | £13.60 | £272.00 (20 kg × £13.60/kg) |
+
+### Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924
+- **URL:** https://www.falcon-micro.com/products/las-lajas-copy-chacon-family-costa-rica-anaerobic-honey-muk-7924
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Central Valley - Sabanilla de Alajuela Producer Chacon Family Varietal: Tipica Lima Process: Anaerobic Honey Altitude: 1500-1700 Production/Harvest Date: 2025 Cup Score: 86.5 Cup profile: Red berry coulis, conference pear, pink rose petal, grenadine, cinnamon spice, sage Moisture Level 9.6 Water Activity (aW) 0.52 Oscar Chacón Solano owns the farm Las Lajas. In 1988, following the death of Oscar’s father, his legacy of 50 hectares of land was left to his six children. The Chacón siblings decided to change their coffee production system, focusing their efforts on environmental conservation, providing stable employment for their workers, and keeping coffee culture alive in their family and community. In the early 2000s, Oscar Chacón and Francisca Cubillo, representing the third generation of coffee producers in their family, decided to process the coffee from their own farms, giving rise to the Las Lajas Ecological Benefit. During these early years, Oscar and Francisca were in pursuit of excellence, as well as offering a differentiated product within the coffee market. Hence, in 2006, they introduced the natural process when an earthquake left the Sabanilla area without light and water for a long time, making it impossible to carry out the traditional washing process. They export 2700 sacks annually. The farm is located in Sabanilla de Alajuela, Costa Rica. All the coffee processed by Las Lajas is produced by the Chacón family. The average size is 100ha and the average yield is 30 fanegas per hectare. The farm is situated at an altitude range of 1500 to 1700masl. The majority of crops grown are caturra-catuaí, but over the last five years, they have started a renovation process, diversifying the variety of crops on the farm. The harvesting period starts in December and ends in February. To achieve the Yellow Diamond process, the coffee is pulped and left with 100% of the mucilage. It is transferred to an anaerobic fermentation tank, where it rests for 84 hours. After fermentation, the coffee is moved to raised beds for dehydration for a period of 15 to 20 days to finish the drying process. https://falconcoffees.smugmug.com/COSTA-RICA/COSTA-RICA-Las-Lajas *Price has been dropped due to signs of age, but remains suitable for use.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/las_lajas.jpg?v=1759418068`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/las_lajas.jpg?v=1759418068)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/las_lajas-27_1.jpg?v=1759418068`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/las_lajas-27_1.jpg?v=1759418068)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FamiliaChaconCubillo_2.jpg?v=1759418021`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/FamiliaChaconCubillo_2.jpg?v=1759418021)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Las_Lajas_Natural_y_Patios_acddd79a-6e2d-455b-9e03-9352cc89ebe8.jpg?v=1759418032`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Las_Lajas_Natural_y_Patios_acddd79a-6e2d-455b-9e03-9352cc89ebe8.jpg?v=1759418032)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/thumb_IMG_6748_1024.jpg?v=1759418043`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/thumb_IMG_6748_1024.jpg?v=1759418043)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Franciscaysuhija.jpg?v=1759418046`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Franciscaysuhija.jpg?v=1759418046)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/6301B62D-B7B4-40C0-A791-A9D7E6108407_1_105_c.jpg?v=1759418051`
+  - ![Las Lajas , Chacon Family, Costa Rica |  Anaerobic Honey FSC-7924](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/6301B62D-B7B4-40C0-A791-A9D7E6108407_1_105_c.jpg?v=1759418051)
+- **Pricing / variants:**
+  - 1000 g pack — **compare-at** 36.00, **current** 25.00 (SKU `FSC-7924`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£25.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £25.00 | £75.00 (3 kg × £25.00/kg) |
+  - | 5 | 5% | £23.75 | £118.75 (5 kg × £23.75/kg) |
+  - | 10 | 10% | £22.50 | £225.00 (10 kg × £22.50/kg) |
+  - | 15 | 15% | £21.25 | £318.75 (15 kg × £21.25/kg) |
+  - | 20–500 | 20% | £20.00 | £400.00 (20 kg × £20.00/kg) |
+
+### Noruega, Ahuachapon, El Salvador |  Natural FSC-7958
+- **URL:** https://www.falcon-micro.com/products/noruega-ahuachapon-el-salvador-natural-muk-7958
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Ahuachapon, El Salvador Producer Sigfredo Corado Varietal: Pacamara Process: Natural Altitude: 1400-1500 Production/Harvest Date: 2025 Cup Score: 86.5 Cup profile: Green kiwi, carambola, lime, wild strawberry, Earl-Grey, pear Moisture Level 9.5 Water Activity (aW) 0.56 Finca Noruega consists of 43 manzanas planted with a range of varieties from bourbon to geisha in the Ahuachapán mountain range in the west of El Salvador. This farm is part of the Los Naranjos group headed by Sigfredo Corado, a retired professor of agronomy from the National School of Agriculture. The farm is part of the Renacer Program which is a technical coffee field school for producers in the area to learn about better farm management practices. This program is funded by Raices (Roots) and supported by Catholic Relief Services in El Salvador. The Technical field school is led by Sigfredo with 6 field technicians and helps small to medium producers in the area by training in best farm practises that are restorative for the land and soil, as well as beneficial for the yield and quality of the coffee. The field school is based here at Finca Noruega, where classes are held twice a month. They focus on a program developed for soil health: Right Source, Right Dose, Right Place, Right Moment. As of 2021, they have 60 students who work on the test plots where they can implement the knowledge gained in class before applying it to their own farms. This lot is made up solely of pacamara that was picked selectively before being taken to the wet mill and drying beds at Beneficio San Rafael. Falcon also assisted with organised training in EL Salvador in conjunction with Catholic Relief Services by sending the head of the Microlot program from the Aruco Cooperative in Honduras there for a week of training. Carlos Estevez explained experimental processing and how to implement it, as he had learnt through Falcon. The results were very positive as Finca Los Angeles placed 5th and Finca Noruega 15th in their first attempt with these new processes. https://falconcoffees.smugmug.com/EL-SALVADOR/Finca-Noruega
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/noruega_micro-1copy2.jpg?v=1759411862`
+  - ![Noruega, Ahuachapon, El Salvador |  Natural FSC-7958](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/noruega_micro-1copy2.jpg?v=1759411862)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/noruega-27.jpg?v=1759411862`
+  - ![Noruega, Ahuachapon, El Salvador |  Natural FSC-7958](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/noruega-27.jpg?v=1759411862)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image00006_5b298f2d-ceb9-45d1-82c1-65707137772b.jpg?v=1759411848`
+  - ![Noruega, Ahuachapon, El Salvador |  Natural FSC-7958](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/image00006_5b298f2d-ceb9-45d1-82c1-65707137772b.jpg?v=1759411848)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240108_174319_IMG_4116.jpg?v=1759411853`
+  - ![Noruega, Ahuachapon, El Salvador |  Natural FSC-7958](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/20240108_174319_IMG_4116.jpg?v=1759411853)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5623.jpg?v=1759411856`
+  - ![Noruega, Ahuachapon, El Salvador |  Natural FSC-7958](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5623.jpg?v=1759411856)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5633.jpg?v=1759411858`
+  - ![Noruega, Ahuachapon, El Salvador |  Natural FSC-7958](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/IMG_5633.jpg?v=1759411858)
+- **Pricing / variants:**
+  - 1000 g pack — **compare-at** 21.00, **current** 19.00 (SKU `FSC-7958`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.00 | £57.00 (3 kg × £19.00/kg) |
+  - | 5 | 5% | £18.05 | £90.25 (5 kg × £18.05/kg) |
+  - | 10 | 10% | £17.10 | £171.00 (10 kg × £17.10/kg) |
+  - | 15 | 15% | £16.15 | £242.25 (15 kg × £16.15/kg) |
+  - | 20–500 | 20% | £15.20 | £304.00 (20 kg × £15.20/kg) |
+
+### The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755
+- **URL:** https://www.falcon-micro.com/products/the-coffee-gardens-yeast-ferment-uganda-yeast-ferment-muk-7755
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Upper Bukyabo Producer The Coffee Gardens Varietal: Nyasaland, SL14, SL28 Process: Fruit Fermentation Altitude: 1800-2200 Production/Harvest Date: Feb 25 Cup Score: 86.5 Cup profile: Green apple, red berries, earl grey florals, sticky toffee pudding & dark chocolate The Coffee Gardens was established in 2017 with the goal of producing incredible specialty coffee in an ethical way, offering a transparent and direct link between coffee farmers and coffee consumers. At the start of the 2022 season they dismantled their old washing station and rebuilt it a new site to be able to expand their capacity to produce more coffee. The Coffee Gardens Project has been established for many purposes: to improve farmers’ income and livelihoods, create and provide rural employment, promote gender equality, increase transparency and traceability throughout the supply chain, promote and work on environmental protection in the area and to provide farmer training in Good Agricultural Practises (GAP). The Coffee Gardens also incentivise and reward farmers in a number of different monetary and non-monetary ways. These include; post-season bonuses, additional income-generating and employment opportunities, tree distribution and a range of all-year-round training programs. The Coffee Gardens is transparent with their partner farmers about buying policy and prices, providing each registered farmer with a contract and a buying-record book, communicating any price changes via SMS to registered farmers, and providing receipts for every transaction. The coffee in this micro-lot is produced by the farmers on the mountain above The Coffee Gardens’ washing station. The farmers bring the coffee down to the processing station themselves, earning extra income. This lot was harvested in January 2023 and is an experimental lot produced for the first time this season. The coffee is fermented for 100 hours in cherry in the tank covered by a tarpaulin. It is then pulped and submerged in tanks for a 40hr signature fermentation before the drying process. https://www.storydoc.com/d5249b4048239e5cc84c3f726aaa8798/acaebdd-10c0-3a47-643-76a4177b2e0/685e2e71aa826e3a975388a0 https://falconcoffees.smugmug.com/RWANDA/RWANDA-KAGEYO
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/garden_yeast-20.jpg?v=1751984739`
+  - ![The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/garden_yeast-20.jpg?v=1751984739)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/garden_yeast_micro-2-hover.jpg?v=1751984739`
+  - ![The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/garden_yeast_micro-2-hover.jpg?v=1751984739)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TheCoffeeGardensseason21-22_23_-L.jpg?v=1751984739`
+  - ![The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TheCoffeeGardensseason21-22_23_-L.jpg?v=1751984739)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TheCoffeeGardensseason21-22_13_-L.jpg?v=1751984739`
+  - ![The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TheCoffeeGardensseason21-22_13_-L.jpg?v=1751984739)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TheCoffeeGardensseason21-22_9_-L.jpg?v=1751984739`
+  - ![The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/TheCoffeeGardensseason21-22_9_-L.jpg?v=1751984739)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Area_Credit_TheCoffeeGardens_3_-L.jpg?v=1751984739`
+  - ![The Coffee Gardens, Yeast Fermentation, Uganda | Yeast Fermentation Washed FSC-7755](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/Area_Credit_TheCoffeeGardens_3_-L.jpg?v=1751984739)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 21.20 (SKU `FSC-7755`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£21.20 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £21.20 | £63.60 (3 kg × £21.20/kg) |
+  - | 5 | 5% | £20.14 | £100.70 (5 kg × £20.14/kg) |
+  - | 10 | 10% | £19.08 | £190.80 (10 kg × £19.08/kg) |
+  - | 15 | 15% | £18.02 | £270.30 (15 kg × £18.02/kg) |
+  - | 20–500 | 20% | £16.96 | £339.20 (20 kg × £16.96/kg) |
+
+### Castanhas Do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8266
+- **URL:** https://www.falcon-micro.com/products/castanhas-do-brazil-cocatrel-cooperative-brazil-natural-fsc-8266
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Tres Pontas, Sul de Minas Producer Cocatrel Cooperative Varietal: Mixed Process: Natural Altitude: 900 - 1100 Production/Harvest Date: 2025 Cup Score: 82.75 Cup profile: Orange, lime, hazelnut, caramel, dark chocolate. The Cocatrel Cooperative was founded in 1961 in Tres Pontas and has now growm to the second largest Cooperative in Brazil. There are over 6000 members who are part of the cooperative and they have 11 different buying points across the region. All the coffee are electronically tagged and recorded on delivery with a unique QR code giving full traceablity on all the coffees for the growers to know exactly where their coffee is. Over 50% of the members of the cooperative grow coffee on land that is less than 10 Ha in size. At Falcon Specialty we work with a branch of the Cooperative called Cocatrel Direct Trade who work to source the best coffees and promote these for their members. Castanhas do Brasil which translates as "Nuts of Brazil" is a blend of made from mainly from one particular area called Carmo De Cachoeira. The coffee is selected for its sweet and creamy hazelnut praline profile by the cupping team in the Cocatrel Direct Lab who assign it to this profile blend. The coffee must have a clean profile and be scoring 83 + on evaluation. All the coffees that are part of this blend are dried in static boxes. These are 1 m deep boxes with capacity for 15000 litre volume of cherry which equates to 25-30 bags of green coffee. The boxes have a vented grill at the bottom to allow for air to be circulated from below up through the drying coffee. There are two thermometers at different depths to ensure a safe temperature always below 40c. They are referred to as static due to the coffee remaining still in the boxes and not being turned or rotated during drying. After it is dried the coffee is then left to rest for approximately 1- 2 weeks before being milled. This method has allowed the production of more fruity and prominent profiles from the usual profile we associate with Brazil natural coffee. https://falconcoffees.smugmug.com/BRAZIL/Brazil-Castanas
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/castanhas_micro-1_copy_3.jpg?v=1776867662`
+  - ![Castanhas Do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8266](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/castanhas_micro-1_copy_3.jpg?v=1776867662)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/castanhas-39.jpg?v=1776867661`
+  - ![Castanhas Do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8266](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/castanhas-39.jpg?v=1776867661)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/CocatrelOffice-1.jpg?v=1762942087`
+  - ![Castanhas Do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8266](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/CocatrelOffice-1.jpg?v=1762942087)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/CocatrelOffice-2_1.jpg?v=1762942085`
+  - ![Castanhas Do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8266](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/CocatrelOffice-2_1.jpg?v=1762942085)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/CocatrelOffice-2.jpg?v=1758721662`
+  - ![Castanhas Do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8266](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/CocatrelOffice-2.jpg?v=1758721662)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 14.00 (SKU `FSC-8266`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£14.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £14.00 | £42.00 (3 kg × £14.00/kg) |
+  - | 5 | 5% | £13.30 | £66.50 (5 kg × £13.30/kg) |
+  - | 10 | 10% | £12.60 | £126.00 (10 kg × £12.60/kg) |
+  - | 15 | 15% | £11.90 | £178.50 (15 kg × £11.90/kg) |
+  - | 20–500 | 20% | £11.20 | £224.00 (20 kg × £11.20/kg) |
+
+### Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Decaf FSC-8764
+- **URL:** https://www.falcon-micro.com/products/atunkaa-caficauca-sugar-cane-decaf-colombia-decaf-fsc-8764
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Piendamo, Cauca Producer Siruma Varietal: Castillo, Colombia, Caturra Process: Decaf Altitude: 1700-1900 Production/Harvest Date: 2025 Cup Score: 84.25 Cup profile: Orange, apple, milk chocolate, almond, caramel ATUNKAA "Atunkaa" in the Wayuu dialect describes the state of sleeping or dreaming. These sugarcane decaf lots are produced by our community of farmers from the regions of Cauca, Caldas & Tolima. They are processed with care to preserve the natural sweetness and complexity of their varieties. Caficauca supplier: The "Cooperativa de Caficultores del Cauca" - Caficauca - was created in 1961 with the purpose of providing fair and easy market access for growers. It currently has over 3,000 associates, with the average farm size of 1.6Ha The Regional The coffee that has been carefully selected by Siruma is composed of an average of 85 growers per lot, where their coffee is fully/wash processed with a fermentation time ranging from 16-19 hours, to then go into parabolic solar dryers that take an average time of 10 days to dry the coffee until target moisture is achieved. The coffee comes from Piendam, Cajibio and Morales, which is commonly known as the Tabletop of Cauca. These towns provide an excellent elevation for coffee of 1,800-2,050masl, with very fertile land and a strong coffee economy. However, this strong coffee economy has come at a big expense; this area has a big history of armed conflict that started in the 1970s, implying most land owners were forced to plant illicit crops. Coffee has been a parallel economy that has been in a constant clash with the illicit crops. https://falconcoffees.smugmug.com/COLOMBIA/Other-Suppliers/Colombia-Timbio-Cauca
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atinkaa_26-29.jpg?v=1777389727`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Decaf FSC-8764](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atinkaa_26-29.jpg?v=1777389727)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atinkaa_26-39.jpg?v=1777389728`
+  - ![Atunkaa Caficauca, Sugar Cane Decaf, Colombia |  Decaf FSC-8764](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/atinkaa_26-39.jpg?v=1777389728)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.50 (SKU `FSC-8764`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.50 | £58.50 (3 kg × £19.50/kg) |
+  - | 5 | 5% | £18.52 | £92.62 (5 kg × £18.52/kg) |
+  - | 10 | 10% | £17.55 | £175.50 (10 kg × £17.55/kg) |
+  - | 15 | 15% | £16.57 | £248.62 (15 kg × £16.57/kg) |
+  - | 20–500 | 20% | £15.60 | £312.00 (20 kg × £15.60/kg) |
+
+### Lala Salama , Sparkling Water Decaf, Ethiopia |  Decaf FSC-8739
+- **URL:** https://www.falcon-micro.com/products/lala-salama-decaf-sparkling-water-decaf-ethiopia-decaf-fsc-8739
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Odo Shakiso Woreda, Tero Kebell Producer Dimtu Coffee Industry PLC Varietal: Heirloom Process: Decaf Altitude: 2100-2200 Production/Harvest Date: 2025 Cup Score: 82 Cup profile: Plum, pear, almond, dark chocolate, cedar wood Dimtu Coffee Industry PLC (DCI) Overview Dimtu Coffee Industry PLC (DCI) is an Ethiopian company that joined the coffee industry in 2010 G.C.. Its mission is to produce, process, and export top-quality organic Ethiopian Guji specialty certified coffee beans sustainably. The company aims to be a leading coffee producer, processor, and exporter in Ethiopia, trusted for quality, traceability, sustainability, reliability, and quality consistency. DCI is also involved in sustainable programs, including smallholder farmers, and is committed to paying a premium price to these farmers. Region and Location Dimtu's main farm and operations are located in the Guji Zone, specifically in Odo Shakiso Woreda, Tero kebelle. The farm is near Tero city, 21 km from Odo Shakiso Woreda, at an altitude is 2112 m.a.s.l. and the annual mean temperature ranges from 19.5−25.5 degrees Celsius. The soil type is fertile and red loamy, with a hilly and undulated topography. DCI also has an Organic certified Coffee Processing unit based in Dukem, Oromia, which is 20 km from Addis Ababa. Primary Processing Practices Best harvesting practice is followed, with out-grower farmers collecting red cherry beans and being rewarded with higher prices for selected red cherry harvest. Each sorted coffee is placed on its own labelled and traceable coffee bed, and shade drying methods are implemented. https://falconcoffees.smugmug.com/ETHIOPIA/Dimtu
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_26-29.jpg?v=1777391016`
+  - ![Lala Salama , Sparkling Water Decaf, Ethiopia |  Decaf FSC-8739](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_26-29.jpg?v=1777391016)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_26-37.jpg?v=1777391015`
+  - ![Lala Salama , Sparkling Water Decaf, Ethiopia |  Decaf FSC-8739](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/lala_salama_26-37.jpg?v=1777391015)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.00 (SKU `FSC-8739`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.00 | £57.00 (3 kg × £19.00/kg) |
+  - | 5 | 5% | £18.05 | £90.25 (5 kg × £18.05/kg) |
+  - | 10 | 10% | £17.10 | £171.00 (10 kg × £17.10/kg) |
+  - | 15 | 15% | £16.15 | £242.25 (15 kg × £16.15/kg) |
+  - | 20–500 | 20% | £15.20 | £304.00 (20 kg × £15.20/kg) |
+
+### Gatomboya Washing Station, Nyeri AB, Kenya |  Washed FSC-8712
+- **URL:** https://www.falcon-micro.com/products/gatomboya-washing-station-nyeri-ab-kenya-washed-fsc-8712
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Nyeri District Producer Gatomboya Washing Station Varietal: SL28 & 34, Ruiru11 Process: Washed Altitude: 1800 Production/Harvest Date: 2026 Cup Score: 87 Cup profile: Pink Grapefruit, baked apple, custard, toffee Earning it's name from the local village, the Gatomboya Coffee Washing Station was formed by the cooperative that still owns and supplies the coffee. Processing at Gatomboya wet mill adheres to stringent quality-driven method. After the red ripe cherry is delivered to the processing area, it undergoes meticulous sorting to ensure exceptional cup quality of their coffee. Most farmers farm a plot approximately one hectare, with roughly 400 coffee bushes planted on it, amongst food and other cash crops. Once pulped, cherries are delivered to fermentation tanks where it will ferment for about 16-20 hours depending on the ambient temperature at that time. The coffee is then fully washed to remove traces of all mucilage in gradient water channels. The parchment will then be distributed on the raised drying sunbeds where it will dry slowly over the course of around 12-20 days. The parchment is covered during the hottest time using shade nets. The Coop utilises the lower grades of coffee by roasting and grinding them to promote coffee drinking culture within their farmers under a local brand name Barichu Coffee House. This generates more income and helps to connect the farmers with the product they spend all year tending to. The coffee is composed of a blend of well-known Kenyan varieties, including SL28, SL34, Ruiru 11, SL28, originally selected in the 1930s, is especially valued for its drought tolerance and complex, sweet profile with wine-like undertones. SL34, another historic selection, is admired for its rich body and balanced acidity, though it requires careful management due to its susceptibility to disease. Ruiru 11 offers high yields and strong disease resistance. https://falconcoffees.smugmug.com/KENYA/KENYA-Generic
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/gatomboya-28.jpg?v=1777391107`
+  - ![Gatomboya Washing Station, Nyeri AB, Kenya |  Washed FSC-8712](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/gatomboya-28.jpg?v=1777391107)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/gatomboya-37.jpg?v=1777391107`
+  - ![Gatomboya Washing Station, Nyeri AB, Kenya |  Washed FSC-8712](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/gatomboya-37.jpg?v=1777391107)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.00 (SKU `FSC-8712`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.00 | £57.00 (3 kg × £19.00/kg) |
+  - | 5 | 5% | £18.05 | £90.25 (5 kg × £18.05/kg) |
+  - | 10 | 10% | £17.10 | £171.00 (10 kg × £17.10/kg) |
+  - | 15 | 15% | £16.15 | £242.25 (15 kg × £16.15/kg) |
+  - | 20–500 | 20% | £15.20 | £304.00 (20 kg × £15.20/kg) |
+
+### Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8705
+- **URL:** https://www.falcon-micro.com/products/tegu-factory-ab-karatina-town-kenya-washed-fsc-8705
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Karatina Town, Nyeri County, Central Kenya Producer Tegu Factory Varietal: SL28 & 34, Ruiru11 Process: Washed Altitude: 1700-1800 Production/Harvest Date: 2026 Cup Score: 87 Cup profile: Lemon, Lime, Toffee apple, black tea Tegu is one of the wet mills owned and operated by the Tekangu Farmers Cooperative Society near the town of Karatina in Nyeri, Kenya. This area is well known for its fertile soils and strong reputation for quality coffee production. Founded in 1969, Tekangu FCS represents around 1,200 smallholder members, each typically farming less than half a hectare across five villages. The name Tegu translates as “low place”, reflecting its position in the foothills between Mount Kenya to the north-east and the Aberdare Range to the west. In addition to Tegu, Tekangu FCS also manages the Karogoto and Ngunguru wet mills. Coffee is collected through three centralised collection points, serving farms located up to around 6km from the mill. At the factory, cherries are first hand-sorted to remove underripes and overripes. They are then floated to separate lower-density cherries before being depulped using a disc pulper. The coffee undergoes an overnight dry fermentation, followed by washing and a second fermentation under water. It is then washed again, soaked in clean water, and finally moved to raised beds on the gentle slopes outside the mill to dry. During drying, the parchment is typically covered at night and during the hottest part of the day to help maintain stable temperatures and protect quality. We purchase Kenyan coffees through a local Kenyan company that bids on our behalf at auction after lots have been screened and cupped locally.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu_factory-28.jpg?v=1777390789`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8705](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu_factory-28.jpg?v=1777390789)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu_factory-37.jpg?v=1777390789`
+  - ![Tegu Factory AB, Karatina Town, Kenya |  Washed FSC-8705](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/tegu_factory-37.jpg?v=1777390789)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 19.50 (SKU `FSC-8705`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£19.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £19.50 | £58.50 (3 kg × £19.50/kg) |
+  - | 5 | 5% | £18.52 | £92.62 (5 kg × £18.52/kg) |
+  - | 10 | 10% | £17.55 | £175.50 (10 kg × £17.55/kg) |
+  - | 15 | 15% | £16.57 | £248.62 (15 kg × £16.57/kg) |
+  - | 20–500 | 20% | £15.60 | £312.00 (20 kg × £15.60/kg) |
+
+### El Refugio, Agudelo Uribe family, Colombia |  Washed Geisha FSC-8769
+- **URL:** https://www.falcon-micro.com/products/el-refugio-agudelo-uribe-family-colombia-washed-fsc-8769
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Villamaría – Caldas Producer Agudelo Uribe family Varietal: Geisha Process: Washed Altitude: 1750-2050 Production/Harvest Date: 2025 Cup Score: 87.5 Cup profile: Lemon zest, tomato, mango, buttery , black tea El Refugio belongs to the Agudelo Uribe family since August of 2020. It started as a project to share family time, connect with nature and produce specialty coffee – something that all members of the family are passionate about. The farm has 7.5 hectares of coffee and exotic varietals like Gesha, sidra Bourbon and other Ethiopian varieties, with an average age of 3 years. The farm is located in the same mountain range as the “Ruiz Volcano”, giving volcanic soils to the farm. Before being a coffee farm, the use of the land was oriented towards livestock and grass. However, when the farm turned to coffee, the owners have planted a lot of native trees to create shading and agroforest systems that seek to protect the coffee from the harsh winds and erosive characteristics of the land. These trees also help to fix nitrogen in the soil in order to give more nutrients to the coffee plantation. Additionally, since the trees are all native species, they become a natural habitat and source of food for the native fauna; especially regional birds. The main harvest (70%) is in the second semester (October-January), and the fly-crop (30%) is in the first semester (March-June) Processing of the coffee: All the coffee processed in the farm is fully washed coffee. When the trees grow older there will probably be natural coffees coming from the farms, but the initial harvests have had great results showing the terroir and big potential of a young coffee. The process is being done in an “Ecomill” that is a machine that pulps the coffee and has a fermentation tank right beneath the pulping machine. It has a big plus when it comes to water management, where the water consumption is very low compared to other methods.
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_refugio_micro-1copy2.jpg?v=1777390663`
+  - ![El Refugio, Agudelo Uribe family, Colombia |  Washed Geisha FSC-8769](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_refugio_micro-1copy2.jpg?v=1777390663)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_refugio-39.jpg?v=1777390662`
+  - ![El Refugio, Agudelo Uribe family, Colombia |  Washed Geisha FSC-8769](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_refugio-39.jpg?v=1777390662)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 34.50 (SKU `FSC-8769`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£34.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £34.50 | £103.50 (3 kg × £34.50/kg) |
+  - | 5 | 5% | £32.77 | £163.88 (5 kg × £32.77/kg) |
+  - | 10 | 10% | £31.05 | £310.50 (10 kg × £31.05/kg) |
+  - | 15 | 15% | £29.32 | £439.88 (15 kg × £29.32/kg) |
+  - | 20–500 | 20% | £27.60 | £552.00 (20 kg × £27.60/kg) |
+
+### Castanhas do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8261
+- **URL:** https://www.falcon-micro.com/products/castanhas-do-brazil-cocatrel-cooperative-brazil-natural-fsc-8261
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Tres Pontas, Sul de Minas Producer Cocatrel Cooperative Varietal: Mixed Process: Natural Altitude: 900 - 1100 Production/Harvest Date: 2025 Cup Score: 82.75 Cup profile: Dark chocolate, cashew, caramel. The Cocatrel Cooperative was founded in 1961 in Tres Pontas and has now grown to the second largest Cooperative in Brazil. There are over 6000 members who are part of the cooperative and they have 11 different buying points across the region. All the coffee are electronically tagged and recorded on delivery with a unique QR code giving full traceablity on all the coffees for the growers to know exactly where their coffee is. Over 50% of the members of the cooperative grow coffee on land that is less than 10 Ha in size. At Falcon Specialty we work with a branch of the Cooperative called Cocatrel Direct Trade who work to source the best coffees and promote these for their members. Castanhas do Brasil which translates as "Nuts of Brazil" is a blend of made from mainly from one particular area called Carmo De Cachoeira. The coffee is selected for its sweet and creamy hazelnut praline profile by the cupping team in the Cocatrel Direct Lab who assign it to this profile blend. The coffee must have a clean profile and be scoring 83 + on evaluation. All the coffees that are part of this blend are dried in static boxes. These are 1 m deep boxes with capacity for 15000 litre volume of cherry which equates to 25-30 bags of green coffee. The boxes have a vented grill at the bottom to allow for air to be circulated from below up through the drying coffee. There are two thermometers at different depths to ensure a safe temperature always below 40c. They are referred to as static due to the coffee remaining still in the boxes and not being turned or rotated during drying. After it is dried the coffee is then left to rest for approximately 1- 2 weeks before being milled. This method has allowed the production of more fruity and prominent profiles from the usual profile we associate with Brazil natural coffee. https://falconcoffees.smugmug.com/BRAZIL/Brazil-Castanas
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/casthanas_2_micro-1copy3.jpg?v=1777390139`
+  - ![Castanhas do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8261](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/casthanas_2_micro-1copy3.jpg?v=1777390139)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/casthanas-37.jpg?v=1777390138`
+  - ![Castanhas do Brazil, Cocatrel Cooperative, Brazil |  Natural FSC-8261](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/casthanas-37.jpg?v=1777390138)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 14.00 (SKU `FSC-8261`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£14.00 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £14.00 | £42.00 (3 kg × £14.00/kg) |
+  - | 5 | 5% | £13.30 | £66.50 (5 kg × £13.30/kg) |
+  - | 10 | 10% | £12.60 | £126.00 (10 kg × £12.60/kg) |
+  - | 15 | 15% | £11.90 | £178.50 (15 kg × £11.90/kg) |
+  - | 20–500 | 20% | £11.20 | £224.00 (20 kg × £11.20/kg) |
+
+### El Borbollon, Santa Ana, El Salvador |  Washed FSC-8620
+- **URL:** https://www.falcon-micro.com/products/el-borbollon-santa-ana-el-salvador-washed-fsc-8620
+- **Vendor:** Falcon Micro
+- **Type:** UK
+- **Details:** ----- Location: Santa Ana Volcano Producer Alvarez family Varietal: Red Bourbon Process: Washed Altitude: 1300-1400 Production/Harvest Date: 2025 Cup Score: 83 Cup profile: Stone fruits, milk chocolate, hazelnut This coffee comes from the El Borbollon mill and is a blend farms that has been put together by the Alvarez family and the head cupper at El Borbollon Luis Rodriguez. The farms are located on the Apaneca Ilamatepec Mountain Range and mainly on the Santa Ana Volcano and all these farms are RFA certified. In total there are 19 farms that have contributed to this lot. All coffee is delivered to the mill in cherry from the farms where it is washed and floated to separate qualities. The coffee is then pulped before then being fermented overnight. The fermented beans are then moved to a washing machine where fresh water is used to remove any remaining mucilage and prepare the beans for the drying patios. All water is recycled and is used to move fresh cherries around the wet mill. The washed beans are then taken to the drying patios and kept separate by lot. They will dry there for around 8-10 days, though El Borbollon are experimenting with extending drying periods by laying the beans densely and covering them for parts of the day. It is believed that extending the drying time will result in more complex nuances in the cup. The dried parchment is then left to rest for around a six weeks before being hulled to remove the parchment. Once hulled, the beans are hand sorted by a group of around 40 women who remove any defects. The women work in shifts, are paid above minimum wage and are highly skilled at their work - Once the hand sorting and defect removal is complete, the sorted beans are then packed into GrainPro and 69kg jute bags ready for shipment. https://falconcoffees.smugmug.com/EL-SALVADOR/EL-SALVADOR-Borbollon-Mill
+- **Images:** Each photo lists the full URL on a backtick line, then a markdown image line for preview.
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon_micro-1copy3_2edb0d94-a133-446a-8bda-20668837f2f4.jpg?v=1778585818`
+  - ![El Borbollon, Santa Ana, El Salvador |  Washed FSC-8620](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon_micro-1copy3_2edb0d94-a133-446a-8bda-20668837f2f4.jpg?v=1778585818)
+  - `https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon-39.jpg?v=1778585816`
+  - ![El Borbollon, Santa Ana, El Salvador |  Washed FSC-8620](https://cdn.shopify.com/s/files/1/0826/3978/2207/files/el_borbollon-39.jpg?v=1778585816)
+- **Pricing / variants:**
+  - 1000 g pack — **price** 15.50 (SKU `FSC-8620`)
+- **Volume / quantity-break pricing (Adoric, embedded on product pages):** Discounts apply by **total kg in the cart** for this SKU (tiers are shop-wide).
+  - Base from Shopify variant: **£15.50 / kg** (before quantity breaks).
+  - | Tier (total kg) | % off | Per kg after discount | Example line total |
+  - | --- | ---: | ---: | ---: |
+  - | 1–4 | 0% | £15.50 | £46.50 (3 kg × £15.50/kg) |
+  - | 5 | 5% | £14.72 | £73.62 (5 kg × £14.72/kg) |
+  - | 10 | 10% | £13.95 | £139.50 (10 kg × £13.95/kg) |
+  - | 15 | 15% | £13.17 | £197.62 (15 kg × £13.17/kg) |
+  - | 20–500 | 20% | £12.40 | £248.00 (20 kg × £12.40/kg) |
+
+## Small Batch Roasting — `/green-coffee/`
+_Product count (from listing links): 41_
+> **Small Batch volume pricing:** Each variation line is the **catalogue price for one purchasable unit** of that option. If the site applies **extra discounts by cart quantity (kg)**, that is not included in `data-product_variations` or other static fields we scrape—check the basket or wholesale/commercial terms.
+### [1] Brazil – NY 2/3 Scr 17/18 SS GC
+- **URL:** https://www.smallbatchroasting.co.uk/origin/brazil/brazil-ny-2-3-scr-17-18-ss-gc/
+- **Short description:** Introducing our premium Strictly Soft Good Cup (SSGC) coffee, cultivated at lower altitudes to ensure a quicker maturation process that benefits both farmers and coffee lovers alike. This unique growing environment allows us to offer this exquisite coffee at an affordable price, without compromising quality. Experience the delightful sweetness and rich chocolate notes that shine through in every cup, making it an ideal choice for your morning drip or an indulgent espresso blend. Each sip reveals a harmonious balance of flavors that will elevate your coffee experience, whether enjoyed black or with a splash of cream. Support sustainable farming practices while savoring the smooth, velvety finish of this exceptional coffee. Perfect for both casual drinkers and seasoned connoisseurs, our SSGC coffee is a blend of quality and accessibility, inviting you to indulge in every moment. Brew a cup and discover why this coffee is quickly becoming a favorite among enthusiasts everywhere!
+- **Description (structured data):** Brazilian green coffee graded NY 2/3 with screen 17/18 and a Strictly Soft Good Cup profile. Naturally processed, grown at 500–1200 masl, with a clean cup and sweet notes of orange, honey and cherry plus a creamy body. Available as green beans or via Roast For You roast profiles.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg`
+  - ![Brazil – NY 2/3 Scr 17/18 SS GC](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £13.94 — SKU `—` — max **19** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £16.44 — SKU `—` — max **19** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £16.44 — SKU `—` — max **19** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £16.44 — SKU `—` — max **19** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/11/campo_184-scaled.jpg?fit=600%2C400&ssl=1)
+
+### [2] Brazil Eagle Monte Carmelo (Cafe Delas)
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/brazil-eagle-monte-carmelo-cafe-delas/
+- **Short description:** Brazil Eagle Monte Carmelo Café Delas is a classic Brazilian single origin from the renowned Cerrado Mineiro, offering a smooth, naturally processed profile with rich notes of chocolate, hazelnut and dried fruit and a gentle sweetness that makes it versatile across brews from espresso to filter. Part of the Café Delas programme supporting women coffee producers, this lot combines reliable, consistent flavour with a story of empowerment and care right from farm to cup.
+- **Description (structured data):** Brazil Eagle Monte Carmelo Café Delas is a Brazilian single origin from Cerrado Mineiro, Monte Carmelo. Naturally processed for a smooth, chocolate-forward cup with hazelnut, dried fruit and gentle sweetness. Sourced from women-led producer groups participating in the Café Delas programme.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1`
+  - ![Brazil Eagle Monte Carmelo (Cafe Delas)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £16.80 — SKU `EL002` — max **74** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £19.30 — SKU `EL002` — max **74** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £19.30 — SKU `EL002` — max **74** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £19.30 — SKU `EL002` — max **74** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Brazil-Eagle-2.png?fit=511%2C491&ssl=1)
+
+### [3] Brazil Ipanema – Fazenda Conquista
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/brazil-ipanema-fazenda-conquista/
+- **Short description:** Brazil Ipanema Conquista offers a classic, dependable Brazilian profile with a clean, sweet cup and excellent balance. The pulped natural process enhances body and sugar browning characteristics, resulting in a smooth, chocolate-forward coffee with gentle nutty complexity. Its low acidity and rounded mouthfeel make it highly versatile and approachable across a wide range of brewing methods.
+- **Description (structured data):** Brazil Eagle Monte Carmelo Café Delas is a Brazilian single origin from Cerrado Mineiro, Monte Carmelo. Naturally processed for a smooth, chocolate-forward cup with hazelnut, dried fruit and gentle sweetness. Sourced from women-led producer groups participating in the Café Delas programme.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=669%2C446&ssl=1`
+  - ![Brazil Ipanema – Fazenda Conquista](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=669%2C446&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £13.88 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £16.38 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £16.38 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £16.38 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/03/conquista-2.jpg?fit=600%2C400&ssl=1)
+
+### [4] Brazil Sitio Boa Esperanca – Mundo Novo Natural
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/brazil-sitio-boa-esperanca-mundo-novo-natural/
+- **Short description:** Download Info Sheet Experience the distinct flavour of Brazilian coffee with Sitio Boa Esperanca – Mundo Novo Natural. Grown in the Low Mogiana region of Brazil, this 11-hectare estate sits at an altitude of 1200 masl and is owned by Andre Luis Paradela. The coffee is harvested between April and June and is of the Mundo Novo varietal, processed naturally to ensure the perfect cup. With a cupping score of 85, this coffee has a clean cup with notes of citrusy sweet orange, honey, cherry fruit, and a creamy body.
+- **Description (structured data):** Single origin Brazilian Arabica green coffee from Sitio Boa Esperanca (Low Mogiana). Mundo Novo variety, naturally processed. Clean cup with citrusy sweet orange, honey and cherry fruit notes and a creamy body. Crop 2024. Cupping score 85.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1`
+  - ![Brazil Sitio Boa Esperanca – Mundo Novo Natural](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £18.60 — SKU `—` — max **94** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £21.10 — SKU `—` — max **94** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £21.10 — SKU `—` — max **94** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £21.10 — SKU `—` — max **94** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_af5c9f62c96c4c32bac4846f0af1a21cmv2.webp?fit=500%2C667&ssl=1)
+
+### [5] Central American Decaf Blend
+- **URL:** https://www.smallbatchroasting.co.uk/green/decaf/central-american-decaf-blend/
+- **Short description:** Our Centrals Blend MC Decaf offers the rich heritage of Central American coffee without the caffeine. Carefully sourced from Nicaragua and El Salvador, this blend is designed for those who want to roast their own decaffeinated coffee at home or in a roastery. Using the MC (methylene chloride) solvent decaf process, the beans retain much of their natural flavour while removing 97%+ of the caffeine. Expect a smooth, versatile coffee with cocoa, nut, and apricot notes, balanced by gentle fruitiness and a clean finish.
+- **Description (structured data):** MC (methylene chloride) decaffeinated blend from Nicaragua and El Salvador. Varieties include Bourbon, Caturra, Catuai and Typica. Altitude 800–1,800 masl. Smooth, versatile cup with cocoa, nut and apricot notes, gentle fruitiness and a clean finish. 97%+ caffeine removed.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=797%2C800&ssl=1`
+  - ![Central American Decaf Blend](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=797%2C800&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £17.60 — SKU `—` — max **28** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £20.10 — SKU `—` — max **28** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £20.10 — SKU `—` — max **28** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £20.10 — SKU `—` — max **28** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/09/decaf.jpg?fit=600%2C602&ssl=1)
+
+### [6] Colombia Excelso EP Huila
+- **URL:** https://www.smallbatchroasting.co.uk/origin/colombia/colombia-excelso-ep-huila/
+- **Short description:** Download Info Sheet Discover the rich flavours of Colombian coffee from the Huila region, with a variety of estates and altitudes ranging from 1250-2150 masl. Enjoy year-round harvests of Bourbon, Castillo, Caturra, Colombia, and Typica varieties, all certified by RFA and expertly processed through fully washed methods. Savor the notes of green apple, caramel, and dark chocolate in every cup. Experience the origin of Colombian coffee today.
+- **Description (structured data):** Rainforest Alliance certified Arabica green coffee from Huila, Colombia. Fully washed and prepared to a clean, consistent cup profile.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1`
+  - ![Colombia Excelso EP Huila](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £14.78 — SKU `—` — max **41** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £17.28 — SKU `—` — max **41** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £17.28 — SKU `—` — max **41** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £17.28 — SKU `—` — max **41** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_50d8466bb4eb4886a48355deb682c55cmv2-1.webp?fit=500%2C333&ssl=1)
+
+### [7] Colombia Huila Womens Project
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/colombia-huila-womens/
+- **Short description:** Colombia CoAgroBrisas Women’s Project is a high-quality, community-driven coffee produced by a collective of women farmers in Huila. Grown at altitude and carefully processed, it offers a clean, expressive cup with vibrant acidity, balanced sweetness, and a smooth, silky body. The profile combines fruit clarity with caramel and chocolate depth, making it both versatile and distinctive across brewing methods.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg`
+  - ![Colombia Huila Womens Project](https://www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £13.90 — SKU `—` — max **112** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £16.40 — SKU `—` — max **112** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £16.40 — SKU `—` — max **112** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £16.40 — SKU `—` — max **112** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Colombia_MG_2205-16-600x902-1.jpg?fit=532%2C800&ssl=1)
+
+### [8] Colombia Seleccion Planadas Organic
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/latest-arrivals/colombia-seleccion-planadas-organic/
+- **Short description:** Colombia Seleccion Planadas Organic is an expressive single origin coffee grown by over a thousand small organic farmers across the high altitude slopes of Planadas in South Tolima, Colombia, where cool temperatures and rich volcanic soils help develop its character. Carefully washed and processed, this coffee delivers a bright and vibrant profile with inviting notes of blackberry and crisp apple balanced by smooth milk chocolate, making it an engaging yet approachable choice for both filter and espresso brewing.
+- **Description (structured data):** Colombia Selección Planadas Organic is an organic, washed Arabica green coffee from Planadas, Tolima. Produced by smallholder farms at high altitude, it offers a clean, sweet and vibrant cup with milk chocolate and caramel tones plus red fruit and citrus notes.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1`
+  - ![Colombia Seleccion Planadas Organic](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £19.10 — SKU `LR001` — max **98** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £21.60 — SKU `LR001` — max **98** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £21.60 — SKU `LR001` — max **98** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £21.60 — SKU `LR001` — max **98** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Colombia-Seleccion-1.png?fit=510%2C490&ssl=1)
+
+### [9] Costa Rica SHB – San Rafael – Tarrazu
+- **URL:** https://www.smallbatchroasting.co.uk/origin/costa-rica/costa-rica-tarrazu/
+- **Short description:** Download Info Sheet This Costa Rica – Tarrazú beans are sourced from the San Marcos and San Pablo regions, owned by Juan Manuel Sanchez Benavidez. Grown at an altitude of 1200 – 2000 masl, these beans are of the Caturra and Catuai varietals and are processed using the washed method. The resulting cup boasts a creamy body, decent acidity, and notes of chocolate and plum for a truly unique flavor profile. Enjoy a taste of Costa Rica in every cup with these exceptional coffee beans.
+- **Description (structured data):** Arabica green coffee from Tarrazú (San Marcos and San Pablo), washed processed, with a creamy body, decent acidity, and flavours of chocolate and plum.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp`
+  - ![Costa Rica SHB – San Rafael – Tarrazu](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp)
+- **Price tiers / variations:**
+  - **attribute_format: Green Beans** — £16.00 — SKU `—` — max **269** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1`
+    - ![attribute_format: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1)
+  - **attribute_format: Light Roast (Min 6kg per batch)** — £18.50 — SKU `—` — max **269** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1`
+    - ![attribute_format: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1)
+  - **attribute_format: Medium Roast (Min 6kg per batch)** — £18.50 — SKU `—` — max **269** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1`
+    - ![attribute_format: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1)
+  - **attribute_format: Dark Roast (Min 6kg per batch)** — £18.50 — SKU `—` — max **269** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1`
+    - ![attribute_format: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_4c79a3694b4c4948b0cbd83f0fde257cmv2.webp?fit=500%2C375&ssl=1)
+
+### [10] Ethiopia Limu Fully Washed G2
+- **URL:** https://www.smallbatchroasting.co.uk/origin/ethiopia/ethiopia-limu-fully-washed-g2/
+- **Short description:** Download Info Sheet The fully washed coffee from the Limu region is cherished for its exceptional shelf life and well-balanced flavor profile. It boasts a delicate, floral aroma with distinct notes of citrus and black tea.
+- **Description (structured data):** Fully washed Grade 2 coffee with a clean, balanced profile from Ethiopia. Limu is known for delicate florals and a cup that leans towards citrus and black tea, with a rounded body. Listed at 1500-1800 masl with JARC varieties and local landraces, harvested October to January. Available as green beans or via Roast For You roast profiles.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=1200%2C800&ssl=1`
+  - ![Ethiopia Limu Fully Washed G2](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=1200%2C800&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £17.98 — SKU `—` — max **29** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £20.48 — SKU `—` — max **29** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £20.48 — SKU `—` — max **29** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £20.48 — SKU `—` — max **29** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Limu-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+
+### [11] Ethiopia Sidamo Natural G4
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/ethiopia-sidamo-natural-g4/
+- **Short description:** Origin: Ethiopia Estate: Various Small Sidamo Estates Altitude: 1500-2200 masl Varieties: Heirloom Varietal Grade: GR4 Cetification: Conventional Processing: Natural Cupping Notes: A light and clean body at Medium-light roasts, plenty of floral-like aromas. Complicated and spicy notes with a cherry glow and a black tea edge. Roasting Notes: A medium roast no darker than Full City
+- **Description (structured data):** Ethiopia Sidamo Natural G4 is a naturally processed coffee from various small Sidamo estates in Ethiopia. Grown at 1500–2200 masl and made from heirloom varietals, it shows floral aromas, spicy complexity, a cherry glow and a black tea edge. Available as green or as light, medium or dark roast (min 6kg).
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg`
+  - ![Ethiopia Sidamo Natural G4](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £11.40 — SKU `—` — max **73** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Light Roast (min 6kg)** — £13.90 — SKU `—` — max **73** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg)** — £13.90 — SKU `—` — max **73** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg)** — £13.90 — SKU `—` — max **73** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_9a655c6d8ed44af29b7f4f7727332c0bmv2.jpg?fit=600%2C450&ssl=1)
+
+### [12] Ethiopia Sidamo Shantawene Washed G1
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/ethiopia-sidamo-g1-shantawene/
+- **Short description:** Download Info Sheet Discover a premium fully washed coffee with a delicate floral aroma, juicy stone fruit flavors, and a delightful honey sweetness, grown by smallholders in the Shantawene region.
+- **Description (structured data):** Fully washed Grade 1 Ethiopian Arabica microlots from Shantawene, Sidamo, grown by around 1,600 smallholders in the foothills of the Bombe mountains at about 1950 masl and beyond. Delicate florals with stone fruit and honeyed sweetness, with cupping notes often described as black tea, apricot, citrus and dark chocolate. Available as green beans or via Roast For You roast profiles.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg`
+  - ![Ethiopia Sidamo Shantawene Washed G1](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £15.45 (regular £18.10) — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £20.60 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £20.60 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £20.60 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/Ethiopia-Sidamo-Shantawene-G2-A-scaled.jpg?fit=600%2C400&ssl=1)
+
+### [13] Ethiopia Yirgacheffe Banko Gotiti G1 Fully Washed
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/latest-arrivals/ethiopia-yirgacheffe-banko-gotiti-g1-fully-washed/
+- **Short description:** Ethiopia Banko Gotiti Washed 2025 is an elegant single origin from the Banko Gotiti wet mill in the Yirgacheffe region, where smallholder farmers cultivate indigenous heirloom varietals at high altitude and deliver ripe cherries for careful washed processing; the result is a beautifully clean and expressive coffee with floral and citrus brightness, lifted by notes of apricot, lemon and delicate jasmine and orange blossom that make it a standout choice for both filter and lighter espressos.
+- **Description (structured data):** Ethiopia Banko Gotiti Washed (2025) is a clean, expressive Ethiopian Arabica green coffee from the Banko Gotiti area, fully washed to emphasise floral aromatics and citrus clarity, with notes including lemon, bergamot, jasmine, sweet peach and honey.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1`
+  - ![Ethiopia Yirgacheffe Banko Gotiti G1 Fully Washed](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £21.02 — SKU `LR002` — max **17** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £23.52 — SKU `LR002` — max **17** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £23.52 — SKU `LR002` — max **17** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £23.52 — SKU `LR002` — max **17** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Ethiopia-Yirg-3.png?fit=508%2C488&ssl=1)
+
+### [14] Ethiopia Yirgacheffe G2 – Fully Washed
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/ethiopia-yirgacheffe-g2-fully-washed-arriving-w-c-29-09-25/
+- **Short description:** Our Ethiopia Yirgacheffe G2 is a fully washed coffee bean sourced from various small estates in the town of Yirgacheffe in the Sidama region of Ethiopia. These beans are grown at high altitudes between 1700-2200 masl and harvested between November and January. The coffee is made up of JARC varieties and local landraces, resulting in a Grade 1 quality. With a cupping score of 86, this coffee boasts notes of citrus fruit, apple, lemongrass, and black tea. Enjoy the bright and complex flavors of this exceptional Ethiopian coffee.
+- **Description (structured data):** Fully washed Arabica from Yirgacheffe, Sidama. Grown at 1,700–2,200 masl by various small estates. JARC varieties and local landraces. Grade 2. Cupping score 86. Notes of citrus fruit, apple, lemongrass and black tea.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg`
+  - ![Ethiopia Yirgacheffe G2 – Fully Washed](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £18.14 — SKU `—` — max **49** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £20.64 — SKU `—` — max **49** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £20.64 — SKU `—` — max **49** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £20.64 — SKU `—` — max **49** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3aa77c7076f745eb8f3db9452ef2cacbmv2-scaled.jpg?fit=600%2C450&ssl=1)
+
+### [15] Green Single Origin Subscription
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/green-single-origin-subscription/
+- **Short description:** Introducing our new Purchasers Choice Speciality Coffee Subscription, where you can enjoy some of the latest and greatest speciality coffees we have to offer. Each month, subscribers will receive a multiple of 1kg speciality green coffee beans (depending on how many you choose), carefully selected from our range of the highest quality beans. Our subscription service allows you to roast these beans yourself at home, giving you the freedom to explore different roasting levels and styles to suit your taste preferences. Whether you’re a seasoned coffee connoisseur or just getting started with home roasting, our specialty coffee subscription is the perfect way to experience the world of green coffee and discover new flavors and aromas from around the globe. Sign up today and elevate your coffee experience with our Purchasers Choice Speciality Coffee Subscription.
+- **Description (structured data):** Monthly Purchasers Choice speciality green coffee subscription. Receive 1kg per selected origin each month (choose 1 to 10 origins). Selected from the speciality range to support home roasting and small-batch roasting exploration.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+  - ![Green Single Origin Subscription](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_number-of-origins: 1** — £15.00 — SKU `—` — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 1](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 2** — £30.00 — SKU `—` — 2 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 2](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 3** — £45.00 — SKU `—` — 3 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 3](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 4** — £60.00 — SKU `—` — 4 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 4](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 5** — £75.00 — SKU `—` — 5 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 5](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 6** — £90.00 — SKU `—` — 6 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 6](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 7** — £105.00 — SKU `—` — 7 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 7](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 8** — £120.00 — SKU `—` — 8 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 8](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 9** — £135.00 — SKU `—` — 9 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 9](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+  - **attribute_number-of-origins: 10** — £150.00 — SKU `—` — 10 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1`
+    - ![attribute_number-of-origins: 10](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_39f6cad436514ce2bd2584bcb6d847a4mv2.webp?fit=500%2C333&ssl=1)
+
+### [16] Guatemala Huehuetenango SHB EP RFA
+- **URL:** https://www.smallbatchroasting.co.uk/origin/guatemala/guatemala-huehuetenango-shb-ep/
+- **Short description:** Download Info Sheet Introducing our Guatemala Huehuetenango SHB EP coffee, sourced from the Western region of Guatemala. Grown in the sub-region of Huehuetenango by various owners, this high-quality coffee is a blend of Bourbon, Catuaí, Caturra, and Typica varietals. Grown at altitudes ranging from 1400-2000 masl, the beans are harvested from November to April and processed using the fully washed method. This coffee is certified Fairtrade, with its exceptional taste profile speaks for itself, with a clean cup, vivid acidity, and prominent fruit and floral notes. Whether you’re a coffee connoisseur or just appreciate a good cup of joe, our Guatemala Huehuetenango SHB EP is bound to satisfy your coffee cravings.
+- **Description (structured data):** A clean, high-altitude regional blend from Huehuetenango in western Guatemala. Fully washed and built around classic varieties (Bourbon, Catuaí, Caturra and Typica) for vivid acidity with prominent fruit and floral notes. Available as green coffee or roasted to order (6kg minimum for Roast For You).
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg`
+  - ![Guatemala Huehuetenango SHB EP RFA](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £15.30 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £17.80 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £17.80 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £17.80 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_2164e169c7f1496f890f7aef5b8e8a9cmv2.jpg?fit=600%2C400&ssl=1)
+
+### [17] Guatemala Jabiru Union Cantinil
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/latest-arrivals/guatemala-jabiru-union-cantinil/
+- **Short description:** Guatemala Jabiru Union Cantinil is a smooth and balanced single origin coffee from the highlands of Huehuetenango, produced by smallholder farmers in the Union Cantinil region. Grown at high altitude and fully washed, it offers comforting notes of dark chocolate and brown sugar with a bright citrus lift, making it an easy drinking yet characterful coffee for both filter and espresso.
+- **Description (structured data):** Guatemala Jabiru Union Cantinil is a washed Arabica green coffee from Union Cantinil in Huehuetenango, sourced from smallholder farms at high altitude. Expect a clean, balanced cup with dark chocolate and caramel/toffee sweetness, supported by apple, red grape and a bright citrus lift.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1`
+  - ![Guatemala Jabiru Union Cantinil](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £17.18 — SKU `EL001` — max **103** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £19.68 — SKU `EL001` — max **103** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £19.68 — SKU `EL001` — max **103** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £19.68 — SKU `EL001` — max **103** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Guatemala-Jabiru-2.png?fit=513%2C485&ssl=1)
+
+### [18] Honduras Finca El Matazano Elvin Castillo Honey
+- **URL:** https://www.smallbatchroasting.co.uk/origin/honduras/honduras-finca-el-matazano-elvin-castillo-honey/
+- **Short description:** From the lush hills of Montecillos, this coffee is grown on El Matazano , a 3.3ha farm lovingly maintained by Elvin Adolfo Castillo—a skilled cupper and passionate producer. Inheriting both land and values from his father, Elvin cultivates his coffee under a rich agroforestry system that protects local wildlife and promotes sustainability. Expect quality rooted in tradition, care, and a deep respect for nature.
+- **Description (structured data):** Farm-traceable Honduran Arabica from Montecillos, produced by Elvin Adolfo Castillo at Finca El Matazano (1,500 masl). Honey processed for elevated sweetness and body. Varieties Catimor and Lempira. Screen 15up. Tasting notes of raspberry, lemongrass and dark chocolate.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp`
+  - ![Honduras Finca El Matazano Elvin Castillo Honey](https://www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £19.90 — SKU `—` — max **15** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £22.40 — SKU `—` — max **15** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £22.40 — SKU `—` — max **15** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £22.40 — SKU `—` — max **15** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/04/Elvin-Castillo-Honduras-Finca-El-Matazano-1.webp?fit=470%2C470&ssl=1)
+
+### [19] Honduras NKG BLOOM GEA SHG EP Organic
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/honduras-nkg-bloom-gea-shg-ep-organic/
+- **Short description:** Discover the rich and distinct flavors of our Honduras NKG BLOOM GEA SHG EP Organic green coffee, sourced from various women-owned farms across the lush regions of Lempira, Ocotepeque, Intibuca, Copan, La Paz, El Paraiso, and Comayagua. Nestled at altitudes of 1100-1650 masl, this coffee features exquisite varieties including IH90, Catuai, Caturra, Lempira, and Bourbon. Certified organic and meticulously processed through a fully washed method, this high-quality green coffee offers a harmonious blend of caramel, almond, toffee, apple, and apricot notes. With a harvest period between January and April, it’s perfect for small-batch roasting, ensuring a fresh and flavorful cup every time. Elevate your coffee offerings with these vibrant beans and support sustainable practices by women farmers in Honduras.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp`
+  - ![Honduras NKG BLOOM GEA SHG EP Organic](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp)
+- **Price tiers / variations:**
+  - **attribute_format: Green Beans** — £16.85 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1)
+  - **attribute_format: Light Roast (Min 6kg per batch)** — £19.35 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1)
+  - **attribute_format: Medium Roast (Min 6kg per batch)** — £19.35 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1)
+  - **attribute_format: Dark Roast (Min 6kg per batch)** — £19.35 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_bca7f6a831c64d47acbf2949fa4c67a5mv2.webp?fit=500%2C500&ssl=1)
+
+### [20] Honduras Oropendolas Washed
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/latest-arrivals/honduras-oropendolas-washed-arriving-21-01-26/
+- **Short description:** Honduras Seleccion Oropendolas Washed is a clean and expressive single origin coffee from smallholder farms in the El Paraíso region of Honduras, where high altitude growing and careful washed processing bring out a vibrant and balanced cup. Sourced from a collective of seven farms and processed at Beneficio Sosa with traditional fermentation and patio drying, this lot delivers approachable notes of ripe peach, butterscotch and malt biscuit that work beautifully across filter and espresso brews.
+- **Description (structured data):** Honduras Selección Oropendolas Washed is a clean and expressive single origin coffee from smallholder farms in the El Paraíso region of Honduras. Washed processing and high altitude growing support a balanced cup with approachable sweetness and notes of peach, butterscotch and malt biscuit.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1`
+  - ![Honduras Oropendolas Washed](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £19.10 — SKU `EL003` — max **61** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £21.60 — SKU `EL003` — max **61** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £21.60 — SKU `EL003` — max **61** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £21.60 — SKU `EL003` — max **61** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Honduras-Oropen-2.png?fit=402%2C406&ssl=1)
+
+### [21] Honduras San Andres SHG
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/honduras-san-andres-shg/
+- **Short description:** Download Info Sheet Indulge in the rich flavors of the Honduras San Andres SHG coffee, sourced directly from the Lempira region and meticulously cultivated by 25 producers in the town of San Andres. Owned by the dedicated producers working in collaboration with Bicafe Honduras, this exquisite coffee is carefully processed using the fully washed method and boasts a Grade SHG EP, ensuring only the highest quality beans make it into your cup. Grown at an altitude of 1600-1800 masl, this blend of Catuai, IHCAFE 90, Lempira, and Pacas varietals is harvested from November to April, offering a delightful mix of nutty, sweet, and cacao nibs notes with a touch of honey. Elevate your coffee experience with the Honduras San Andres SHG.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp`
+  - ![Honduras San Andres SHG](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp)
+- **Price tiers / variations:**
+  - **attribute_format: Green Beans** — £15.10 — SKU `—` — max **136** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_format: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1)
+  - **attribute_format: Light Roast (Min 6kg per batch)** — £17.60 — SKU `—` — max **136** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_format: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1)
+  - **attribute_format: Medium Roast (Min 6kg per batch)** — £17.60 — SKU `—` — max **136** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_format: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1)
+  - **attribute_format: Dark Roast (Min 6kg per batch)** — £17.60 — SKU `—` — max **136** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1`
+    - ![attribute_format: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_828a0fdcedb44ef6841c54265dbe09c7mv2.webp?fit=500%2C667&ssl=1)
+
+### [22] Honduras SHG Hacienda Monte Cristo
+- **URL:** https://www.smallbatchroasting.co.uk/green/honduras-shg-hacienda-monte-cristo/
+- **Short description:** Download Info Sheet This Honduras SHG Hacienda Monte Cristo coffee is sourced from a family-owned farm located in the Western Honduras region. It is grown at an altitude of 1670 meters above sea level and is a combination of Anacafe 14, Etiozar, Marcelleza, Amarillo, Catuai, Catuai Rojo, Caturra, and Java varieties. This organic-certified coffee is processed through a yellow honey method and sun dried on raised beds. Enjoy the flavors of milk chocolate, nuts, and tropical fruit in your cup
+- **Description (structured data):** Organic single-estate Honduran coffee from Hacienda Monte Cristo in western Honduras, grown at 1670 masl (SHG). Yellow honey processed and sun dried on raised beds. Varieties include Anacafe 14, Etiozar, Marcelleza, Amarillo, Catuai, Catuai Rojo, Caturra and Java, with notes of milk chocolate, nuts and tropical fruit. Roast For You available with a 6kg minimum per batch.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg`
+  - ![Honduras SHG Hacienda Monte Cristo](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £15.56 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £18.06 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £18.06 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £18.06 — SKU `—` — max **147** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_46fd1c0283ce4a50a1cae838a46cf113mv2.jpg?fit=496%2C374&ssl=1)
+
+### [23] India Cherry AB Robusta
+- **URL:** https://www.smallbatchroasting.co.uk/green/india-cherry-ab-robusta/
+- **Short description:** India Cherry AB Robusta is a bold, naturally processed coffee from the Western Ghats of Southern India. With low acidity and a heavy, full body, it delivers rich cocoa, malt and nutty flavours with subtle earthy spice. Its high caffeine content and strong structure make it ideal for espresso blends, dark roasts and milk-based drinks where depth and intensity are key.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=810%2C608&ssl=1`
+  - ![India Cherry AB Robusta](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=810%2C608&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £8.82 — SKU `—` — max **151** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £11.32 — SKU `—` — max **151** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £11.32 — SKU `—` — max **151** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £11.32 — SKU `—` — max **151** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/India-Cherry-AB-4.jpg?fit=600%2C450&ssl=1)
+
+### [24] India Monsooned Malabar A
+- **URL:** https://www.smallbatchroasting.co.uk/origin/india/india-monsooned-malabar/
+- **Short description:** Download Info Sheet Our India Monsooned Malabar is sourced from various Highland Malabar Estates in Southern India’s Karnataka region, nestled in the Western Ghats. Made from Arabica beans of Grade A quality, the coffee undergoes a unique processing method known as monsooning that gives it its distinctive taste. Grown at an altitude of 1,000-1,600 masl, this coffee boasts a low acidity, heavy full body with strong earthy and spicy notes, and aromas of dark chocolate and cinnamon.
+- **Description (structured data):** Arabica coffee from various Highland Malabar estates in Karnataka, Western Ghats. Monsooned processing style known for low acidity, heavy body, and earthy, spicy character with dark chocolate and cinnamon aromas.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=893%2C600&ssl=1`
+  - ![India Monsooned Malabar A](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=893%2C600&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £16.38 — SKU `—` — max **210** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £18.88 — SKU `—` — max **210** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £18.88 — SKU `—` — max **210** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £18.88 — SKU `—` — max **210** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+
+### [25] India Monsooned Malabar AA Robusta
+- **URL:** https://www.smallbatchroasting.co.uk/origin/india/india-monsooned-malabar-aa-robusta-arriving-w-c-05-01-26/
+- **Short description:** Download Info Sheet Our India Monsooned Malabar is sourced from various Highland Malabar Estates in Southern India’s Karnataka region, nestled in the Western Ghats. Made from Arabica beans of Grade A quality, the coffee undergoes a unique processing method known as monsooning that gives it its distinctive taste. Grown at an altitude of 1,000-1,600 masl, this coffee boasts a low acidity, heavy full body with strong earthy and spicy notes, and aromas of dark chocolate and cinnamon.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=893%2C600&ssl=1`
+  - ![India Monsooned Malabar AA Robusta](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=893%2C600&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £9.92 — SKU `—` — max **62** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £12.42 — SKU `—` — max **62** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £12.42 — SKU `—` — max **62** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £12.42 — SKU `—` — max **62** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_6e954ece4ea54dcdb4b396841144e6bdmv2.jpg?fit=600%2C403&ssl=1)
+
+### [26] Indian Mysore Plantation A
+- **URL:** https://www.smallbatchroasting.co.uk/origin/india/indian-mysore-plantation-a/
+- **Short description:** Download Info Sheet This Indian Mysore A Plantation A coffee is grown at an altitude of 1100-1300 masl in the Cauvery varietal. It is wet processed and graded A, showcasing heavy bodied and spicy aromatics with cedar and tobacco notes. The well balanced acidity makes for a delicious cup, and when roasted to a medium-dark level, the spicy aromatics are brought out even more.
+- **Description (structured data):** Wet processed Indian Mysore Arabica (Grade A) grown at 1100–1300 masl in Karnataka. Heavy-bodied with spicy aromatics, cedar and tobacco notes, and a well balanced acidity that suits medium-dark roasting.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg`
+  - ![Indian Mysore Plantation A](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £12.60 — SKU `—` — max **56** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £15.12 — SKU `—` — max **56** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £15.12 — SKU `—` — max **56** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £15.12 — SKU `—` — max **56** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_61bb5540f69643cdb9287740cf25f29amv2.jpg?fit=600%2C336&ssl=1)
+
+### [27] Indonesia Old Brown Java (OBJ) 6 Year Aged
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/indonesia-old-brown-java-obj-6-year-aged/
+- **Short description:** Download Info Sheet Get ready to experience the rich and robust flavor of Indonesia Old Brown Java (OBJ) 6 Year Aged coffee. Grown in various smallholder farms in the Java region of Indonesia, this coffee is harvested between April and August at altitudes ranging from 1100-1700 masl. The unique varietals used, such as Andung Sari and Sigarar Utang, combined with the wet hulled and aged processing method, result in a heavy body with earthy dark notes. You’ll also taste hints of red wine, cedarwood, and molasses, making this coffee a truly indulgent and unique experience for any coffee lover.
+- **Description (structured data):** A traditional Old Brown Java style coffee from Java, Indonesia, wet hulled and aged for six years to create a heavy-bodied, low-acidity cup with earthy dark notes and hints of red wine, cedarwood and molasses. Available as green coffee or roasted to order (6kg minimum for Roast For You).
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg`
+  - ![Indonesia Old Brown Java (OBJ) 6 Year Aged](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £13.70 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £16.20 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £16.20 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £16.20 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_57721e6f17514473867de5955cee9a55mv2.jpg?fit=600%2C450&ssl=1)
+
+### [28] Kenya AA Eaagads Estate
+- **URL:** https://www.smallbatchroasting.co.uk/green/kenya-aa-eaagads-estate-arriving-21-01-26/
+- **Short description:** Kenya AA Eaagads Estate is a premium single origin coffee from the historic Eaagads Estate in Kiambu County, Kenya, where Arabica varieties like SL28, Ruiru11 and K7 are grown at high altitude and fully washed to emphasise clarity and vibrancy; this bright, expressive lot showcases the classic Kenya AA character with lively acidity and complex fruit forward notes such as blackcurrant, citrus and sweet cherry, balanced with a smooth body that shines brewed as filter or espresso
+- **Description (structured data):** Kenya AA Eaagads Estate is a washed Kenyan Arabica green coffee from highland growing areas, offering a bright, expressive cup profile with fruit-forward notes such as blackcurrant, cranberry, citrus zest and red cherry, supported by a medium to full body and aromatic lift.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png`
+  - ![Kenya AA Eaagads Estate](https://www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £20.64 — SKU `EL004` — max **57** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £23.14 — SKU `EL004` — max **57** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £23.14 — SKU `EL004` — max **57** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £23.14 — SKU `EL004` — max **57** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/01/Kenya-aa-4.png?fit=506%2C490&ssl=1)
+
+### [29] Kenya Kisii Estate PB – Washed
+- **URL:** https://www.smallbatchroasting.co.uk/origin/kenya/kenya-gatina-nyeri-ab-washed-copy/
+- **Short description:** Kenya Kisii Peaberry – Green Coffee Origin: Kisii County, Western Kenya Altitude: 1,500 – 1,900 masl Varietals: SL 28, SL 34, Ruiru 11 Processing: Fully Washed, Sun-Dried Harvest: October – January Bean Type: 100 % Arabica Peaberry Overview Kenya Kisii Peaberry is a rare, meticulously hand-sorted coffee from the highlands of Kisii County, west of the Rift Valley. The region’s fertile red-volcanic soils, abundant rainfall, and altitude above 1,500 metres create exceptional growing conditions for complex and vibrant arabica beans. The peaberries — a natural mutation where only one seed develops inside the cherry — are denser and roast with remarkable uniformity, yielding a clean, refined cup. Cup Profile A quintessential Kenyan coffee: lively and bright with crisp citrus acidity , juicy blackcurrant and berry sweetness , and a smooth caramel finish . Expect layered fruit notes of stone fruit, grapefruit, and subtle spice , balanced by a silky texture and long, wine-like aftertaste. Attribute Score Aroma 8.5 Acidity 8.0 Body 7.5 Sweetness 8.0 Balance 8.0
+- **Description (structured data):** Peaberry lot from Kisii County, fully washed and sun-dried. SL28, SL34, Ruiru 11. Bright acidity with blackcurrant, peach, citrus and cane sugar; silky body and long finish.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=1280%2C776&ssl=1`
+  - ![Kenya Kisii Estate PB – Washed](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=1280%2C776&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £17.70 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £20.20 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £20.20 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £20.20 — SKU `—` — max **8** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/10/Kenya-Kisii-PB-2.jpg?fit=600%2C364&ssl=1)
+
+### [30] Malawi Mzuzu AA
+- **URL:** https://www.smallbatchroasting.co.uk/origin/malawi/malawi-mzuzu-aa/
+- **Short description:** Discover the rich and unique flavors of Malawi Mzuzu AA , a specialty-grade coffee cultivated in the breathtaking highlands of Northern and Central Malawi. Grown at elevations ranging from 1,100 to 2,000 meters above sea level , this exceptional coffee is the result of the dedication and expertise of 3,000 smallholder farmers who form the Mzuzu Coffee Planters Cooperative Union (MZCPCU) —a collective committed to producing sustainable and high-quality beans. Hand-harvested between April and October , this fully washed coffee is meticulously processed to highlight its bright acidity and complex fruit-forward profile . A blend of Catimor, Geisha, and Nyika (Cat129) varietals , it offers a distinctive cup with vibrant blueberry, floral hibiscus, and crisp tart apple notes , making it an exquisite choice for those who appreciate lively and aromatic coffees. Whether brewed as a filter coffee to accentuate its delicate floral and fruit nuances or enjoyed as a balanced espresso with a refined sweetness, Malawi Mzuzu AB is a true gem from East Africa, celebrating the rich terroir and dedication of Malawian coffee farmers.
+- **Description (structured data):** Specialty-grade Malawi Mzuzu AB from smallholder farmers in Northern and Central Malawi, grown at 1,100–2,000 metres and fully washed. A blend of Catimor, Geisha and Nyika (Cat129) varietals with blueberry, hibiscus and tart apple notes, available as green or roasted coffee.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg`
+  - ![Malawi Mzuzu AA](https://www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £17.50 — SKU `—` — max **80** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £20.00 — SKU `—` — max **80** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £20.00 — SKU `—` — max **80** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £20.00 — SKU `—` — max **80** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/01/P1160730-scaled.jpg?fit=600%2C516&ssl=1)
+
+### [31] Mexico Mountain Water Decaf
+- **URL:** https://www.smallbatchroasting.co.uk/origin/mexico/mexico-mountain-water-decaf/
+- **Short description:** Download Info Sheet Introducing our Mexico Mountain Water Decaf, sourced from the Hustusco estate in the Veracruz region of Mexico . Our decaf beans are carefully selected from Caturra, Cirollo, and Borbon varietals, grown at an elevation of 1100masl to ensure optimal flavor. This flavorful decaf is certified by Mountain Water, using a unique decaffeination process that preserves the natural essence of the coffee. Each cup offers a delightful blend of spicy, chocolate, sweet, and lemon flavors, rounded out with a bright acidity and clean aftertaste. Experience the rich taste of Mexico in every sip, without the caffeine buzz.
+- **Description (structured data):** Mexico Mountain Water Decaf is a traceable single-estate decaf coffee from Veracruz, Mexico, processed using the Mountain Water Process to preserve flavour.
+- **Image (og:image):**
+  - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1`
+  - ![Mexico Mountain Water Decaf](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £18.26 — SKU `—` — max **101** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £20.76 — SKU `—` — max **101** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £20.76 — SKU `—` — max **101** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £20.76 — SKU `—` — max **101** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_a0eb6e83648b493488fde9adb5d3423dmv2-scaled.jpg?fit=600%2C800&ssl=1)
+
+### [32] Nicaragua SHG EP
+- **URL:** https://www.smallbatchroasting.co.uk/origin/nicaragua/nicaragua-shg/
+- **Short description:** Nicaragua SHG EP is a clean, balanced washed coffee grown at high altitude across Nicaragua’s key producing regions. The slower maturation at elevation produces a well-structured cup with good clarity, gentle acidity, and a smooth, chocolate-forward profile. Subtle fruit notes add complexity, while the overall character remains approachable and versatile across brewing methods.
+- **Description (structured data):** High-grown SHG green coffee from Matagalpa, Nicaragua, produced by smallholder members of Cooperativa Agropecuaria Multisectorial Sagrada Familia R.L. Fully washed and patio dried for a clean, smooth cup with chocolate, date and pear notes and delicate acidity.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg`
+  - ![Nicaragua SHG EP](https://www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £12.82 — SKU `—` — max **69** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £15.32 — SKU `—` — max **69** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £15.32 — SKU `—` — max **69** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £15.32 — SKU `—` — max **69** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2026/04/Nicaragua-washed-min-scaled-1-scaled.jpg?fit=600%2C800&ssl=1)
+
+### [33] Peru G1 Finca Mesapata – Women Farmed Double Certified.
+- **URL:** https://www.smallbatchroasting.co.uk/origin/peru/peru-g1-finca-mesapata-women-farmed-double-certified/
+- **Short description:** Download Info Sheet Discover the exceptional Peruvian coffee from Finca Mesapata, owned by Gregoria Miranda Huaman. Certified organic and Fairtrade, this G1 Bourbon varietal boasts a unique flavor profile of grape, caramel, milk chocolate, and green apple. Harvested between March and September, it undergoes honey processing for a rich and smooth taste. Perfect for a dark roast, this coffee offers an unforgettable experience.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png`
+  - ![Peru G1 Finca Mesapata – Women Farmed Double Certified.](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £14.50 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £17.00 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £17.00 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £17.00 — SKU `—` — max **68** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_e4867605fa1a4f0a9b587a9906b54464mv2.png?fit=334%2C463&ssl=1)
+
+### [34] Peru G1 Gonzilla Estate G1 Organic
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/peru-g1-gonzilla-estate-g1-organic/
+- **Short description:** This Peru SHB G1 Gonzilla Estate Organic Fairtrade coffee is a speciality grade coffee grown in the Andes Mountain Range at an altitude of 1100-1800 masl. It is made with the Typica varietal and processed using the wet processing method. Enjoy a cup of this coffee for its creamy body with fruity overtones, mild acidity, spicy aromas and a good long clean finish.
+- **Description (structured data):** Speciality-grade Arabica green coffee from Peru’s Andes Mountain Range. Typica variety, Grade 1, Organic and Fairtrade certified, wet processed for a clean, creamy cup.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp`
+  - ![Peru G1 Gonzilla Estate G1 Organic](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £14.75 — SKU `—` — max **150** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1)
+  - **attribute_select: Light Roast (min 6kg per batch)** — £17.25 — SKU `—` — max **150** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1`
+    - ![attribute_select: Light Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1)
+  - **attribute_select: Medium Roast (min 6kg per batch)** — £17.25 — SKU `—` — max **150** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1`
+    - ![attribute_select: Medium Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1)
+  - **attribute_select: Dark Roast (min 6kg per batch)** — £17.25 — SKU `—` — max **150** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1`
+    - ![attribute_select: Dark Roast (min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_de90dfaffe054554b9bdfb53deb5f3fbmv2.webp?fit=315%2C315&ssl=1)
+
+### [35] Sumatra Mandheling Tekengon Triple Picked
+- **URL:** https://www.smallbatchroasting.co.uk/origin/indonesia/sumatra-mandheling-tekengon-triple-picked/
+- **Short description:** Many of the Indonesian islands were formed by volcanoes. They are therefore mountainous and have rich soil that is ideal for growing coffee. Some of the world’s famous coffees are grown on the islands of the Malay Archipelago: Sumatra, Java and Sulawesi. Approximately 15% of all the coffee grown in Indonesia is Arabica. Sumatra Mandheling coffee is grown on volcanic slopes of Mount Leuser near port Padang in the Black region (west-central Sumatra). A unique traditional Sumatran process – Giling Basah, gives the coffee a great body and flavour, garnished with herbal nuances and a spicy finish. The process involves hulling the parchment off the bean at about 50% moisture content, whereas most of other processes hull coffee at around 10-12% moisture content. This process also gives the green beans a signature dark colour. The Grade 1 – Triple-Picked is hand-picked three times for defects. This results in a very consistent cup including only cherries at optimum ripeness.
+- **Description (structured data):** Indonesian Arabica green coffee from Mandheling, Sumatra, processed using Giling Basah (wet-hulled) and triple-picked for a more consistent cup. Notes include molasses, bitter chocolate, tropical fruit, brown sugar and liquorice.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp`
+  - ![Sumatra Mandheling Tekengon Triple Picked](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp)
+- **Price tiers / variations:**
+  - **attribute_format: Green Beans** — £17.70 — SKU `—` — max **16** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1)
+  - **attribute_format: Light Roast (Min 6kg per batch)** — £20.20 — SKU `—` — max **16** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1)
+  - **attribute_format: Medium Roast (Min 6kg per batch)** — £20.20 — SKU `—` — max **16** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1)
+  - **attribute_format: Dark Roast (Min 6kg per batch)** — £20.20 — SKU `—` — max **16** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1`
+    - ![attribute_format: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/08/f46ad1_c9b9f84b845e4dd4aa72c1f14c8355camv2.webp?fit=500%2C500&ssl=1)
+
+### [36] Uganda Mt Elgon Arabica AA
+- **URL:** https://www.smallbatchroasting.co.uk/origin/uganda/uganda-mt-elgon/
+- **Short description:** Download Info Sheet This Uganda Mt Elgon is grown on rich volcanic soils on the slopes of Mt Elgon in Mbale, this Ugandan coffee is then wash processed to give it the mild but bright, clean taste typically associated with washed Arabica. With tasting notes of Mild floral and citrusy notes, strawberry jam, bright acidity and a clean aftertaste.
+- **Description (structured data):** Washed Arabica from the volcanic slopes of Mt Elgon near Mbale, Uganda. High-altitude coffee (about 1700–2200 masl) with mild floral and citrusy notes, strawberry-jam sweetness, bright acidity and a clean aftertaste. Available as green beans or via Roast For You roast profiles.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png`
+  - ![Uganda Mt Elgon Arabica AA](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £14.00 — SKU `—` — max **10** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £16.50 — SKU `—` — max **10** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £16.50 — SKU `—` — max **10** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £16.50 — SKU `—` — max **10** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/10/Screenshot-2024-10-24-112720.png?fit=408%2C426&ssl=1)
+
+### [37] Uganda Mubuku drugar fully washed
+- **URL:** https://www.smallbatchroasting.co.uk/origin/uganda/uganda-mubuku-drugar-fully-washed/
+- **Short description:** Download Info Sheet This Uganda Mubuku Drugar Fully Washed coffee is sourced from the Kasese region of Western Uganda. The coffee is grown by various smallholder farmers delivering to the Mubuku Washing Station. This coffee is grown at an altitude of 1300-2030 masl and is harvested between October and February. This fully washed coffee has a sweet and complex taste, with notes of molasses, spiced rum and cherry. Enjoy the unique flavors of this Uganda Mubuku Drugar Fully Washed coffee
+- **Description (structured data):** Fully washed Ugandan coffee from Kasese in Western Uganda, sourced from smallholder farmers delivering to Mubuku Washing Station. Grown at 1300-2030 masl with SL14 variety. Harvest October-February. Sweet and complex with notes of molasses, spiced rum and cherry.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg`
+  - ![Uganda Mubuku drugar fully washed](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £13.00 — SKU `—` — max **240** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £15.50 — SKU `—` — max **240** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £15.50 — SKU `—` — max **240** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £15.50 — SKU `—` — max **240** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_1cfbc7fcd7a64acd94931979e5a07e9cmv2-scaled.jpg?fit=600%2C450&ssl=1)
+
+### [38] Ugandan Robusta Scr 18 – Direct Trade
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/ugandan-robusta-scr-18/
+- **Short description:** Download Info Sheet High Quality Screen 18, fully washed Robusta Coffee from Uganda offers a unique taste experience with its notes of cola and black tea, direct trade through our Ugandan Coffee Partners, sourced from multiple farms in the region. Enjoy the rich and robust flavour of Ugandan coffee in every sip
+- **Description (structured data):** High quality Screen 18, fully washed Robusta coffee from Uganda with tasting notes that lean towards black tea, cola and spice. Sourced via direct trade partners from multiple farms and produced for commercial and trade use.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg`
+  - ![Ugandan Robusta Scr 18 – Direct Trade](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £9.00 — SKU `—` — max **42** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £11.50 — SKU `—` — max **42** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £11.50 — SKU `—` — max **42** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £11.50 — SKU `—` — max **42** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_efd72c5aec20490caf2c4f39d050cdeemv2.jpeg?fit=600%2C419&ssl=1)
+
+### [39] Ugandan Rwenzori – Byaruhanga Farm Robusta Scr 14+
+- **URL:** https://www.smallbatchroasting.co.uk/origin/uganda/ugandan-rwenzori-byaruhanga-farm-robusta-scr-14/
+- **Short description:** This Ugandan green coffee comes from the fertile, volcanic slopes of the Rwenzori Mountains, also known as the “Mountains of the Moon.” Grown at altitudes between 1200–1500 meters, this varietal thrives in the region’s lush microclimate, producing coffees of remarkable body and depth. Cultivated on Byaruhanga Farm under the stewardship of Dream Coffee, this lot is natural sun-dried, enhancing its bold character and amplifying its inherent nutty sweetness. The drying process infuses the beans with smoky undertones, while maintaining a clean, balanced finish, ideal for adventurous single origin roasts or as a vibrant component in espresso blends. This is a Grade Scr14+ coffee, which will have a higher quantity of defects, variation in size and uniformity, which translates into less predictable roast behavior although an all round good cup quality. Expect a bold, rich cup with layers of roasted nuts, a subtle smokiness, and a lingering finish. Best suited for medium to medium-dark roast levels, this coffee performs well in filter, French press, and pour over brew methods.
+- **Description (structured data):** Naturally sun-dried Ugandan Robusta from Byaruhanga Farm near Fort Portal in the Rwenzori foothills (1,200–1,500 masl). SL14, Screen 14+, produced by Dream Coffee. Bold, smoky and nutty with a rich body and clean finish. Suitable for specialty filter or espresso blends.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp`
+  - ![Ugandan Rwenzori – Byaruhanga Farm Robusta Scr 14+](https://www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £7.00 — SKU `—` — max **682** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £9.50 — SKU `—` — max **682** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £9.50 — SKU `—` — max **682** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £9.50 — SKU `—` — max **682** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2025/07/Byaruhanga.webp?fit=600%2C360&ssl=1)
+
+### [40] Vietnam Robusta Wet Polish Scr18 RFA
+- **URL:** https://www.smallbatchroasting.co.uk/all-products/vietnam-robusta-wet-polish-scr18-rfa/
+- **Short description:** Download Info Sheet Introducing the Vietnam Robusta Wet Polish Scr18 RFA, sourced from the Central Highland – Daklak Province, this coffee bean grows at an altitude of 800 masl. Made from the Robusta varietal, this product is screened carefully using the Scr16-18 screen size and processed using the wet polishing method. This method ensures a cleaner, purer and tastier coffee. Experience the notes of cedarwood, spicy notes and citrus buzz in every cup of this Vietnam Robusta Wet Polish Scr18 RFA.
+- **Description (structured data):** Wet-polished Robusta from Vietnam’s Central Highlands (Daklak Province), screened Scr16–18. Clean cup with cedarwood, spicy notes and citrus buzz, plus a long finish.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg`
+  - ![Vietnam Robusta Wet Polish Scr18 RFA](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £6.80 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £9.30 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £9.30 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £9.30 — SKU `—` — max **120** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/afd28f_83479152e06c42e48e5c676bc52ade40mv2.jpg?fit=600%2C310&ssl=1)
+
+### [41] Vietnam Son La G1 Arabica
+- **URL:** https://www.smallbatchroasting.co.uk/origin/vietnam/vietnam-son-la-g1-arabica/
+- **Short description:** Introducing our Vietnam G1 Arabica beans – sourced from various estates in Vietnam, these beans are of the Typica varietal and have a Scr16 grade. They are conventionally certified and polished during processing. With a medium body and dry mouthfeel, the coffee boasts notes of clove and nutmeg, low brightness, and a short, robust finish. The low acidity and smoky aroma make for a unique and satisfying cup of coffee. Try our Vietnam G1 Arabica for a taste of something new and exciting.
+- **Description (structured data):** Vietnamese Arabica from various estates in Vietnam, Typica variety, Screen 16 grade. Conventionally certified and polished during processing. Medium body with clove and nutmeg notes, low acidity and a smoky aroma. Moisture content 9.8%.
+- **Image (og:image):**
+  - `https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg`
+  - ![Vietnam Son La G1 Arabica](https://www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg)
+- **Price tiers / variations:**
+  - **attribute_select: Green Beans** — £10.90 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Green Beans](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Light Roast (Min 6kg per batch)** — £13.40 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Light Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Medium Roast (Min 6kg per batch)** — £13.40 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Medium Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1)
+  - **attribute_select: Dark Roast (Min 6kg per batch)** — £13.40 — SKU `—` — max **60** unit(s) (stock cap) — 1 kg
+    - `https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1`
+    - ![attribute_select: Dark Roast (Min 6kg per batch)](https://i0.wp.com/www.smallbatchroasting.co.uk/wp-content/uploads/2024/09/f46ad1_3c4b4135f46a4154bcc1024ec9457e5bmv2.jpg?fit=600%2C400&ssl=1)
+

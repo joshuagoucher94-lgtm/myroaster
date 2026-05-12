@@ -19,8 +19,8 @@ export default async function ShopPage() {
             White-label coffee products built around your brand.
           </h1>
           <p className="max-w-2xl text-muted-foreground">
-            Choose a coffee profile, then configure 1kg trade bags or 250g retail bags with your
-            logo, grind, label template, and quantity tier.
+            Choose a coffee profile, then pick 250g bags with a 24 bag minimum or 1kg bags with a
+            6 bag minimum. Select bag colour, then choose plain label or artwork upload.
           </p>
         </div>
       </section>
@@ -28,16 +28,16 @@ export default async function ShopPage() {
       <div className="section-shell space-y-12 pt-10">
         <section className="grid gap-5 md:grid-cols-2">
           <ProductFormat
-            title="1kg Branded Trade Bags"
-            description="For serving your own house coffee."
-            price="Trade pricing from £18/kg at 12kg."
-            badges={["Serve", "Trade", "Popular"]}
+            title="1kg Bags"
+            description="Six bag minimum for service, offices, and house coffee."
+            price="Priced from the catalogue’s 6kg fit."
+            badges={["Min 6", "Service", "Simple"]}
           />
           <ProductFormat
-            title="250g Branded Retail Bags"
-            description="Retail-ready coffee bags with your brand on the label."
-            price="From £6 per bag at 48 bags."
-            badges={["Resell", "Gift", "Retail-ready"]}
+            title="250g Bags"
+            description="Twenty-four bag minimum for shelves, gifting, and small retail runs."
+            price="Priced from the same 6kg total fit."
+            badges={["Min 24", "Retail", "Artwork ready"]}
           />
         </section>
 
@@ -59,8 +59,8 @@ export default async function ShopPage() {
           <div>
             <h2 className="text-2xl font-semibold tracking-tight">Coffee profiles</h2>
             <p className="mt-1 text-sm text-muted-foreground">
-              {catalogue.coffees.length} profiles. Each product page includes format selection,
-              live label preview, and add to cart.
+              {catalogue.coffees.length} profiles from the catalogue. Each product page keeps the
+              choice to weight, bag colour, and plain or artwork label.
             </p>
           </div>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

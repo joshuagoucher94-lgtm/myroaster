@@ -25,7 +25,7 @@ export function CoffeeProductCard({ coffee, fromPricePence }: Props) {
             src={coffee.heroImagePath}
             alt={coffee.name}
             fill
-            className="object-contain p-7 transition-transform group-hover:scale-[1.02]"
+            className="object-cover transition-transform group-hover:scale-[1.02]"
             sizes="(max-width: 768px) 100vw, 33vw"
           />
         </div>
@@ -48,9 +48,9 @@ export function CoffeeProductCard({ coffee, fromPricePence }: Props) {
         <div className="grid gap-2 rounded-2xl bg-background/45 p-3 text-sm">
           <span className="flex items-center gap-2 font-medium">
             <Boxes className="size-4 text-muted-foreground" />
-            1kg trade bags or 250g retail bags
+            250g x24 or 1kg x6
           </span>
-          <span className="text-muted-foreground">Template label included · upload your logo</span>
+          <span className="text-muted-foreground">Plain label or artwork upload</span>
         </div>
         <p className="text-sm font-semibold">
           {fromPricePence != null ? (

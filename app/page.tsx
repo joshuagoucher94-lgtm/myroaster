@@ -36,8 +36,8 @@ export default async function Home() {
               Your brand. Our roast.
             </h1>
             <p className="max-w-2xl text-lg leading-8 text-muted-foreground">
-              Order fresh-roasted 1kg trade bags or 250g retail bags with your logo on the label.
-              No setup fee. Start small, reorder easily.
+              Order fresh-roasted 250g bags from 24 units or 1kg bags from 6 units. Pick a bag
+              colour, then choose plain label or artwork.
             </p>
           </div>
           <div className="flex flex-col gap-3 sm:flex-row">

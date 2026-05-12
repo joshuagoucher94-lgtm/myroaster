@@ -104,8 +104,8 @@ export function CartPageClient() {
           <p className="text-sm font-medium uppercase tracking-[0.24em] text-muted-foreground">Cart</p>
           <h1 className="text-4xl font-semibold tracking-tight">Configured branded coffee cart</h1>
           <p className="max-w-2xl text-muted-foreground">
-            Review each product configuration. Different formats, grinds, and label setups are kept
-            as separate line items for clearer reorders.
+            Review each product configuration. Weight, bag colour, and label choice are kept as
+            separate line items for clearer reorders.
           </p>
         </div>
       </div>
@@ -123,7 +123,7 @@ export function CartPageClient() {
                     src={item.coffeeImagePath}
                     alt={item.coffeeName}
                     fill
-                    className="object-contain p-3"
+                    className="object-cover"
                     sizes="8rem"
                   />
                 </Link>
@@ -133,7 +133,7 @@ export function CartPageClient() {
                     <div className="flex flex-wrap gap-2">
                       <Badge variant="secondary">{item.roastLevel}</Badge>
                       <Badge variant="outline">{item.bagSizeLabel}</Badge>
-                      <Badge variant="outline">{item.grindName}</Badge>
+                      <Badge variant="outline">{item.labelName}</Badge>
                     </div>
                     <Link href={`/shop/coffee/${item.coffeeSlug}#customize`}>
                       <h2 className="mt-3 text-xl font-semibold tracking-tight hover:underline">
@@ -146,11 +146,10 @@ export function CartPageClient() {
                   </div>
 
                   <div className="grid gap-3 text-sm sm:grid-cols-2">
-                    <CartDetail label="Brand" value={item.brandName || "Not set"} />
-                    <CartDetail label="Label title" value={item.labelTitle} />
+                    <CartDetail label="Bag colour" value={item.bagName} />
+                    <CartDetail label="Label" value={item.labelName} />
                     <CartDetail label="Artwork" value={item.artworkFileName || "Not selected"} />
                     <CartDetail label="Unit price" value={formatMoney(item.unitAmountPence)} />
-                    <CartDetail label="Setup fee" value={formatMoney(item.setupFeePence)} />
                   </div>
                   {item.productionNotes ? (
                     <p className="soft-inset rounded-2xl p-3 text-sm text-muted-foreground">
