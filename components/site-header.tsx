@@ -4,12 +4,11 @@ import { CartLink } from "@/components/cart/cart-link";
 import { Button } from "@/components/ui/button";
 
 const primaryLinks = [
-  { href: "/shop/category/blends", label: "Blends" },
-  { href: "/shop/category/single-origin", label: "Single Origins" },
-  { href: "/shop", label: "Anciliaries" },
-  { href: "/shop", label: "Equipment" },
-  { href: "/#how-it-works", label: "How It Works" },
-  { href: "/#about", label: "About" },
+  { href: "/shop", label: "Shop all" },
+  { href: "/shop/category/blends", label: "House picks" },
+  { href: "/shop/category/single-origin", label: "Single origins" },
+  { href: "/shop/category/decaf", label: "Decaf" },
+  { href: "/#how-it-works", label: "How it works" },
 ] as const;
 
 export function SiteHeader() {

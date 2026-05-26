@@ -7,13 +7,13 @@ export type ShopCategory = {
 export const SHOP_CATEGORIES: ShopCategory[] = [
   {
     slug: "blends",
-    name: "Blends & house coffees",
-    description: "Consistent profiles for espresso, batch brew, and everyday service.",
+    name: "House picks",
+    description: "Reliable catalogue coffees for simple everyday service and retail.",
   },
   {
     slug: "single-origin",
     name: "Single origins",
-    description: "Named lots with clearer provenance for shelves and menus.",
+    description: "Named origins and producer lots for shelves, menus, and gifting.",
   },
   {
     slug: "decaf",
@@ -22,13 +22,13 @@ export const SHOP_CATEGORIES: ShopCategory[] = [
   },
   {
     slug: "dark-roast",
-    name: "Dark & omni roasts",
-    description: "Bold roasts for milk-forward drinks and classic cafe customers.",
+    name: "Bold coffees",
+    description: "Robusta and lower-acidity options for classic, milk-friendly profiles.",
   },
   {
     slug: "samples",
-    name: "Samples & trial packs",
-    description: "Smaller runs to taste before you commit to a white-label line.",
+    name: "Subscriptions",
+    description: "Rotating origin options for simple recurring coffee supply.",
   },
 ];
 

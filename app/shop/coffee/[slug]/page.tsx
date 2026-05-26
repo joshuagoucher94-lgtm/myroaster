@@ -70,32 +70,30 @@ export default async function CoffeeProductPage({ params }: Props) {
 
       <section className="section-shell grid gap-6 pb-10 lg:grid-cols-[minmax(0,1.25fr)_minmax(18rem,0.75fr)]">
         <div className="grid gap-6">
-          <InfoCard title="Product description" body={coffee.description} />
-          <InfoCard title="Tasting notes" body={coffee.tastingNotes.join(" · ")} />
+          <InfoCard title="Coffee story" body={coffee.description} />
+          {coffee.tastingNotes.length ? <InfoCard title="Tasting notes" body={coffee.tastingNotes.join(" · ")} /> : null}
           <InfoCard
-            title="What you’re ordering"
+            title="Customization"
             body="Choose 250g bags with a 24 bag minimum or 1kg bags with a 6 bag minimum. Pick a bag colour, then choose a plain label or upload artwork."
           />
           {coffee.sourceName && coffee.sourceUrl ? <SourceCard name={coffee.sourceName} url={coffee.sourceUrl} /> : null}
         </div>
-        <Card className="soft-panel-sm rounded-[1.5rem]">
+        <Card className="rounded-lg border-border/80 shadow-none">
           <CardContent className="space-y-5 p-5">
             <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-muted-foreground">
-                Buying info
-              </p>
-              <h2 className="mt-2 text-xl font-semibold tracking-tight">Why it feels familiar</h2>
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-muted-foreground">Buying info</p>
+              <h2 className="mt-2 text-xl font-semibold tracking-tight">Simple ecommerce flow</h2>
             </div>
             <div className="space-y-4 text-sm">
               <FeatureRow
                 icon={<Check className="size-4" />}
-                title="Standard product flow"
-                body="Gallery first, core product details at the top, then all supporting information below."
+                title="Choose options"
+                body="Select size, bag colour, and label type before adding to cart."
               />
               <FeatureRow
                 icon={<Truck className="size-4" />}
-                title="Six kilo pricing fit"
-                body="The 250g and 1kg minimums both map to 6kg total coffee, so pricing stays consistent."
+                title="Six kilo minimum"
+                body="Choose 24 x 250g bags or 6 x 1kg bags."
               />
               <FeatureRow
                 icon={<ShieldCheck className="size-4" />}
@@ -103,7 +101,7 @@ export default async function CoffeeProductPage({ params }: Props) {
                 body="Use the product plain, or add artwork only when the file is ready."
               />
             </div>
-            <div className="rounded-2xl border border-border/70 bg-background/70 p-4">
+            <div className="rounded-lg border border-border bg-background p-4">
               <p className="text-sm text-muted-foreground">Starting from</p>
               <p className="mt-1 text-2xl font-semibold tracking-tight">
                 {fromPrice != null ? formatMoney(fromPrice) : "On request"}
@@ -122,7 +120,7 @@ export default async function CoffeeProductPage({ params }: Props) {
 
 function InfoCard({ title, body }: { title: string; body: string }) {
   return (
-    <Card className="soft-panel-sm rounded-[1.5rem]">
+    <Card className="rounded-lg border-border/80 shadow-none">
       <CardContent className="p-5">
         <h2 className="font-semibold">{title}</h2>
         <p className="mt-2 break-words text-sm leading-6 text-muted-foreground">{body}</p>
@@ -133,7 +131,7 @@ function InfoCard({ title, body }: { title: string; body: string }) {
 
 function SourceCard({ name, url }: { name: string; url: string }) {
   return (
-    <Card className="soft-panel-sm rounded-[1.5rem]">
+    <Card className="rounded-lg border-border/80 shadow-none">
       <CardContent className="flex flex-col gap-4 p-5 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h2 className="font-semibold">Catalogue source</h2>
@@ -161,7 +159,7 @@ function FeatureRow({
 }) {
   return (
     <div className="flex gap-3">
-      <span className="soft-inset flex size-9 shrink-0 items-center justify-center rounded-full">{icon}</span>
+      <span className="flex size-9 shrink-0 items-center justify-center rounded-lg bg-muted">{icon}</span>
       <div>
         <h3 className="font-medium">{title}</h3>
         <p className="mt-1 leading-6 text-muted-foreground">{body}</p>

@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Check, FileUp, ShoppingCart } from "lucide-react";
+import { Check, FileUp, Package, ShoppingCart } from "lucide-react";
 import { useMemo, useState } from "react";
 
 import { useCart } from "@/components/cart/cart-provider";
@@ -137,43 +137,64 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
   }
 
   return (
-    <div className="grid gap-8 lg:grid-cols-[minmax(0,1.1fr)_minmax(24rem,0.82fr)] xl:gap-10">
+    <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(23rem,0.62fr)] xl:gap-10">
       <div className="space-y-4">
-        <Card className="soft-panel overflow-hidden rounded-[1.75rem]">
-          <CardContent className="p-4 sm:p-6">
-            <div className="soft-inset relative aspect-square rounded-[1.5rem]">
-              {bag ? (
-                <Image
-                  src={bag.mockupAssetPath}
-                  alt={`${bag.name} coffee bag`}
-                  fill
-                  priority
-                  className="object-contain p-8 sm:p-10"
-                  sizes="(max-width: 1024px) 100vw, 52vw"
-                />
-              ) : null}
-
-              {labelMode === "artwork" && artworkPreview ? (
-                <div className="absolute left-[34%] top-[30%] h-[35%] w-[30%] overflow-hidden rounded-xl border border-foreground/10 bg-[#f8f7f2]">
-                  <Image
-                    src={artworkPreview}
-                    alt="Selected artwork preview"
-                    fill
-                    className="object-cover"
-                    sizes="10rem"
-                    unoptimized
-                  />
-                </div>
-              ) : null}
+        <Card className="overflow-hidden rounded-lg border-border/80 shadow-none">
+          <CardContent className="p-0">
+            <div className="relative aspect-[4/3] bg-muted">
+              <Image
+                src={coffee.heroImagePath}
+                alt={coffee.name}
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 58vw"
+              />
             </div>
           </CardContent>
         </Card>
+        <div className="grid gap-4 sm:grid-cols-[9rem_1fr]">
+          <div className="relative h-36 w-36 rounded-lg border border-border bg-card">
+            {bag ? (
+              <Image
+                src={bag.mockupAssetPath}
+                alt={`${bag.name} coffee bag`}
+                fill
+                className="object-contain p-4"
+                sizes="9rem"
+              />
+            ) : null}
+            {labelMode === "artwork" && artworkPreview ? (
+              <div className="absolute left-[34%] top-[31%] h-[32%] w-[31%] overflow-hidden rounded border border-foreground/10 bg-[#f8f7f2]">
+                <Image
+                  src={artworkPreview}
+                  alt="Selected artwork preview"
+                  fill
+                  className="object-cover"
+                  sizes="5rem"
+                  unoptimized
+                />
+              </div>
+            ) : null}
+          </div>
+          <div className="rounded-lg border border-border bg-card p-4">
+            <p className="text-sm font-semibold">Custom bag preview</p>
+            <p className="mt-1 text-sm leading-6 text-muted-foreground">
+              Your selected bag colour and label option are applied after you choose options.
+            </p>
+          </div>
+        </div>
       </div>
 
       <aside className="lg:sticky lg:top-24 lg:self-start">
-        <Card className="soft-panel-sm rounded-[1.5rem]">
+        <Card className="rounded-lg border-border/80 shadow-none">
           <CardContent className="space-y-6 p-5 sm:p-6">
             <div>
+              <div className="mb-3 flex flex-wrap gap-2 text-xs font-medium text-muted-foreground">
+                <span>{coffee.originType}</span>
+                <span aria-hidden="true">/</span>
+                <span>{coffee.roastLevel}</span>
+              </div>
               <h1 className="text-3xl font-semibold tracking-tight">{coffee.name}</h1>
               <p className="mt-2 text-sm text-muted-foreground">{coffee.subtitle}</p>
             </div>
@@ -184,13 +205,13 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
                 <OptionButton
                   active={weight === "250g"}
                   title="250g"
-                  subtitle="Min 24"
+                  subtitle="24 bags"
                   onClick={() => setWeight("250g")}
                 />
                 <OptionButton
                   active={weight === "1kg"}
                   title="1kg"
-                  subtitle="Min 6"
+                  subtitle="6 bags"
                   onClick={() => setWeight("1kg")}
                 />
               </div>
@@ -204,12 +225,12 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
                     key={item.id}
                     type="button"
                     onClick={() => setBagOptionId(item.id)}
-                    className={`rounded-2xl border p-3 text-left transition ${
-                      bagOptionId === item.id ? "soft-inset border-primary/35" : "bg-background/75 hover:border-foreground/20"
+                    className={`rounded-lg border p-3 text-left transition ${
+                      bagOptionId === item.id ? "border-primary bg-secondary" : "bg-background hover:border-foreground/20"
                     }`}
                   >
                     <span
-                      className="mb-3 block size-9 rounded-full border border-foreground/10"
+                      className="mb-3 block size-9 rounded border border-foreground/10"
                       style={{ backgroundColor: item.colour }}
                       aria-hidden="true"
                     />
@@ -225,7 +246,7 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
                 <OptionButton
                   active={labelMode === "plain"}
                   title="Plain"
-                  subtitle="No artwork upload"
+                  subtitle="Default label"
                   onClick={() => {
                     setLabelMode("plain");
                     clearArtwork();
@@ -240,7 +261,7 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
               </div>
 
               {labelMode === "artwork" ? (
-                <div className="rounded-[1.25rem] border border-dashed border-foreground/20 bg-background/60 p-4">
+                <div className="rounded-lg border border-dashed border-foreground/20 bg-background p-4">
                   <Label htmlFor="artwork" className="flex cursor-pointer flex-col items-center justify-center text-center">
                     <FileUp className="mb-2 size-5 text-muted-foreground" />
                     <span className="font-semibold">Upload artwork</span>
@@ -259,7 +280,7 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
               ) : null}
             </div>
 
-            <div className="rounded-2xl border border-border/70 bg-background/75 p-4">
+            <div className="rounded-lg border border-border bg-background p-4">
               <div className="flex items-center justify-between gap-4">
                 <div>
                   <p className="text-sm text-muted-foreground">Total</p>
@@ -279,9 +300,13 @@ export function ProductCustomizer({ catalogue, coffee }: Props) {
               <ShoppingCart className="size-4" />
               Add to cart
             </Button>
+            <div className="flex items-start gap-3 rounded-lg bg-muted p-3 text-sm text-muted-foreground">
+              <Package className="mt-0.5 size-4 shrink-0" />
+              <p>Roasted, packed, and labelled to order. The coffee details and story are below.</p>
+            </div>
 
             {addedItemId ? (
-              <div className="rounded-2xl border border-accent/40 bg-accent/15 p-3 text-sm">
+              <div className="rounded-lg border border-accent/40 bg-accent/15 p-3 text-sm">
                 <div className="flex items-center gap-2 font-medium">
                   <Check className="size-4" />
                   Added to cart
@@ -318,8 +343,8 @@ function OptionButton({
     <button
       type="button"
       onClick={onClick}
-      className={`rounded-2xl border p-4 text-left transition ${
-        active ? "soft-inset border-primary/35" : "bg-background/75 hover:border-foreground/20"
+      className={`rounded-lg border p-4 text-left transition ${
+        active ? "border-primary bg-secondary" : "bg-background hover:border-foreground/20"
       }`}
     >
       <span className="block text-sm font-semibold">{title}</span>
